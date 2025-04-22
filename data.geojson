@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99501",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8631, 61.2181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99502",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8632, 61.2182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99503",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8633, 61.2183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99504",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8634, 61.2184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99507",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8635, 61.2185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99508",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8636, 61.2186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99515",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8637, 61.2187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99517",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8638, 61.2188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99518",
+        "State": "AK",
+        "Territory_ID": "AK-T01",
+        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
+        "Total_Population": 190000,
+        "Major_Cities": "Anchorage",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.8639, 61.2189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "99505",
+        "State": "AK",
+        "Territory_ID": "AK-T02",
+        "Group_of_ZIP_Codes": "99505, 99506, 99510, 99513, 99516, 99540, 99567, 99577, 99587",
+        "Total_Population": 185000,
+        "Major_Cities": "Anchorage (Eagle River), Wasilla",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.6972, 61.2591]
+      }
+    }
+  ]
+}
