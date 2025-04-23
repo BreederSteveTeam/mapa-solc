@@ -216,7 +216,7 @@
       "properties": {
         "Territory_ID": "CA-T006",
         "State": "CA",
-        "Group_of_ZIP_Codes": "92101, 92102, 92103, 92104",
+        "Group_of_ZIP_Codes": "92101, 92102,  Slash, 92104",
         "Total_Population": 200000,
         "Major_Cities": "San Diego (Central)",
         "Cannabis_Friendly": "✅"
@@ -225,6 +225,34 @@
         "type": "Point",
         "coordinates": [-117.1611, 32.7157]
       }
-    }
-  ]
-}  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T007",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "92105, 92106, 92107, 92108",
+        "Total_Population": 199000,
+        "Major_Cities": "San Diego (East)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0811, 32.7157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CO-T01",
+        "State": "CO",
+        "Group_of_ZIP_Codes": "80202, 80203, 80204, 80205",
+        "Total_Population": 198000,
+        "Major_Cities": "Denver (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.9903, 39.7392]
+      }
+    },
