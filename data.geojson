@@ -465,6 +465,231 @@
         "type": "Point",
         "coordinates": [-123.0868, 44.0521]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NV-T01",
+        "State": "NV",
+        "Group_of_ZIP_Codes": "89101, 89102, 89103, 89104",
+        "Total_Population": 208000,
+        "Major_Cities": "Las Vegas (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.1398, 36.1699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NV-T02",
+        "State": "NV",
+        "Group_of_ZIP_Codes": "89501, 89502, 89503, 89504",
+        "Total_Population": 207000,
+        "Major_Cities": "Reno",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.8138, 39.5296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MA-T01",
+        "State": "MA",
+        "Group_of_ZIP_Codes": "02108, 02109, 02110, 02111",
+        "Total_Population": 206000,
+        "Major_Cities": "Boston (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0589, 42.3601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MA-T02",
+        "State": "MA",
+        "Group_of_ZIP_Codes": "02138, 02139, 02140, 02141",
+        "Total_Population": 205000,
+        "Major_Cities": "Cambridge",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1190, 42.3736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "PA-T01",
+        "State": "PA",
+        "Group_of_ZIP_Codes": "19102, 19103, 19104, 19106",
+        "Total_Population": 204000,
+        "Major_Cities": "Philadelphia (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1652, 39.9526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "PA-T02",
+        "State": "PA",
+        "Group_of_ZIP_Codes": "15201, 15203, 15206, 15208",
+        "Total_Population": 203000,
+        "Major_Cities": "Pittsburgh",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9959, 40.4406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MI-T01",
+        "State": "MI",
+        "Group_of_ZIP_Codes": "48201, 48202, 48204, 48205",
+        "Total_Population": 202000,
+        "Major_Cities": "Detroit (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0458, 42.3314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MI-T02",
+        "State": "MI",
+        "Group_of_ZIP_Codes": "49503, 49504, 49505, 49506",
+        "Total_Population": 201000,
+        "Major_Cities": "Grand Rapids",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6681, 42.9634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T06",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85709, 85710, 85711, 85712, 85713",
+        "Total_Population": 194000,
+        "Major_Cities": "Tucson (East)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.8465, 32.2217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T07",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85201, 85202, 85203, 85204, 85205",
+        "Total_Population": 193000,
+        "Major_Cities": "Mesa",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8315, 33.4152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T008",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "94601, 94602, 94603, 94605",
+        "Total_Population": 198000,
+        "Major_Cities": "Oakland",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2711, 37.8044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T009",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "95811, 95814, 95815, 95816",
+        "Total_Population": 197000,
+        "Major_Cities": "Sacramento (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.4944, 38.5816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CO-T04",
+        "State": "CO",
+        "Group_of_ZIP_Codes": "80901, 80903, 80904, 80905",
+        "Total_Population": 195000,
+        "Major_Cities": "Colorado Springs",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.8214, 38.8339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T04",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "33602, 33603, 33604, 33605",
+        "Total_Population": 207000,
+        "Major_Cities": "Tampa (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4572, 27.9506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "IL-T03",
+        "State": "IL",
+        "Group_of_ZIP_Codes": "61602, 61603, 61604, 61605",
+        "Total_Population": 213000,
+        "Major_Cities": "Peoria",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.5928, 40.6919]
+      }
     }
   ]
 }
