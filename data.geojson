@@ -690,6 +690,194 @@
         "type": "Point",
         "coordinates": [-89.5928, 40.6919]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T03",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "11201, 11203, 11204, 11205",
+        "Total_Population": 218000,
+        "Major_Cities": "New York City (Brooklyn)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9442, 40.6782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T04",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "14201, 14202, 14203, 14204",
+        "Total_Population": 217000,
+        "Major_Cities": "Buffalo",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8784, 42.8864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "WA-T04",
+        "State": "WA",
+        "Group_of_ZIP_Codes": "98402, 98403, 98404, 98405",
+        "Total_Population": 210000,
+        "Major_Cities": "Tacoma",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4443, 47.2529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "OR-T03",
+        "State": "OR",
+        "Group_of_ZIP_Codes": "97301, 97302, 97303, 97304",
+        "Total_Population": 208000,
+        "Major_Cities": "Salem",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.0351, 44.9429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NV-T03",
+        "State": "NV",
+        "Group_of_ZIP_Codes": "89030, 89031, 89032, 89033",
+        "Total_Population": 206000,
+        "Major_Cities": "North Las Vegas",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.1175, 36.1989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MA-T03",
+        "State": "MA",
+        "Group_of_ZIP_Codes": "01602, 01603, 01604, 01605",
+        "Total_Population": 204000,
+        "Major_Cities": "Worcester",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8023, 42.2626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "PA-T03",
+        "State": "PA",
+        "Group_of_ZIP_Codes": "18101, 18102, 18103, 18104",
+        "Total_Population": 202000,
+        "Major_Cities": "Allentown",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.4699, 40.6023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MI-T03",
+        "State": "MI",
+        "Group_of_ZIP_Codes": "48103, 48104, 48105, 48106",
+        "Total_Population": 200000,
+        "Major_Cities": "Ann Arbor",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.7263, 42.2808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "ME-T01",
+        "State": "ME",
+        "Group_of_ZIP_Codes": "04101, 04102, 04103, 04104",
+        "Total_Population": 199000,
+        "Major_Cities": "Portland",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.2553, 43.6615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "VT-T01",
+        "State": "VT",
+        "Group_of_ZIP_Codes": "05401, 05402, 05403, 05404",
+        "Total_Population": 198000,
+        "Major_Cities": "Burlington",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.2121, 44.4759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "RI-T01",
+        "State": "RI",
+        "Group_of_ZIP_Codes": "02903, 02904, 02905, 02906",
+        "Total_Population": 197000,
+        "Major_Cities": "Providence",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.4128, 41.8240]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CT-T01",
+        "State": "CT",
+        "Group_of_ZIP_Codes": "06101, 06103, 06105, 06106",
+        "Total_Population": 196000,
+        "Major_Cities": "Hartford",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.6751, 41.7658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NJ-T01",
+        "State": "NJ",
+        "Group_of_ZIP_Codes": "07102, 07103, 07104, 07105",
+        "Total_Population": 215000,
+        "Major
   ]
 }
