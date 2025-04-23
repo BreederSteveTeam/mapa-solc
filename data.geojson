@@ -256,3 +256,215 @@
         "coordinates": [-104.9903, 39.7392]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CO-T02",
+        "State": "CO",
+        "Group_of_ZIP_Codes": "80206, 80207, 80209, 80210",
+        "Total_Population": 197000,
+        "Major_Cities": "Denver (East)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.9103, 39.7392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CO-T03",
+        "State": "CO",
+        "Group_of_ZIP_Codes": "80301, 80302, 80303, 80304",
+        "Total_Population": 196000,
+        "Major_Cities": "Boulder",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.2705, 40.0150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T01",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "33101, 33129, 33130, 33131",
+        "Total_Population": 210000,
+        "Major_Cities": "Miami (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1918, 25.7617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T02",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "33132, 33133, 33134, 33135",
+        "Total_Population": 209000,
+        "Major_Cities": "Miami (Coral Gables)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2418, 25.7317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T03",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "32801, 32802, 32803, 32804",
+        "Total_Population": 208000,
+        "Major_Cities": "Orlando (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792, 28.5383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "IL-T01",
+        "State": "IL",
+        "Group_of_ZIP_Codes": "60601, 60602, 60603, 60604",
+        "Total_Population": 215000,
+        "Major_Cities": "Chicago (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "IL-T02",
+        "State": "IL",
+        "Group_of_ZIP_Codes": "60605, 60606, 60607, 60608",
+        "Total_Population": 214000,
+        "Major_Cities": "Chicago (South Loop)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T01",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "10001, 10002, 10003, 10004",
+        "Total_Population": 220000,
+        "Major_Cities": "New York City (Manhattan - Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9352, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T02",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "10005, 10006, 10007, 10009",
+        "Total_Population": 219000,
+        "Major_Cities": "New York City (Manhattan - Midtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9852, 40.7428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "WA-T01",
+        "State": "WA",
+        "Group_of_ZIP_Codes": "98101, 98102, 98103, 98104",
+        "Total_Population": 213000,
+        "Major_Cities": "Seattle (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3321, 47.6062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "WA-T02",
+        "State": "WA",
+        "Group_of_ZIP_Codes": "98105, 98106, 98107, 98108",
+        "Total_Population": 212000,
+        "Major_Cities": "Seattle (North)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3321, 47.6562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "WA-T03",
+        "State": "WA",
+        "Group_of_ZIP_Codes": "99201, 99202, 99203, 99204",
+        "Total_Population": 211000,
+        "Major_Cities": "Spokane",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.4260, 47.6588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "OR-T01",
+        "State": "OR",
+        "Group_of_ZIP_Codes": "97201, 97202, 97203, 97204",
+        "Total_Population": 210000,
+        "Major_Cities": "Portland (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6765, 45.5231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "OR-T02",
+        "State": "OR",
+        "Group_of_ZIP_Codes": "97401, 97402, 97403, 97404",
+        "Total_Population": 209000,
+        "Major_Cities": "Eugene",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.0868, 44.0521]
+      }
+    }
+  ]
+}
