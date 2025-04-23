@@ -58,7 +58,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-134.4097, 58.2919]
+        "coordinates": [-134.4000, 58.2800]
       }
     },
     {
@@ -74,6 +74,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-112.0740, 33.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T02",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85009, 85012, 85013, 85014, 85015",
+        "Total_Population": 203000,
+        "Major_Cities": "Phoenix (North)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740, 33.5084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T03",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85016, 85017, 85018, 85019, 85020",
+        "Total_Population": 202000,
+        "Major_Cities": "Phoenix (East)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9940, 33.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T001",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90001, 90002, 90003, 90007",
+        "Total_Population": 204000,
+        "Major_Cities": "Los Angeles (South)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 33.9500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T002",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90004, 90005, 90006, 90008",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Central)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3080, 34.0616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T003",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90009, 90010, 90011, 90012",
+        "Total_Population": 202000,
+        "Major_Cities": "Los Angeles (West)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4000, 34.0500]
       }
     }
   ]
