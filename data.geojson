@@ -30,6 +30,51 @@
         "type": "Point",
         "coordinates": [-149.6972, 61.2591]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AK-T03",
+        "State": "AK",
+        "Group_of_ZIP_Codes": "99701, 99703, 99705, 99709, 99712, 99645, 99654",
+        "Total_Population": 180000,
+        "Major_Cities": "Fairbanks, Palmer",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.7164, 64.8378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AK-T04",
+        "State": "AK",
+        "Group_of_ZIP_Codes": "99801, 99824, 99901, 99921, 99925, 99611, 99615, 99623, 99669",
+        "Total_Population": 178000,
+        "Major_Cities": "Juneau, Ketchikan, Kenai",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-134.4197, 58.3019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T01",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85003, 85004, 85006, 85007, 85008",
+        "Total_Population": 204000,
+        "Major_Cities": "Phoenix (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740, 33.4484]
+      }
     }
   ]
 }
