@@ -36,4 +36,195 @@
       "properties": {
         "Territory_ID": "AK-T03",
         "State": "AK",
-        "Group_of_ZIP_Codes": "99701, 99703, 99705, 99709, 99712, 99645
+        "Group_of_ZIP_Codes": "99701, 99703, 99705, 99709, 99712, 99645, 99654",
+        "Total_Population": 180000,
+        "Major_Cities": "Fairbanks, Palmer",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.7164, 64.8378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AK-T04",
+        "State": "AK",
+        "Group_of_ZIP_Codes": "99801, 99824, 99901, 99921, 99925, 99611, 99615, 99623, 99669",
+        "Total_Population": 178000,
+        "Major_Cities": "Juneau, Ketchikan, Kenai",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-134.3800, 58.2600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T01",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85003, 85004, 85006, 85007, 85008",
+        "Total_Population": 204000,
+        "Major_Cities": "Phoenix (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740, 33.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T02",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85009, 85012, 85013, 85014, 85015",
+        "Total_Population": 203000,
+        "Major_Cities": "Phoenix (North)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740, 33.5084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T03",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85016, 85017, 85018, 85019, 85020",
+        "Total_Population": 202000,
+        "Major_Cities": "Phoenix (East)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9940, 33.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T04",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85021, 85022, 85023, 85024, 85027",
+        "Total_Population": 201000,
+        "Major_Cities": "Phoenix (Northeast)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0240, 33.5684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "AZ-T05",
+        "State": "AZ",
+        "Group_of_ZIP_Codes": "85701, 85705, 85706, 85707, 85708",
+        "Total_Population": 195000,
+        "Major_Cities": "Tucson (Central)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.9265, 32.2217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T001",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90001, 90002, 90003, 90007",
+        "Total_Population": 204000,
+        "Major_Cities": "Los Angeles (South)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 33.9500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T002",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90004, 90005, 90006, 90008",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Central)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3080, 34.0616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T003",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90009, 90010, 90011, 90012",
+        "Total_Population": 202000,
+        "Major_Cities": "Los Angeles (West)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4000, 34.0500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T004",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "90013, 90014, 90015, 90016",
+        "Total_Population": 201000,
+        "Major_Cities": "Los Angeles (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2520, 34.0400]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T005",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "94102, 94103, 94104, 94105",
+        "Total_Population": 205000,
+        "Major_Cities": "San Francisco (Downtown)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T006",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "92101, 92102, 92103, 92104",
+        "Total_Population": 200000,
+        "Major_Cities": "San Diego (Central)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1611, 32.7157]
+      }
+    }
+  ]
+}  
