@@ -2175,6 +2175,156 @@
         "type": "Point",
         "coordinates": [-77.0469, 38.9272]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T025",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "93030, 93031, 93032, 93033",
+        "Total_Population": 181000,
+        "Major_Cities": "Oxnard",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.1771, 34.1975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T026",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "92401, 92402, 92403, 92404",
+        "Total_Population": 180000,
+        "Major_Cities": "San Bernardino",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2898, 34.1083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "CA-T027",
+        "State": "CA",
+        "Group_of_ZIP_Codes": "93001, 93002, 93003, 93004",
+        "Total_Population": 179000,
+        "Major_Cities": "Ventura",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.2972, 34.2805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T10",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "11550, 11551, 11552, 11553",
+        "Total_Population": 211000,
+        "Major_Cities": "Hempstead (Long Island)",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6170, 40.7062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "NY-T11",
+        "State": "NY",
+        "Group_of_ZIP_Codes": "13501, 13502, 13503, 13504",
+        "Total_Population": 210000,
+        "Major_Cities": "Utica",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2327, 43.1009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T10",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "33901, 33902, 33903, 33904",
+        "Total_Population": 201000,
+        "Major_Cities": "Cape Coral",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.9795, 26.6406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "FL-T11",
+        "State": "FL",
+        "Group_of_ZIP_Codes": "32301, 32302, 32303, 32304",
+        "Total_Population": 200000,
+        "Major_Cities": "Tallahassee",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.2807, 30.4383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "IL-T07",
+        "State": "IL",
+        "Group_of_ZIP_Codes": "60502, 60503, 60504, 60505",
+        "Total_Population": 209000,
+        "Major_Cities": "Aurora",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.3201, 41.7606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "OH-T04",
+        "State": "OH",
+        "Group_of_ZIP_Codes": "43601, 43602, 43603, 43604",
+        "Total_Population": 182000,
+        "Major_Cities": "Toledo",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.5379, 41.6528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Territory_ID": "MN-T04",
+        "State": "MN",
+        "Group_of_ZIP_Codes": "55901, 55902, 55903, 55904",
+        "Total_Population": 185000,
+        "Major_Cities": "Rochester",
+        "Cannabis_Friendly": "✅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.4630, 44.0216]
+      }
     }
   ]
 }
