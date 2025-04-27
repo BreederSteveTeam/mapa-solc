@@ -5,876 +5,588 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4194, 37.7749]
+        "coordinates": [-80.1496, 25.7905]
       },
       "properties": {
-        "Territory_ID": "CA-T025",
-        "Primer_ZIP_Code": "94102",
-        "Group_of_ZIP_Codes": "94102, 94103, 94104"
+        "Territory_ID": "FL-T001",
+        "Primer_ZIP_Code": "33101",
+        "Group_of_ZIP_Codes": "33101, 33109, 33129"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4312, 37.7832]
+        "coordinates": [-80.2153, 25.7839]
       },
       "properties": {
-        "Territory_ID": "CA-T026",
-        "Primer_ZIP_Code": "94105",
-        "Group_of_ZIP_Codes": "94105, 94107, 94108"
+        "Territory_ID": "FL-T002",
+        "Primer_ZIP_Code": "33125",
+        "Group_of_ZIP_Codes": "33125, 33127, 33128"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3968, 37.7946]
+        "coordinates": [-80.1902, 25.7641]
       },
       "properties": {
-        "Territory_ID": "CA-T027",
-        "Primer_ZIP_Code": "94109",
-        "Group_of_ZIP_Codes": "94109, 94110, 94111"
+        "Territory_ID": "FL-T003",
+        "Primer_ZIP_Code": "33130",
+        "Group_of_ZIP_Codes": "33130, 33131, 33132"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4095, 37.7599]
+        "coordinates": [-80.1853, 25.8483]
       },
       "properties": {
-        "Territory_ID": "CA-T028",
-        "Primer_ZIP_Code": "94112",
-        "Group_of_ZIP_Codes": "94112, 94114, 94115"
+        "Territory_ID": "FL-T004",
+        "Primer_ZIP_Code": "33133",
+        "Group_of_ZIP_Codes": "33133, 33134, 33135"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4467, 37.7535]
+        "coordinates": [-80.2259, 25.9089]
       },
       "properties": {
-        "Territory_ID": "CA-T029",
-        "Primer_ZIP_Code": "94116",
-        "Group_of_ZIP_Codes": "94116, 94117, 94118"
+        "Territory_ID": "FL-T005",
+        "Primer_ZIP_Code": "33136",
+        "Group_of_ZIP_Codes": "33136, 33137, 33138"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4783, 37.7793]
+        "coordinates": [-80.1762, 25.7314]
       },
       "properties": {
-        "Territory_ID": "CA-T030",
-        "Primer_ZIP_Code": "94121",
-        "Group_of_ZIP_Codes": "94121, 94122, 94123"
+        "Territory_ID": "FL-T006",
+        "Primer_ZIP_Code": "33139",
+        "Group_of_ZIP_Codes": "33139, 33140, 33141"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3908, 37.7324]
+        "coordinates": [-80.2370, 25.8584]
       },
       "properties": {
-        "Territory_ID": "CA-T031",
-        "Primer_ZIP_Code": "94124",
-        "Group_of_ZIP_Codes": "94124, 94127, 94129"
+        "Territory_ID": "FL-T007",
+        "Primer_ZIP_Code": "33142",
+        "Group_of_ZIP_Codes": "33142, 33147, 33150"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4349, 37.7345]
+        "coordinates": [-80.2580, 25.7751]
       },
       "properties": {
-        "Territory_ID": "CA-T032",
-        "Primer_ZIP_Code": "94131",
-        "Group_of_ZIP_Codes": "94131, 94132, 94133"
+        "Territory_ID": "FL-T008",
+        "Primer_ZIP_Code": "33143",
+        "Group_of_ZIP_Codes": "33143, 33146, 33155"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4842, 37.7351]
+        "coordinates": [-80.2793, 25.8185]
       },
       "properties": {
-        "Territory_ID": "CA-T033",
-        "Primer_ZIP_Code": "94134",
-        "Group_of_ZIP_Codes": "94134, 94143"
+        "Territory_ID": "FL-T009",
+        "Primer_ZIP_Code": "33144",
+        "Group_of_ZIP_Codes": "33144, 33145, 33165"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2711, 37.8044]
+        "coordinates": [-80.1948, 25.9489]
       },
       "properties": {
-        "Territory_ID": "CA-T034",
-        "Primer_ZIP_Code": "94601",
-        "Group_of_ZIP_Codes": "94601, 94602, 94603"
+        "Territory_ID": "FL-T010",
+        "Primer_ZIP_Code": "33161",
+        "Group_of_ZIP_Codes": "33161, 33162, 33167"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2247, 37.8115]
+        "coordinates": [-80.2262, 25.9832]
       },
       "properties": {
-        "Territory_ID": "CA-T035",
-        "Primer_ZIP_Code": "94605",
-        "Group_of_ZIP_Codes": "94605, 94606, 94607"
+        "Territory_ID": "FL-T011",
+        "Primer_ZIP_Code": "33168",
+        "Group_of_ZIP_Codes": "33168, 33169, 33181"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2585, 37.8732]
+        "coordinates": [-80.3163, 25.8905]
       },
       "properties": {
-        "Territory_ID": "CA-T036",
-        "Primer_ZIP_Code": "94609",
-        "Group_of_ZIP_Codes": "94609, 94610, 94611"
+        "Territory_ID": "FL-T012",
+        "Primer_ZIP_Code": "33172",
+        "Group_of_ZIP_Codes": "33172, 33174, 33182"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.1918, 37.7668]
+        "coordinates": [-80.3557, 25.7565]
       },
       "properties": {
-        "Territory_ID": "CA-T037",
-        "Primer_ZIP_Code": "94612",
-        "Group_of_ZIP_Codes": "94612, 94613, 94619"
+        "Territory_ID": "FL-T013",
+        "Primer_ZIP_Code": "33173",
+        "Group_of_ZIP_Codes": "33173, 33183, 33186"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.1479, 37.8638]
+        "coordinates": [-80.3998, 25.6720]
       },
       "properties": {
-        "Territory_ID": "CA-T038",
-        "Primer_ZIP_Code": "94621",
-        "Group_of_ZIP_Codes": "94621, 94660, 94661"
+        "Territory_ID": "FL-T014",
+        "Primer_ZIP_Code": "33175",
+        "Group_of_ZIP_Codes": "33175, 33184, 33185"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8863, 37.3382]
+        "coordinates": [-80.2460, 25.6523]
       },
       "properties": {
-        "Territory_ID": "CA-T039",
-        "Primer_ZIP_Code": "95110",
-        "Group_of_ZIP_Codes": "95110, 95112, 95113"
+        "Territory_ID": "FL-T015",
+        "Primer_ZIP_Code": "33176",
+        "Group_of_ZIP_Codes": "33176, 33177, 33187"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.9285, 37.3505]
+        "coordinates": [-80.4582, 25.6075]
       },
       "properties": {
-        "Territory_ID": "CA-T040",
-        "Primer_ZIP_Code": "95116",
-        "Group_of_ZIP_Codes": "95116, 95117, 95118"
+        "Territory_ID": "FL-T016",
+        "Primer_ZIP_Code": "33178",
+        "Group_of_ZIP_Codes": "33178, 33194"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8438, 37.2524]
+        "coordinates": [-80.3380, 25.6078]
       },
       "properties": {
-        "Territory_ID": "CA-T041",
-        "Primer_ZIP_Code": "95119",
-        "Group_of_ZIP_Codes": "95119, 95120, 95121"
+        "Territory_ID": "FL-T017",
+        "Primer_ZIP_Code": "33189",
+        "Group_of_ZIP_Codes": "33189, 33190, 33157"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8812, 37.4091]
+        "coordinates": [-80.4018, 25.5587]
       },
       "properties": {
-        "Territory_ID": "CA-T042",
-        "Primer_ZIP_Code": "95122",
-        "Group_of_ZIP_Codes": "95122, 95123, 95124"
+        "Territory_ID": "FL-T018",
+        "Primer_ZIP_Code": "33193",
+        "Group_of_ZIP_Codes": "33193, 33196"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.9484, 37.2487]
+        "coordinates": [-80.1918, 26.0533]
       },
       "properties": {
-        "Territory_ID": "CA-T043",
-        "Primer_ZIP_Code": "95125",
-        "Group_of_ZIP_Codes": "95125, 95126, 95127"
+        "Territory_ID": "FL-T019",
+        "Primer_ZIP_Code": "33154",
+        "Group_of_ZIP_Codes": "33154, 33160"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8012, 37.3235]
+        "coordinates": [-80.1624, 26.1004]
       },
       "properties": {
-        "Territory_ID": "CA-T044",
-        "Primer_ZIP_Code": "95128",
-        "Group_of_ZIP_Codes": "95128, 95129, 95130"
+        "Territory_ID": "FL-T020",
+        "Primer_ZIP_Code": "33180",
+        "Group_of_ZIP_Codes": "33180, 33280"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.9497, 37.3245]
+        "coordinates": [-80.2962, 25.9509]
       },
       "properties": {
-        "Territory_ID": "CA-T045",
-        "Primer_ZIP_Code": "95131",
-        "Group_of_ZIP_Codes": "95131, 95132, 95133"
+        "Territory_ID": "FL-T021",
+        "Primer_ZIP_Code": "33166",
+        "Group_of_ZIP_Codes": "33166, 33122"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8855, 37.2549]
+        "coordinates": [-80.2832, 26.0105]
       },
       "properties": {
-        "Territory_ID": "CA-T046",
-        "Primer_ZIP_Code": "95134",
-        "Group_of_ZIP_Codes": "95134, 95135, 95136"
+        "Territory_ID": "FL-T022",
+        "Primer_ZIP_Code": "33010",
+        "Group_of_ZIP_Codes": "33010, 33012, 33013"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8037, 37.3874]
+        "coordinates": [-80.2667, 26.0573]
       },
       "properties": {
-        "Territory_ID": "CA-T047",
-        "Primer_ZIP_Code": "95138",
-        "Group_of_ZIP_Codes": "95138, 95139, 95140"
+        "Territory_ID": "FL-T023",
+        "Primer_ZIP_Code": "33014",
+        "Group_of_ZIP_Codes": "33014, 33015, 33016"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.9752, 37.4045]
+        "coordinates": [-80.3223, 26.0721]
       },
       "properties": {
-        "Territory_ID": "CA-T048",
-        "Primer_ZIP_Code": "95148",
-        "Group_of_ZIP_Codes": "95148, 95192"
+        "Territory_ID": "FL-T024",
+        "Primer_ZIP_Code": "33018",
+        "Group_of_ZIP_Codes": "33018"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2437, 34.0522]
+        "coordinates": [-80.1937, 26.1404]
       },
       "properties": {
-        "Territory_ID": "CA-T049",
-        "Primer_ZIP_Code": "90001",
-        "Group_of_ZIP_Codes": "90001, 90002, 90003"
+        "Territory_ID": "FL-T025",
+        "Primer_ZIP_Code": "33023",
+        "Group_of_ZIP_Codes": "33023, 33169"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2722, 34.0167]
+        "coordinates": [-80.2525, 26.1701]
       },
       "properties": {
-        "Territory_ID": "CA-T050",
-        "Primer_ZIP_Code": "90004",
-        "Group_of_ZIP_Codes": "90004, 90005, 90006"
+        "Territory_ID": "FL-T026",
+        "Primer_ZIP_Code": "33024",
+        "Group_of_ZIP_Codes": "33024, 33314"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2201, 34.0736]
+        "coordinates": [-80.1495, 26.1337]
       },
       "properties": {
-        "Territory_ID": "CA-T051",
-        "Primer_ZIP_Code": "90007",
-        "Group_of_ZIP_Codes": "90007, 90008, 90011"
+        "Territory_ID": "FL-T027",
+        "Primer_ZIP_Code": "33019",
+        "Group_of_ZIP_Codes": "33019, 33020, 33021"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2915, 34.0908]
+        "coordinates": [-80.2258, 26.2325]
       },
       "properties": {
-        "Territory_ID": "CA-T052",
-        "Primer_ZIP_Code": "90012",
-        "Group_of_ZIP_Codes": "90012, 90013, 90014"
+        "Territory_ID": "FL-T028",
+        "Primer_ZIP_Code": "33025",
+        "Group_of_ZIP_Codes": "33025, 33026, 33027"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2567, 34.0245]
+        "coordinates": [-80.2778, 26.1715]
       },
       "properties": {
-        "Territory_ID": "CA-T053",
-        "Primer_ZIP_Code": "90015",
-        "Group_of_ZIP_Codes": "90015, 90016, 90017"
+        "Territory_ID": "FL-T029",
+        "Primer_ZIP_Code": "33028",
+        "Group_of_ZIP_Codes": "33028, 33330, 33331"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2098, 34.0378]
+        "coordinates": [-80.1227, 26.1416]
       },
       "properties": {
-        "Territory_ID": "CA-T054",
-        "Primer_ZIP_Code": "90018",
-        "Group_of_ZIP_Codes": "90018, 90019, 90020"
+        "Territory_ID": "FL-T030",
+        "Primer_ZIP_Code": "33301",
+        "Group_of_ZIP_Codes": "33301, 33304, 33305"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3306, 34.0627]
+        "coordinates": [-80.1528, 26.2034]
       },
       "properties": {
-        "Territory_ID": "CA-T055",
-        "Primer_ZIP_Code": "90021",
-        "Group_of_ZIP_Codes": "90021, 90022, 90023"
+        "Territory_ID": "FL-T031",
+        "Primer_ZIP_Code": "33312",
+        "Group_of_ZIP_Codes": "33312, 33315, 33316"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.1875, 34.1032]
+        "coordinates": [-80.1676, 26.0930]
       },
       "properties": {
-        "Territory_ID": "CA-T056",
-        "Primer_ZIP_Code": "90024",
-        "Group_of_ZIP_Codes": "90024, 90025, 90026"
+        "Territory_ID": "FL-T032",
+        "Primer_ZIP_Code": "33311",
+        "Group_of_ZIP_Codes": "33311, 33313, 33319"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3041, 34.0085]
+        "coordinates": [-80.1994, 26.2289]
       },
       "properties": {
-        "Territory_ID": "CA-T057",
-        "Primer_ZIP_Code": "90027",
-        "Group_of_ZIP_Codes": "90027, 90028, 90029"
+        "Territory_ID": "FL-T033",
+        "Primer_ZIP_Code": "33317",
+        "Group_of_ZIP_Codes": "33317, 33324, 33325"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2432, 34.1118]
+        "coordinates": [-80.2498, 26.1187]
       },
       "properties": {
-        "Territory_ID": "CA-T058",
-        "Primer_ZIP_Code": "90031",
-        "Group_of_ZIP_Codes": "90031, 90032, 90033"
+        "Territory_ID": "FL-T034",
+        "Primer_ZIP_Code": "33322",
+        "Group_of_ZIP_Codes": "33322, 33323, 33351"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3617, 34.0352]
+        "coordinates": [-80.1746, 26.2870]
       },
       "properties": {
-        "Territory_ID": "CA-T059",
-        "Primer_ZIP_Code": "90034",
-        "Group_of_ZIP_Codes": "90034, 90035, 90036"
+        "Territory_ID": "FL-T035",
+        "Primer_ZIP_Code": "33326",
+        "Group_of_ZIP_Codes": "33326, 33327, 33332"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2879, 33.9788]
+        "coordinates": [-80.1373, 26.3009]
       },
       "properties": {
-        "Territory_ID": "CA-T060",
-        "Primer_ZIP_Code": "90037",
-        "Group_of_ZIP_Codes": "90037, 90038, 90039"
+        "Territory_ID": "FL-T036",
+        "Primer_ZIP_Code": "33334",
+        "Group_of_ZIP_Codes": "33334, 33306, 33308"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3287, 34.1015]
+        "coordinates": [-80.2115, 26.3121]
       },
       "properties": {
-        "Territory_ID": "CA-T061",
-        "Primer_ZIP_Code": "90041",
-        "Group_of_ZIP_Codes": "90041, 90042, 90043"
+        "Territory_ID": "FL-T037",
+        "Primer_ZIP_Code": "33321",
+        "Group_of_ZIP_Codes": "33321, 33388"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3965, 34.0479]
+        "coordinates": [-80.1139, 26.5095]
       },
       "properties": {
-        "Territory_ID": "CA-T062",
-        "Primer_ZIP_Code": "90044",
-        "Group_of_ZIP_Codes": "90044, 90045, 90046"
+        "Territory_ID": "FL-T038",
+        "Primer_ZIP_Code": "33401",
+        "Group_of_ZIP_Codes": "33401, 33405, 33407"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4298, 33.9895]
+        "coordinates": [-80.0842, 26.4615]
       },
       "properties": {
-        "Territory_ID": "CA-T063",
-        "Primer_ZIP_Code": "90047",
-        "Group_of_ZIP_Codes": "90047, 90048, 90049"
+        "Territory_ID": "FL-T039",
+        "Primer_ZIP_Code": "33404",
+        "Group_of_ZIP_Codes": "33404, 33403, 33408"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2009, 34.1425]
+        "coordinates": [-80.0580, 26.5254]
       },
       "properties": {
-        "Territory_ID": "CA-T064",
-        "Primer_ZIP_Code": "90057",
-        "Group_of_ZIP_Codes": "90057, 90058, 90059"
+        "Territory_ID": "FL-T040",
+        "Primer_ZIP_Code": "33409",
+        "Group_of_ZIP_Codes": "33409, 33417, 33461"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2912, 33.9384]
+        "coordinates": [-80.1067, 26.6151]
       },
       "properties": {
-        "Territory_ID": "CA-T065",
-        "Primer_ZIP_Code": "90061",
-        "Group_of_ZIP_Codes": "90061, 90062, 90063"
+        "Territory_ID": "FL-T041",
+        "Primer_ZIP_Code": "33411",
+        "Group_of_ZIP_Codes": "33411, 33414, 33470"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4422, 34.1377]
+        "coordinates": [-80.0534, 26.4034]
       },
       "properties": {
-        "Territory_ID": "CA-T066",
-        "Primer_ZIP_Code": "90064",
-        "Group_of_ZIP_Codes": "90064, 90065, 90066"
+        "Territory_ID": "FL-T042",
+        "Primer_ZIP_Code": "33415",
+        "Group_of_ZIP_Codes": "33415, 33463, 33467"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4738, 34.0736]
+        "coordinates": [-80.0767, 26.6845]
       },
       "properties": {
-        "Territory_ID": "CA-T067",
-        "Primer_ZIP_Code": "90067",
-        "Group_of_ZIP_Codes": "90067, 90068, 90069"
+        "Territory_ID": "FL-T043",
+        "Primer_ZIP_Code": "33418",
+        "Group_of_ZIP_Codes": "33418, 33458, 33477"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3527, 34.1482]
+        "coordinates": [-80.0936, 26.3749]
       },
       "properties": {
-        "Territory_ID": "CA-T068",
-        "Primer_ZIP_Code": "90077",
-        "Group_of_ZIP_Codes": "90077, 90210, 90211"
+        "Territory_ID": "FL-T044",
+        "Primer_ZIP_Code": "33426",
+        "Group_of_ZIP_Codes": "33426, 33435, 33436"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1645, 33.1955]
+        "coordinates": [-80.1078, 26.4295]
       },
       "properties": {
-        "Territory_ID": "CA-T069",
-        "Primer_ZIP_Code": "92054",
-        "Group_of_ZIP_Codes": "92054, 92055, 92056"
+        "Territory_ID": "FL-T045",
+        "Primer_ZIP_Code": "33428",
+        "Group_of_ZIP_Codes": "33428, 33433, 33434"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2503, 33.1581]
+        "coordinates": [-80.1232, 26.3153]
       },
       "properties": {
-        "Territory_ID": "CA-T070",
-        "Primer_ZIP_Code": "92057",
-        "Group_of_ZIP_Codes": "92057, 92058, 92069"
+        "Territory_ID": "FL-T046",
+        "Primer_ZIP_Code": "33441",
+        "Group_of_ZIP_Codes": "33441, 33442, 33445"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3056, 33.1750]
+        "coordinates": [-80.1487, 26.3503]
       },
       "properties": {
-        "Territory_ID": "CA-T071",
-        "Primer_ZIP_Code": "92064",
-        "Group_of_ZIP_Codes": "92064, 92065, 92070"
+        "Territory_ID": "FL-T047",
+        "Primer_ZIP_Code": "33444",
+        "Group_of_ZIP_Codes": "33444, 33483, 33484"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2805, 33.0505]
+        "coordinates": [-80.1300, 26.6528]
       },
       "properties": {
-        "Territory_ID": "CA-T072",
-        "Primer_ZIP_Code": "92081",
-        "Group_of_ZIP_Codes": "92081, 92083, 92084"
+        "Territory_ID": "FL-T048",
+        "Primer_ZIP_Code": "33455",
+        "Group_of_ZIP_Codes": "33455, 33469, 33478"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1237, 33.4936]
+        "coordinates": [-80.0746, 26.3350]
       },
       "properties": {
-        "Territory_ID": "CA-T073",
-        "Primer_ZIP_Code": "92307",
-        "Group_of_ZIP_Codes": "92307, 92308, 92314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.4194, 34.1389]
-      },
-      "properties": {
-        "Territory_ID": "CA-T074",
-        "Primer_ZIP_Code": "92311",
-        "Group_of_ZIP_Codes": "92311, 92342, 92347"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4021, 34.5361]
-      },
-      "properties": {
-        "Territory_ID": "CA-T075",
-        "Primer_ZIP_Code": "92315",
-        "Group_of_ZIP_Codes": "92315, 92365, 92368"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2419, 34.4792]
-      },
-      "properties": {
-        "Territory_ID": "CA-T076",
-        "Primer_ZIP_Code": "92324",
-        "Group_of_ZIP_Codes": "92324, 92373, 92374"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1858, 34.1064]
-      },
-      "properties": {
-        "Territory_ID": "CA-T077",
-        "Primer_ZIP_Code": "92335",
-        "Group_of_ZIP_Codes": "92335, 92336, 92337"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.8306, 34.2056]
-      },
-      "properties": {
-        "Territory_ID": "CA-T078",
-        "Primer_ZIP_Code": "92354",
-        "Group_of_ZIP_Codes": "92354, 92359, 92382"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.8765, 34.0894]
-      },
-      "properties": {
-        "Territory_ID": "CA-T079",
-        "Primer_ZIP_Code": "92392",
-        "Group_of_ZIP_Codes": "92392, 92394, 92395"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1467, 33.6140]
-      },
-      "properties": {
-        "Territory_ID": "CA-T080",
-        "Primer_ZIP_Code": "92399",
-        "Group_of_ZIP_Codes": "92399, 92401, 92405"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2903, 34.0983]
-      },
-      "properties": {
-        "Territory_ID": "CA-T081",
-        "Primer_ZIP_Code": "92404",
-        "Group_of_ZIP_Codes": "92404, 92407, 92408"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3967, 33.9533]
-      },
-      "properties": {
-        "Territory_ID": "CA-T082",
-        "Primer_ZIP_Code": "92501",
-        "Group_of_ZIP_Codes": "92501, 92503, 92504"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2291, 33.9192]
-      },
-      "properties": {
-        "Territory_ID": "CA-T083",
-        "Primer_ZIP_Code": "92505",
-        "Group_of_ZIP_Codes": "92505, 92506, 92508"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5626, 33.8817]
-      },
-      "properties": {
-        "Territory_ID": "CA-T084",
-        "Primer_ZIP_Code": "92507",
-        "Group_of_ZIP_Codes": "92507, 92509, 92553"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3227, 33.8512]
-      },
-      "properties": {
-        "Territory_ID": "CA-T085",
-        "Primer_ZIP_Code": "92521",
-        "Group_of_ZIP_Codes": "92521, 92555, 92557"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2712, 33.6794]
-      },
-      "properties": {
-        "Territory_ID": "CA-T086",
-        "Primer_ZIP_Code": "92530",
-        "Group_of_ZIP_Codes": "92530, 92532, 92584"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1689, 33.6950]
-      },
-      "properties": {
-        "Territory_ID": "CA-T087",
-        "Primer_ZIP_Code": "92543",
-        "Group_of_ZIP_Codes": "92543, 92544, 92545"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3739, 33.5979]
-      },
-      "properties": {
-        "Territory_ID": "CA-T088",
-        "Primer_ZIP_Code": "92551",
-        "Group_of_ZIP_Codes": "92551, 92562, 92563"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1483, 33.9232]
-      },
-      "properties": {
-        "Territory_ID": "CA-T089",
-        "Primer_ZIP_Code": "92570",
-        "Group_of_ZIP_Codes": "92570, 92571, 92585"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9689, 33.7378]
-      },
-      "properties": {
-        "Territory_ID": "CA-T090",
-        "Primer_ZIP_Code": "92581",
-        "Group_of_ZIP_Codes": "92581, 92582, 92583"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0352, 33.6225]
-      },
-      "properties": {
-        "Territory_ID": "CA-T091",
-        "Primer_ZIP_Code": "92586",
-        "Group_of_ZIP_Codes": "92586, 92587, 92595"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.0552, 33.7206]
-      },
-      "properties": {
-        "Territory_ID": "CA-T092",
-        "Primer_ZIP_Code": "92201",
-        "Group_of_ZIP_Codes": "92201, 92203, 92236"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.4941, 32.7920]
-      },
-      "properties": {
-        "Territory_ID": "CA-T093",
-        "Primer_ZIP_Code": "92227",
-        "Group_of_ZIP_Codes": "92227, 92231, 92243"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.5130, 33.8303]
-      },
-      "properties": {
-        "Territory_ID": "CA-T094",
-        "Primer_ZIP_Code": "92234",
-        "Group_of_ZIP_Codes": "92234, 92240, 92241"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2719, 33.7257]
-      },
-      "properties": {
-        "Territory_ID": "CA-T095",
-        "Primer_ZIP_Code": "92253",
-        "Group_of_ZIP_Codes": "92253, 92260, 92270"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2165, 33.7069]
-      },
-      "properties": {
-        "Territory_ID": "CA-T096",
-        "Primer_ZIP_Code": "92262",
-        "Group_of_ZIP_Codes": "92262, 92264, 92276"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.6212, 33.1139]
-      },
-      "properties": {
-        "Territory_ID": "CA-T097",
-        "Primer_ZIP_Code": "92283",
-        "Group_of_ZIP_Codes": "92283, 92320"
+        "Territory_ID": "FL-T049",
+        "Primer_ZIP_Code": "33462",
+        "Group_of_ZIP_Codes": "33462, 33472, 33473"
       }
     }
   ]
