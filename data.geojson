@@ -4,2326 +4,1486 @@
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "AK-T01",
-        "State": "AK",
-        "Group_of_ZIP_Codes": "99501, 99502, 99503, 99504, 99507, 99508, 99515, 99517, 99518",
-        "Total_Population": 190000,
-        "Major_Cities": "Anchorage",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "10001",
+        "State": "NY",
+        "Territory_ID": "NY-T01",
+        "Group_of_ZIP_Codes": "10001, 10011, 10018, 10019, 10036",
+        "Total_Population": 205000,
+        "Major_Cities": "Manhattan (Midtown)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-149.9003, 61.2181]
+        "coordinates": [-73.9961, 40.7508]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "AK-T02",
-        "State": "AK",
-        "Group_of_ZIP_Codes": "99505, 99506, 99510, 99513, 99516, 99540, 99567, 99577, 99587",
-        "Total_Population": 185000,
-        "Major_Cities": "Anchorage (Eagle River), Wasilla",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "10002",
+        "State": "NY",
+        "Territory_ID": "NY-T02",
+        "Group_of_ZIP_Codes": "10002, 10003, 10009, 10012, 10013",
+        "Total_Population": 198000,
+        "Major_Cities": "Manhattan (Lower East Side)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-149.5681, 61.3214]
+        "coordinates": [-73.9864, 40.7149]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "AK-T03",
-        "State": "AK",
-        "Group_of_ZIP_Codes": "99701, 99703, 99705, 99709, 99712, 99645, 99654",
-        "Total_Population": 180000,
-        "Major_Cities": "Fairbanks, Palmer",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-147.7164, 64.8378]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AK-T04",
-        "State": "AK",
-        "Group_of_ZIP_Codes": "99801, 99824, 99901, 99921, 99925, 99611, 99615, 99623, 99669",
-        "Total_Population": 178000,
-        "Major_Cities": "Juneau, Ketchikan, Kenai",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-134.3800, 58.2600]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T01",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85003, 85004, 85006, 85007, 85008",
-        "Total_Population": 204000,
-        "Major_Cities": "Phoenix (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.0740, 33.4484]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T02",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85009, 85012, 85013, 85014, 85015",
-        "Total_Population": 203000,
-        "Major_Cities": "Phoenix (North)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-112.0740, 33.5084]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T03",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85016, 85017, 85018, 85019, 85020",
+        "ZIP_Code": "10023",
+        "State": "NY",
+        "Territory_ID": "NY-T03",
+        "Group_of_ZIP_Codes": "10023, 10024, 10025, 10069",
         "Total_Population": 202000,
-        "Major_Cities": "Phoenix (East)",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Manhattan (Upper West Side)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.9940, 33.4484]
+        "coordinates": [-73.9826, 40.7769]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "AZ-T04",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85021, 85022, 85023, 85024, 85027",
+        "ZIP_Code": "10029",
+        "State": "NY",
+        "Territory_ID": "NY-T04",
+        "Group_of_ZIP_Codes": "10029, 10035, 10037, 10039",
+        "Total_Population": 199000,
+        "Major_Cities": "Manhattan (Harlem)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9457, 40.7918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10026",
+        "State": "NY",
+        "Territory_ID": "NY-T05",
+        "Group_of_ZIP_Codes": "10026, 10027, 10030, 10031",
         "Total_Population": 201000,
-        "Major_Cities": "Phoenix (Northeast)",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Manhattan (Central Harlem)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.0240, 33.5684]
+        "coordinates": [-73.9552, 40.8028]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "AZ-T05",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85701, 85705, 85706, 85707, 85708",
-        "Total_Population": 195000,
-        "Major_Cities": "Tucson (Central)",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "10010",
+        "State": "NY",
+        "Territory_ID": "NY-T06",
+        "Group_of_ZIP_Codes": "10010, 10016, 10017, 10022",
+        "Total_Population": 204000,
+        "Major_Cities": "Manhattan (Murray Hill)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-110.9265, 32.2217]
+        "coordinates": [-73.986, 40.739]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "CA-T001",
+        "ZIP_Code": "10004",
+        "State": "NY",
+        "Territory_ID": "NY-T07",
+        "Group_of_ZIP_Codes": "10004, 10005, 10006, 10007, 10038",
+        "Total_Population": 197000,
+        "Major_Cities": "Manhattan (Financial District)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0138, 40.7019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10065",
+        "State": "NY",
+        "Territory_ID": "NY-T08",
+        "Group_of_ZIP_Codes": "10065, 10075, 10021, 10128",
+        "Total_Population": 200000,
+        "Major_Cities": "Manhattan (Upper East Side)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9629, 40.7645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10014",
+        "State": "NY",
+        "Territory_ID": "NY-T09",
+        "Group_of_ZIP_Codes": "10014, 10012, 10013",
+        "Total_Population": 203000,
+        "Major_Cities": "Manhattan (Greenwich Village)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0059, 40.7338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10028",
+        "State": "NY",
+        "Territory_ID": "NY-T10",
+        "Group_of_ZIP_Codes": "10028, 10044, 10075",
+        "Total_Population": 199000,
+        "Major_Cities": "Manhattan (Yorkville)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9536, 40.7762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11201",
+        "State": "NY",
+        "Territory_ID": "NY-T11",
+        "Group_of_ZIP_Codes": "11201, 11205, 11211, 11217",
+        "Total_Population": 202000,
+        "Major_Cities": "Brooklyn (Downtown)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9903, 40.6951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11203",
+        "State": "NY",
+        "Territory_ID": "NY-T12",
+        "Group_of_ZIP_Codes": "11203, 11212, 11213, 11233",
+        "Total_Population": 197000,
+        "Major_Cities": "Brooklyn (East Flatbush)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9331, 40.6496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11204",
+        "State": "NY",
+        "Territory_ID": "NY-T13",
+        "Group_of_ZIP_Codes": "11204, 11214, 11223, 11230",
+        "Total_Population": 204000,
+        "Major_Cities": "Brooklyn (Bensonhurst)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9857, 40.6208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11207",
+        "State": "NY",
+        "Territory_ID": "NY-T14",
+        "Group_of_ZIP_Codes": "11207, 11208, 11221",
+        "Total_Population": 199000,
+        "Major_Cities": "Brooklyn (Bushwick)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.897, 40.6708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11209",
+        "State": "NY",
+        "Territory_ID": "NY-T15",
+        "Group_of_ZIP_Codes": "11209, 11219, 11220, 11228",
+        "Total_Population": 201000,
+        "Major_Cities": "Brooklyn (Bay Ridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0285, 40.6231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11215",
+        "State": "NY",
+        "Territory_ID": "NY-T16",
+        "Group_of_ZIP_Codes": "11215, 11217, 11231",
+        "Total_Population": 198000,
+        "Major_Cities": "Brooklyn (Park Slope)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9868, 40.6681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11226",
+        "State": "NY",
+        "Territory_ID": "NY-T17",
+        "Group_of_ZIP_Codes": "11226, 11210, 11236",
+        "Total_Population": 203000,
+        "Major_Cities": "Brooklyn (Flatbush)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9562, 40.6468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11229",
+        "State": "NY",
+        "Territory_ID": "NY-T18",
+        "Group_of_ZIP_Codes": "11229, 11234, 11235",
+        "Total_Population": 200000,
+        "Major_Cities": "Brooklyn (Sheepshead Bay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.941, 40.6018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11206",
+        "State": "NY",
+        "Territory_ID": "NY-T19",
+        "Group_of_ZIP_Codes": "11206, 11216, 11237",
+        "Total_Population": 197000,
+        "Major_Cities": "Brooklyn (Williamsburg)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9436, 40.7019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11354",
+        "State": "NY",
+        "Territory_ID": "NY-T20",
+        "Group_of_ZIP_Codes": "11354, 11355, 11358, 11367",
+        "Total_Population": 199000,
+        "Major_Cities": "Queens (Flushing)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8251, 40.767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11368",
+        "State": "NY",
+        "Territory_ID": "NY-T21",
+        "Group_of_ZIP_Codes": "11368, 11369, 11370, 11373",
+        "Total_Population": 201000,
+        "Major_Cities": "Queens (Corona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8606, 40.7498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11411",
+        "State": "NY",
+        "Territory_ID": "NY-T22",
+        "Group_of_ZIP_Codes": "11411, 11412, 11413, 11429",
+        "Total_Population": 204000,
+        "Major_Cities": "Queens (Jamaica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7377, 40.6964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11375",
+        "State": "NY",
+        "Territory_ID": "NY-T23",
+        "Group_of_ZIP_Codes": "11375, 11374, 11385",
+        "Total_Population": 198000,
+        "Major_Cities": "Queens (Forest Hills)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8448, 40.7233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11101",
+        "State": "NY",
+        "Territory_ID": "NY-T24",
+        "Group_of_ZIP_Codes": "11101, 11102, 11103, 11106",
+        "Total_Population": 202000,
+        "Major_Cities": "Queens (Long Island City)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9433, 40.7473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11356",
+        "State": "NY",
+        "Territory_ID": "NY-T25",
+        "Group_of_ZIP_Codes": "11356, 11357, 11360",
+        "Total_Population": 197000,
+        "Major_Cities": "Queens (College Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8707, 40.7859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "11414",
+        "State": "NY",
+        "Territory_ID": "NY-T26",
+        "Group_of_ZIP_Codes": "11414, 11416, 11417, 11420",
+        "Total_Population": 200000,
+        "Major_Cities": "Queens (Howard Beach)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8463, 40.6567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10451",
+        "State": "NY",
+        "Territory_ID": "NY-T27",
+        "Group_of_ZIP_Codes": "10451, 10452, 10453, 10454",
+        "Total_Population": 201000,
+        "Major_Cities": "Bronx (South Bronx)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9269, 40.8194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10457",
+        "State": "NY",
+        "Territory_ID": "NY-T28",
+        "Group_of_ZIP_Codes": "10457, 10458, 10460, 10467",
+        "Total_Population": 198000,
+        "Major_Cities": "Bronx (Tremont)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8999, 40.8492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10461",
+        "State": "NY",
+        "Territory_ID": "NY-T29",
+        "Group_of_ZIP_Codes": "10461, 10462, 10465, 10469",
+        "Total_Population": 202000,
+        "Major_Cities": "Bronx (Pelham Bay)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8423, 40.8463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10463",
+        "State": "NY",
+        "Territory_ID": "NY-T30",
+        "Group_of_ZIP_Codes": "10463, 10468, 10471",
+        "Total_Population": 197000,
+        "Major_Cities": "Bronx (Riverdale)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9089, 40.8797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10301",
+        "State": "NY",
+        "Territory_ID": "NY-T31",
+        "Group_of_ZIP_Codes": "10301, 10302, 10303, 10304",
+        "Total_Population": 203000,
+        "Major_Cities": "Staten Island (North Shore)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0947, 40.6305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "10305",
+        "State": "NY",
+        "Territory_ID": "NY-T32",
+        "Group_of_ZIP_Codes": "10305, 10306, 10307, 10308",
+        "Total_Population": 199000,
+        "Major_Cities": "Staten Island (South Shore)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0712, 40.5998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90001",
         "State": "CA",
+        "Territory_ID": "CA-T001",
         "Group_of_ZIP_Codes": "90001, 90002, 90003, 90007",
         "Total_Population": 204000,
-        "Major_Cities": "Los Angeles (South)",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (South)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2437, 33.9500]
+        "coordinates": [-118.2479, 33.9731]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90004",
+        "State": "CA",
         "Territory_ID": "CA-T002",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "90004, 90005, 90006, 90008",
-        "Total_Population": 203000,
-        "Major_Cities": "Los Angeles (Central)",
-        "Cannabis_Friendly": "✅"
+        "Group_of_ZIP_Codes": "90004, 90005, 90020, 90029",
+        "Total_Population": 199000,
+        "Major_Cities": "Los Angeles (Koreatown)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3080, 34.0616]
+        "coordinates": [-118.3107, 34.0762]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90006",
+        "State": "CA",
         "Territory_ID": "CA-T003",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "90009, 90010, 90011, 90012",
+        "Group_of_ZIP_Codes": "90006, 90007, 90015, 90017",
         "Total_Population": 202000,
-        "Major_Cities": "Los Angeles (West)",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (Downtown)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4000, 34.0500]
+        "coordinates": [-118.294, 34.0493]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90008",
+        "State": "CA",
         "Territory_ID": "CA-T004",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "90013, 90014, 90015, 90016",
-        "Total_Population": 201000,
-        "Major_Cities": "Los Angeles (Downtown)",
-        "Cannabis_Friendly": "✅"
+        "Group_of_ZIP_Codes": "90008, 90016, 90018, 90043",
+        "Total_Population": 197000,
+        "Major_Cities": "Los Angeles (Crenshaw)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2520, 34.0400]
+        "coordinates": [-118.3468, 34.0096]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90019",
+        "State": "CA",
         "Territory_ID": "CA-T005",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "94102, 94103, 94104, 94105",
-        "Total_Population": 205000,
-        "Major_Cities": "San Francisco (Downtown)",
-        "Cannabis_Friendly": "✅"
+        "Group_of_ZIP_Codes": "90019, 90036, 90048, 90069",
+        "Total_Population": 201000,
+        "Major_Cities": "Los Angeles (Mid-Wilshire)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4194, 37.7749]
+        "coordinates": [-118.3362, 34.0487]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90024",
+        "State": "CA",
         "Territory_ID": "CA-T006",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92101, 92102, 92103, 92104",
-        "Total_Population": 200000,
-        "Major_Cities": "San Diego (Central)",
-        "Cannabis_Friendly": "✅"
+        "Group_of_ZIP_Codes": "90024, 90025, 90064, 90067",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Westwood)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1611, 32.7157]
+        "coordinates": [-118.436, 34.0639]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90026",
+        "State": "CA",
         "Territory_ID": "CA-T007",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92105, 92106, 92107, 92108",
-        "Total_Population": 199000,
-        "Major_Cities": "San Diego (East)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0811, 32.7157]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T01",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80202, 80203, 80204, 80205",
+        "Group_of_ZIP_Codes": "90026, 90027, 90039",
         "Total_Population": 198000,
-        "Major_Cities": "Denver (Downtown)",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (Silver Lake)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-104.9903, 39.7392]
+        "coordinates": [-118.2646, 34.0789]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "CO-T02",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80206, 80207, 80209, 80210",
-        "Total_Population": 197000,
-        "Major_Cities": "Denver (East)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.9103, 39.7392]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T03",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80301, 80302, 80303, 80304",
-        "Total_Population": 196000,
-        "Major_Cities": "Boulder",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.2705, 40.0150]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T01",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33101, 33129, 33130, 33131",
-        "Total_Population": 210000,
-        "Major_Cities": "Miami (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.1918, 25.7617]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T02",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33132, 33133, 33134, 33135",
-        "Total_Population": 209000,
-        "Major_Cities": "Miami (Coral Gables)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2418, 25.7317]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T03",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "32801, 32802, 32803, 32804",
-        "Total_Population": 208000,
-        "Major_Cities": "Orlando (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3792, 28.5383]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T01",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "60601, 60602, 60603, 60604",
-        "Total_Population": 215000,
-        "Major_Cities": "Chicago (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6298, 41.8781]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T02",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "60605, 60606, 60607, 60608",
-        "Total_Population": 214000,
-        "Major_Cities": "Chicago (South Loop)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-87.6298, 41.8481]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T01",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "10001, 10002, 10003, 10004",
-        "Total_Population": 220000,
-        "Major_Cities": "New York City (Manhattan - Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9352, 40.7128]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T02",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "10005, 10006, 10007, 10009",
-        "Total_Population": 219000,
-        "Major_Cities": "New York City (Manhattan - Midtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9852, 40.7428]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T01",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98101, 98102, 98103, 98104",
-        "Total_Population": 213000,
-        "Major_Cities": "Seattle (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3321, 47.6062]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T02",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98105, 98106, 98107, 98108",
-        "Total_Population": 212000,
-        "Major_Cities": "Seattle (North)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.3321, 47.6562]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T03",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "99201, 99202, 99203, 99204",
-        "Total_Population": 211000,
-        "Major_Cities": "Spokane",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.4260, 47.6588]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T01",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97201, 97202, 97203, 97204",
-        "Total_Population": 210000,
-        "Major_Cities": "Portland (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6765, 45.5231]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T02",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97401, 97402, 97403, 97404",
-        "Total_Population": 209000,
-        "Major_Cities": "Eugene",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.0868, 44.0521]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NV-T01",
-        "State": "NV",
-        "Group_of_ZIP_Codes": "89101, 89102, 89103, 89104",
-        "Total_Population": 208000,
-        "Major_Cities": "Las Vegas (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.1398, 36.1699]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NV-T02",
-        "State": "NV",
-        "Group_of_ZIP_Codes": "89501, 89502, 89503, 89504",
-        "Total_Population": 207000,
-        "Major_Cities": "Reno",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.8138, 39.5296]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MA-T01",
-        "State": "MA",
-        "Group_of_ZIP_Codes": "02108, 02109, 02110, 02111",
-        "Total_Population": 206000,
-        "Major_Cities": "Boston (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0589, 42.3601]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MA-T02",
-        "State": "MA",
-        "Group_of_ZIP_Codes": "02138, 02139, 02140, 02141",
-        "Total_Population": 205000,
-        "Major_Cities": "Cambridge",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1190, 42.3736]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "PA-T01",
-        "State": "PA",
-        "Group_of_ZIP_Codes": "19102, 19103, 19104, 19106",
-        "Total_Population": 204000,
-        "Major_Cities": "Philadelphia (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.1652, 39.9526]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "PA-T02",
-        "State": "PA",
-        "Group_of_ZIP_Codes": "15201, 15203, 15206, 15208",
-        "Total_Population": 203000,
-        "Major_Cities": "Pittsburgh",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.9959, 40.4406]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MI-T01",
-        "State": "MI",
-        "Group_of_ZIP_Codes": "48201, 48202, 48204, 48205",
-        "Total_Population": 202000,
-        "Major_Cities": "Detroit (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.0458, 42.3314]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MI-T02",
-        "State": "MI",
-        "Group_of_ZIP_Codes": "49503, 49504, 49505, 49506",
-        "Total_Population": 201000,
-        "Major_Cities": "Grand Rapids",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-85.6681, 42.9634]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T06",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85709, 85710, 85711, 85712, 85713",
-        "Total_Population": 194000,
-        "Major_Cities": "Tucson (East)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-110.8465, 32.2217]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T07",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85201, 85202, 85203, 85204, 85205",
-        "Total_Population": 193000,
-        "Major_Cities": "Mesa",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.8315, 33.4152]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "ZIP_Code": "90028",
+        "State": "CA",
         "Territory_ID": "CA-T008",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "94601, 94602, 94603, 94605",
-        "Total_Population": 198000,
-        "Major_Cities": "Oakland",
-        "Cannabis_Friendly": "✅"
+        "Group_of_ZIP_Codes": "90028, 90038, 90046, 90068",
+        "Total_Population": 200000,
+        "Major_Cities": "Los Angeles (Hollywood)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2711, 37.8044]
+        "coordinates": [-118.3267, 34.1016]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "ZIP_Code": "90031",
+        "State": "CA",
         "Territory_ID": "CA-T009",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "95811, 95814, 95815, 95816",
-        "Total_Population": 197000,
-        "Major_Cities": "Sacramento (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.4944, 38.5816]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T04",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80901, 80903, 80904, 80905",
-        "Total_Population": 195000,
-        "Major_Cities": "Colorado Springs",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.8214, 38.8339]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T04",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33602, 33603, 33604, 33605",
-        "Total_Population": 207000,
-        "Major_Cities": "Tampa (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4572, 27.9506]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T03",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "61602, 61603, 61604, 61605",
-        "Total_Population": 213000,
-        "Major_Cities": "Peoria",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.5928, 40.6919]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T03",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "11201, 11203, 11204, 11205",
-        "Total_Population": 218000,
-        "Major_Cities": "New York City (Brooklyn)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9442, 40.6782]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T04",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "14201, 14202, 14203, 14204",
-        "Total_Population": 217000,
-        "Major_Cities": "Buffalo",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.8784, 42.8864]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T04",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98402, 98403, 98404, 98405",
-        "Total_Population": 210000,
-        "Major_Cities": "Tacoma",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4443, 47.2529]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T03",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97301, 97302, 97303, 97304",
-        "Total_Population": 208000,
-        "Major_Cities": "Salem",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-123.0351, 44.9429]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NV-T03",
-        "State": "NV",
-        "Group_of_ZIP_Codes": "89030, 89031, 89032, 89033",
-        "Total_Population": 206000,
-        "Major_Cities": "North Las Vegas",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.1175, 36.1989]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MA-T03",
-        "State": "MA",
-        "Group_of_ZIP_Codes": "01602, 01603, 01604, 01605",
+        "Group_of_ZIP_Codes": "90031, 90032, 90042",
         "Total_Population": 204000,
-        "Major_Cities": "Worcester",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (Highland Park)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.8023, 42.2626]
+        "coordinates": [-118.2166, 34.0787]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "PA-T03",
-        "State": "PA",
-        "Group_of_ZIP_Codes": "18101, 18102, 18103, 18104",
-        "Total_Population": 202000,
-        "Major_Cities": "Allentown",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.4699, 40.6023]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MI-T03",
-        "State": "MI",
-        "Group_of_ZIP_Codes": "48103, 48104, 48105, 48106",
-        "Total_Population": 200000,
-        "Major_Cities": "Ann Arbor",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.7263, 42.2808]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "ME-T01",
-        "State": "ME",
-        "Group_of_ZIP_Codes": "04101, 04102, 04103, 04104",
-        "Total_Population": 199000,
-        "Major_Cities": "Portland",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.2553, 43.6615]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VT-T01",
-        "State": "VT",
-        "Group_of_ZIP_Codes": "05401, 05402, 05403, 05404",
-        "Total_Population": 198000,
-        "Major_Cities": "Burlington",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.2121, 44.4759]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "RI-T01",
-        "State": "RI",
-        "Group_of_ZIP_Codes": "02903, 02904, 02905, 02906",
-        "Total_Population": 197000,
-        "Major_Cities": "Providence",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4128, 41.8240]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CT-T01",
-        "State": "CT",
-        "Group_of_ZIP_Codes": "06101, 06103, 06105, 06106",
-        "Total_Population": 196000,
-        "Major_Cities": "Hartford",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.6751, 41.7658]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NJ-T01",
-        "State": "NJ",
-        "Group_of_ZIP_Codes": "07102, 07103, 07104, 07105",
-        "Total_Population": 215000,
-        "Major_Cities": "Newark",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1724, 40.7357]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NJ-T02",
-        "State": "NJ",
-        "Group_of_ZIP_Codes": "07302, 07304, 07305, 07306",
-        "Total_Population": 214000,
-        "Major_Cities": "Jersey City",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0431, 40.7178]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NM-T01",
-        "State": "NM",
-        "Group_of_ZIP_Codes": "87101, 87102, 87104, 87105",
-        "Total_Population": 195000,
-        "Major_Cities": "Albuquerque",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.6504, 35.0844]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VA-T01",
-        "State": "VA",
-        "Group_of_ZIP_Codes": "23219, 23220, 23221, 23222",
-        "Total_Population": 194000,
-        "Major_Cities": "Richmond",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.4360, 37.5407]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MD-T01",
-        "State": "MD",
-        "Group_of_ZIP_Codes": "21201, 21202, 21205, 21206",
-        "Total_Population": 216000,
-        "Major_Cities": "Baltimore",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.6122, 39.2904]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MO-T01",
-        "State": "MO",
-        "Group_of_ZIP_Codes": "63101, 63102, 63103, 63104",
-        "Total_Population": 193000,
-        "Major_Cities": "St. Louis",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-90.1994, 38.6270]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MO-T02",
-        "State": "MO",
-        "Group_of_ZIP_Codes": "64101, 64102, 64105, 64106",
-        "Total_Population": 192000,
-        "Major_Cities": "Kansas City",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-94.5786, 39.0997]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MT-T01",
-        "State": "MT",
-        "Group_of_ZIP_Codes": "59101, 59102, 59103, 59104",
-        "Total_Population": 191000,
-        "Major_Cities": "Billings",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-108.5007, 45.7833]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "ZIP_Code": "90033",
+        "State": "CA",
         "Territory_ID": "CA-T010",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "93701, 93702, 93703, 93704",
-        "Total_Population": 196000,
-        "Major_Cities": "Fresno",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.7726, 36.7468]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T011",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "90802, 90803, 90804, 90805",
-        "Total_Population": 195000,
-        "Major_Cities": "Long Beach",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1937, 33.7701]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T012",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92701, 92703, 92704, 92705",
-        "Total_Population": 194000,
-        "Major_Cities": "Santa Ana",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8678, 33.7456]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T013",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92801, 92802, 92804, 92805",
-        "Total_Population": 193000,
-        "Major_Cities": "Anaheim",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9143, 33.8353]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T014",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92501, 92503, 92504, 92505",
-        "Total_Population": 192000,
-        "Major_Cities": "Riverside",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3755, 33.9533]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T015",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "93301, 93304, 93305, 93306",
-        "Total_Population": 191000,
-        "Major_Cities": "Bakersfield",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.0187, 35.3733]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T016",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "95202, 95203, 95204, 95205",
-        "Total_Population": 190000,
-        "Major_Cities": "Stockton",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.2908, 37.9577]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T017",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "95110, 95111, 95112, 95113",
-        "Total_Population": 189000,
-        "Major_Cities": "San Jose (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.8863, 37.3382]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T05",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80521, 80524, 80525, 80526",
-        "Total_Population": 194000,
-        "Major_Cities": "Fort Collins",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.0844, 40.5853]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T05",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "32202, 32204, 32205, 32206",
-        "Total_Population": 206000,
-        "Major_Cities": "Jacksonville (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6557, 30.3322]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T06",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33401, 33403, 33404, 33405",
-        "Total_Population": 205000,
-        "Major_Cities": "West Palm Beach",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0534, 26.7153]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T04",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "62701, 62702, 62703, 62704",
-        "Total_Population": 212000,
-        "Major_Cities": "Springfield",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.6501, 39.7817]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T05",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "14604, 14605, 14606, 14607",
-        "Total_Population": 216000,
-        "Major_Cities": "Rochester",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.6109, 43.1610]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T06",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "13202, 13203, 13204, 13205",
-        "Total_Population": 215000,
-        "Major_Cities": "Syracuse",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.1474, 43.0481]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T05",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98660, 98661, 98662, 98663",
-        "Total_Population": 209000,
-        "Major_Cities": "Vancouver",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.6710, 45.6392]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T04",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97501, 97502, 97503, 97504",
-        "Total_Population": 207000,
-        "Major_Cities": "Medford",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.8756, 42.3265]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NV-T04",
-        "State": "NV",
-        "Group_of_ZIP_Codes": "89014, 89015, 89052, 89053",
-        "Total_Population": 205000,
-        "Major_Cities": "Henderson",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-115.0343, 36.0395]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MA-T04",
-        "State": "MA",
-        "Group_of_ZIP_Codes": "01103, 01104, 01105, 01107",
-        "Total_Population": 203000,
-        "Major_Cities": "Springfield",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5898, 42.1015]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "PA-T04",
-        "State": "PA",
-        "Group_of_ZIP_Codes": "16501, 16502, 16503, 16504",
-        "Total_Population": 201000,
-        "Major_Cities": "Erie",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0851, 42.1292]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MI-T04",
-        "State": "MI",
-        "Group_of_ZIP_Codes": "48910, 48911, 48912, 48915",
+        "Group_of_ZIP_Codes": "90033, 90063, 90023",
         "Total_Population": 199000,
-        "Major_Cities": "Lansing",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (Boyle Heights)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.5489, 42.7325]
+        "coordinates": [-118.2115, 34.0487]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "ME-T02",
-        "State": "ME",
-        "Group_of_ZIP_Codes": "04240, 04241, 04243, 04250",
-        "Total_Population": 198000,
-        "Major_Cities": "Lewiston",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-70.2148, 44.1004]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VT-T02",
-        "State": "VT",
-        "Group_of_ZIP_Codes": "05602, 05603, 05604, 05650",
-        "Total_Population": 197000,
-        "Major_Cities": "Montpelier",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.5754, 44.2601]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "RI-T02",
-        "State": "RI",
-        "Group_of_ZIP_Codes": "02886, 02887, 02888, 02889",
-        "Total_Population": 196000,
-        "Major_Cities": "Warwick",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4162, 41.7001]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CT-T02",
-        "State": "CT",
-        "Group_of_ZIP_Codes": "06510, 06511, 06512, 06513",
-        "Total_Population": 195000,
-        "Major_Cities": "New Haven",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.9279, 41.3083]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NJ-T03",
-        "State": "NJ",
-        "Group_of_ZIP_Codes": "07501, 07502, 07503, 07504",
-        "Total_Population": 213000,
-        "Major_Cities": "Paterson",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.1715, 40.9165]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NM-T02",
-        "State": "NM",
-        "Group_of_ZIP_Codes": "87501, 87502, 87503, 87505",
-        "Total_Population": 194000,
-        "Major_Cities": "Santa Fe",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.9378, 35.6869]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VA-T02",
-        "State": "VA",
-        "Group_of_ZIP_Codes": "23502, 23503, 23504, 23505",
-        "Total_Population": 193000,
-        "Major_Cities": "Norfolk",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.2859, 36.8508]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MD-T02",
-        "State": "MD",
-        "Group_of_ZIP_Codes": "21401, 21402, 21403, 21404",
-        "Total_Population": 215000,
-        "Major_Cities": "Annapolis",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.4922, 38.9784]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MO-T03",
-        "State": "MO",
-        "Group_of_ZIP_Codes": "65802, 65803, 65804, 65806",
-        "Total_Population": 191000,
-        "Major_Cities": "Springfield",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.2923, 37.2087]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MT-T02",
-        "State": "MT",
-        "Group_of_ZIP_Codes": "59801, 59802, 59803, 59804",
-        "Total_Population": 190000,
-        "Major_Cities": "Missoula",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-113.9966, 46.8721]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "DE-T01",
-        "State": "DE",
-        "Group_of_ZIP_Codes": "19801, 19802, 19803, 19804",
-        "Total_Population": 189000,
-        "Major_Cities": "Wilmington",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.5466, 39.7459]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "HI-T01",
-        "State": "HI",
-        "Group_of_ZIP_Codes": "96813, 96814, 96815, 96816",
-        "Total_Population": 188000,
-        "Major_Cities": "Honolulu",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-157.8583, 21.3069]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MN-T01",
-        "State": "MN",
-        "Group_of_ZIP_Codes": "55401, 55402, 55403, 55404",
-        "Total_Population": 187000,
-        "Major_Cities": "Minneapolis (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.2650, 44.9778]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MN-T02",
-        "State": "MN",
-        "Group_of_ZIP_Codes": "55101, 55102, 55103, 55104",
-        "Total_Population": 186000,
-        "Major_Cities": "St. Paul",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-93.0900, 44.9537]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OH-T01",
-        "State": "OH",
-        "Group_of_ZIP_Codes": "43201, 43202, 43203, 43204",
-        "Total_Population": 185000,
-        "Major_Cities": "Columbus (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.9988, 39.9612]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OH-T02",
-        "State": "OH",
-        "Group_of_ZIP_Codes": "44101, 44102, 44103, 44104",
-        "Total_Population": 184000,
-        "Major_Cities": "Cleveland (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6944, 41.4993]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "DC-T01",
-        "State": "DC",
-        "Group_of_ZIP_Codes": "20001, 20002, 20003, 20004",
-        "Total_Population": 183000,
-        "Major_Cities": "Washington D.C. (Downtown)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0369, 38.9072]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T018",
+        "ZIP_Code": "90037",
         "State": "CA",
-        "Group_of_ZIP_Codes": "94501, 94502, 94536, 94538",
-        "Total_Population": 188000,
-        "Major_Cities": "Fremont",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.9886, 37.5485]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T019",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92602, 92603, 92604, 92606",
-        "Total_Population": 187000,
-        "Major_Cities": "Irvine",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8231, 33.6846]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T020",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "91701, 91730, 91739, 91761",
-        "Total_Population": 186000,
-        "Major_Cities": "Rancho Cucamonga",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5931, 34.1064]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T021",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "95401, 95403, 95404, 95405",
-        "Total_Population": 185000,
-        "Major_Cities": "Santa Rosa",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.7141, 38.4405]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T022",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "93901, 93905, 93906, 93907",
-        "Total_Population": 184000,
-        "Major_Cities": "Salinas",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.6555, 36.6777]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T023",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "94533, 94534, 94535, 94585",
-        "Total_Population": 183000,
-        "Major_Cities": "Fairfield",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.0402, 38.2494]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T024",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "95350, 95351, 95354, 95355",
-        "Total_Population": 182000,
-        "Major_Cities": "Modesto",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-120.9969, 37.6391]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T07",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "12202, 12203, 12204, 12205",
-        "Total_Population": 214000,
-        "Major_Cities": "Albany",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7562, 42.6526]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T08",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "10451, 10452, 10453, 10454",
-        "Total_Population": 213000,
-        "Major_Cities": "New York City (Bronx)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9300, 40.8448]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T09",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "11354, 11355, 11356, 11357",
-        "Total_Population": 212000,
-        "Major_Cities": "New York City (Queens)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7949, 40.7120]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T07",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33301, 33304, 33305, 33306",
-        "Total_Population": 204000,
-        "Major_Cities": "Fort Lauderdale",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.1373, 26.1224]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T08",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33010, 33012, 33013, 33014",
-        "Total_Population": 203000,
-        "Major_Cities": "Hialeah",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.2834, 25.8576]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T09",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33701, 33702, 33703, 33704",
-        "Total_Population": 202000,
-        "Major_Cities": "St. Petersburg",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6403, 27.7731]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T05",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "61101, 61102, 61103, 61104",
-        "Total_Population": 211000,
-        "Major_Cities": "Rockford",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-89.0940, 42.2711]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "IL-T06",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "60401, 60402, 60403, 60404",
-        "Total_Population": 210000,
-        "Major_Cities": "Joliet",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-88.0817, 41.5250]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T06",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "80010, 80011, 80012, 80013",
-        "Total_Population": 193000,
-        "Major_Cities": "Aurora",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.8319, 39.7294]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CO-T07",
-        "State": "CO",
-        "Group_of_ZIP_Codes": "81001, 81003, 81004, 81005",
-        "Total_Population": 192000,
-        "Major_Cities": "Pueblo",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-104.6091, 38.2544]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T08",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85250, 85251, 85253, 85254",
-        "Total_Population": 192000,
-        "Major_Cities": "Scottsdale",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9261, 33.4942]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AZ-T09",
-        "State": "AZ",
-        "Group_of_ZIP_Codes": "85281, 85282, 85283, 85284",
-        "Total_Population": 191000,
-        "Major_Cities": "Tempe",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.9395, 33.4255]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T06",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98001, 98002, 98003, 98004",
-        "Total_Population": 208000,
-        "Major_Cities": "Bellevue",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2040, 47.6101]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "WA-T07",
-        "State": "WA",
-        "Group_of_ZIP_Codes": "98201, 98203, 98204, 98208",
-        "Total_Population": 207000,
-        "Major_Cities": "Everett",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.2021, 47.9780]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T05",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97005, 97006, 97007, 97008",
-        "Total_Population": 206000,
-        "Major_Cities": "Beaverton",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.8037, 45.4871]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OR-T06",
-        "State": "OR",
-        "Group_of_ZIP_Codes": "97030, 97080, 97230, 97233",
-        "Total_Population": 205000,
-        "Major_Cities": "Gresham",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4307, 45.5234]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NV-T05",
-        "State": "NV",
-        "Group_of_ZIP_Codes": "89431, 89432, 89433, 89434",
-        "Total_Population": 204000,
-        "Major_Cities": "Sparks",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.7433, 39.5349]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MA-T05",
-        "State": "MA",
-        "Group_of_ZIP_Codes": "01850, 01851, 01852, 01854",
-        "Total_Population": 202000,
-        "Major_Cities": "Lowell",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.3162, 42.6334]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "PA-T05",
-        "State": "PA",
-        "Group_of_ZIP_Codes": "17601, 17602, 17603, 17604",
-        "Total_Population": 200000,
-        "Major_Cities": "Lancaster",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.3055, 40.0379]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MI-T05",
-        "State": "MI",
-        "Group_of_ZIP_Codes": "48501, 48502, 48503, 48504",
-        "Total_Population": 198000,
-        "Major_Cities": "Flint",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-83.6875, 43.0125]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "ME-T03",
-        "State": "ME",
-        "Group_of_ZIP_Codes": "04401, 04402, 04412, 04416",
-        "Total_Population": 197000,
-        "Major_Cities": "Bangor",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-68.7778, 44.8012]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VT-T03",
-        "State": "VT",
-        "Group_of_ZIP_Codes": "05701, 05702, 05736, 05759",
-        "Total_Population": 196000,
-        "Major_Cities": "Rutland",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.9726, 43.6106]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "RI-T03",
-        "State": "RI",
-        "Group_of_ZIP_Codes": "02910, 02920, 02921, 02922",
-        "Total_Population": 195000,
-        "Major_Cities": "Cranston",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.4373, 41.7798]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CT-T03",
-        "State": "CT",
-        "Group_of_ZIP_Codes": "06604, 06605, 06606, 06607",
-        "Total_Population": 194000,
-        "Major_Cities": "Bridgeport",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.1890, 41.1792]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NJ-T04",
-        "State": "NJ",
-        "Group_of_ZIP_Codes": "07201, 07202, 07203, 07204",
-        "Total_Population": 212000,
-        "Major_Cities": "Elizabeth",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.2107, 40.6640]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NM-T03",
-        "State": "NM",
-        "Group_of_ZIP_Codes": "88001, 88002, 88003, 88004",
-        "Total_Population": 193000,
-        "Major_Cities": "Las Cruces",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.7798, 32.3199]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "VA-T03",
-        "State": "VA",
-        "Group_of_ZIP_Codes": "23450, 23451, 23452, 23453",
-        "Total_Population": 192000,
-        "Major_Cities": "Virginia Beach",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.1019, 36.8529]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MD-T03",
-        "State": "MD",
-        "Group_of_ZIP_Codes": "20814, 20815, 20816, 20817",
-        "Total_Population": 214000,
-        "Major_Cities": "Bethesda",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0947, 38.9847]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MO-T04",
-        "State": "MO",
-        "Group_of_ZIP_Codes": "65201, 65202, 65203, 65204",
-        "Total_Population": 190000,
-        "Major_Cities": "Columbia",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.3341, 38.9517]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MT-T03",
-        "State": "MT",
-        "Group_of_ZIP_Codes": "59401, 59402, 59404, 59405",
-        "Total_Population": 189000,
-        "Major_Cities": "Great Falls",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-111.3008, 47.5002]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "AK-T05",
-        "State": "AK",
-        "Group_of_ZIP_Codes": "99645, 99654, 99667, 99683",
-        "Total_Population": 177000,
-        "Major_Cities": "Palmer",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-149.1124, 61.5992]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "HI-T02",
-        "State": "HI",
-        "Group_of_ZIP_Codes": "96701, 96703, 96704, 96706",
-        "Total_Population": 187000,
-        "Major_Cities": "Hilo",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-155.0900, 19.7071]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "MN-T03",
-        "State": "MN",
-        "Group_of_ZIP_Codes": "55801, 55802, 55803, 55804",
-        "Total_Population": 186000,
-        "Major_Cities": "Duluth",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-92.1005, 46.7867]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "OH-T03",
-        "State": "OH",
-        "Group_of_ZIP_Codes": "45201, 45202, 45203, 45204",
-        "Total_Population": 183000,
-        "Major_Cities": "Cincinnati",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-84.5120, 39.1031]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "DC-T02",
-        "State": "DC",
-        "Group_of_ZIP_Codes": "20005, 20006, 20007, 20008",
-        "Total_Population": 182000,
-        "Major_Cities": "Washington D.C. (Northwest)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.0469, 38.9272]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T025",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "93030, 93031, 93032, 93033",
-        "Total_Population": 181000,
-        "Major_Cities": "Oxnard",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.1771, 34.1975]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T026",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "92401, 92402, 92403, 92404",
-        "Total_Population": 180000,
-        "Major_Cities": "San Bernardino",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2898, 34.1083]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "CA-T027",
-        "State": "CA",
-        "Group_of_ZIP_Codes": "93001, 93002, 93003, 93004",
-        "Total_Population": 179000,
-        "Major_Cities": "Ventura",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.2972, 34.2805]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T10",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "11550, 11551, 11552, 11553",
-        "Total_Population": 211000,
-        "Major_Cities": "Hempstead (Long Island)",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.6170, 40.7062]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "NY-T11",
-        "State": "NY",
-        "Group_of_ZIP_Codes": "13501, 13502, 13503, 13504",
-        "Total_Population": 210000,
-        "Major_Cities": "Utica",
-        "Cannabis_Friendly": "✅"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.2327, 43.1009]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Territory_ID": "FL-T10",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "33901, 33902, 33903, 33904",
+        "Territory_ID": "CA-T011",
+        "Group_of_ZIP_Codes": "90037, 90044, 90047",
         "Total_Population": 201000,
-        "Major_Cities": "Cape Coral",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (South Central)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.9795, 26.6406]
+        "coordinates": [-118.2868, 34.0039]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "FL-T11",
-        "State": "FL",
-        "Group_of_ZIP_Codes": "32301, 32302, 32303, 32304",
+        "ZIP_Code": "90045",
+        "State": "CA",
+        "Territory_ID": "CA-T012",
+        "Group_of_ZIP_Codes": "90045, 90056, 90066",
+        "Total_Population": 197000,
+        "Major_Cities": "Los Angeles (Westchester)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3948, 33.959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90049",
+        "State": "CA",
+        "Territory_ID": "CA-T013",
+        "Group_of_ZIP_Codes": "90049, 90272, 90402",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Pacific Palisades)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4987, 34.0966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90057",
+        "State": "CA",
+        "Territory_ID": "CA-T014",
+        "Group_of_ZIP_Codes": "90057, 90058, 90062",
         "Total_Population": 200000,
-        "Major_Cities": "Tallahassee",
-        "Cannabis_Friendly": "✅"
+        "Major_Cities": "Los Angeles (Westlake)"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.2807, 30.4383]
+        "coordinates": [-118.2769, 34.0625]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "IL-T07",
-        "State": "IL",
-        "Group_of_ZIP_Codes": "60502, 60503, 60504, 60505",
-        "Total_Population": 209000,
-        "Major_Cities": "Aurora",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "90210",
+        "State": "CA",
+        "Territory_ID": "CA-T015",
+        "Group_of_ZIP_Codes": "90210, 90211, 90212",
+        "Total_Population": 198000,
+        "Major_Cities": "Beverly Hills"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-88.3201, 41.7606]
+        "coordinates": [-118.4128, 34.1033]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "OH-T04",
-        "State": "OH",
-        "Group_of_ZIP_Codes": "43601, 43602, 43603, 43604",
-        "Total_Population": 182000,
-        "Major_Cities": "Toledo",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "90220",
+        "State": "CA",
+        "Territory_ID": "CA-T016",
+        "Group_of_ZIP_Codes": "90220, 90221, 90222",
+        "Total_Population": 202000,
+        "Major_Cities": "Compton"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-83.5379, 41.6528]
+        "coordinates": [-118.2245, 33.8887]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Territory_ID": "MN-T04",
-        "State": "MN",
-        "Group_of_ZIP_Codes": "55901, 55902, 55903, 55904",
-        "Total_Population": 185000,
-        "Major_Cities": "Rochester",
-        "Cannabis_Friendly": "✅"
+        "ZIP_Code": "90230",
+        "State": "CA",
+        "Territory_ID": "CA-T017",
+        "Group_of_ZIP_Codes": "90230, 90232, 90291",
+        "Total_Population": 197000,
+        "Major_Cities": "Culver City"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-92.4630, 44.0216]
+        "coordinates": [-118.3965, 34.0002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90240",
+        "State": "CA",
+        "Territory_ID": "CA-T018",
+        "Group_of_ZIP_Codes": "90240, 90241, 90242",
+        "Total_Population": 204000,
+        "Major_Cities": "Downey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1171, 33.9597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90247",
+        "State": "CA",
+        "Territory_ID": "CA-T019",
+        "Group_of_ZIP_Codes": "90247, 90248, 90249",
+        "Total_Population": 199000,
+        "Major_Cities": "Gardena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2957, 33.8919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90250",
+        "State": "CA",
+        "Territory_ID": "CA-T020",
+        "Group_of_ZIP_Codes": "90250, 90260, 90261",
+        "Total_Population": 201000,
+        "Major_Cities": "Hawthorne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3515, 33.917]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90262",
+        "State": "CA",
+        "Territory_ID": "CA-T021",
+        "Group_of_ZIP_Codes": "90262, 90280",
+        "Total_Population": 203000,
+        "Major_Cities": "Lynwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1983, 33.9166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90301",
+        "State": "CA",
+        "Territory_ID": "CA-T022",
+        "Group_of_ZIP_Codes": "90301, 90302, 90303, 90304",
+        "Total_Population": 198000,
+        "Major_Cities": "Inglewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3578, 33.9574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90401",
+        "State": "CA",
+        "Territory_ID": "CA-T023",
+        "Group_of_ZIP_Codes": "90401, 90403, 90404, 90405",
+        "Total_Population": 200000,
+        "Major_Cities": "Santa Monica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4912, 34.0197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90501",
+        "State": "CA",
+        "Territory_ID": "CA-T024",
+        "Group_of_ZIP_Codes": "90501, 90502, 90503, 90504",
+        "Total_Population": 204000,
+        "Major_Cities": "Torrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3171, 33.8353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90601",
+        "State": "CA",
+        "Territory_ID": "CA-T025",
+        "Group_of_ZIP_Codes": "90601, 90602, 90603, 90604",
+        "Total_Population": 199000,
+        "Major_Cities": "Whittier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0402, 34.0031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90620",
+        "State": "CA",
+        "Territory_ID": "CA-T026",
+        "Group_of_ZIP_Codes": "90620, 90621, 90623",
+        "Total_Population": 201000,
+        "Major_Cities": "Buena Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0139, 33.8444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90630",
+        "State": "CA",
+        "Territory_ID": "CA-T027",
+        "Group_of_ZIP_Codes": "90630, 90631, 90680",
+        "Total_Population": 197000,
+        "Major_Cities": "Cypress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0388, 33.817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90640",
+        "State": "CA",
+        "Territory_ID": "CA-T028",
+        "Group_of_ZIP_Codes": "90640, 90650, 90660",
+        "Total_Population": 203000,
+        "Major_Cities": "Norwalk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1144, 34.0161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90670",
+        "State": "CA",
+        "Territory_ID": "CA-T029",
+        "Group_of_ZIP_Codes": "90670, 90701, 90703",
+        "Total_Population": 200000,
+        "Major_Cities": "Cerritos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.079, 33.9493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90706",
+        "State": "CA",
+        "Territory_ID": "CA-T030",
+        "Group_of_ZIP_Codes": "90706, 90707, 90723",
+        "Total_Population": 198000,
+        "Major_Cities": "Bellflower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1297, 33.8866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90712",
+        "State": "CA",
+        "Territory_ID": "CA-T031",
+        "Group_of_ZIP_Codes": "90712, 90713, 90715",
+        "Total_Population": 202000,
+        "Major_Cities": "Lakewood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1492, 33.8479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90716",
+        "State": "CA",
+        "Territory_ID": "CA-T032",
+        "Group_of_ZIP_Codes": "90716, 90717, 90744",
+        "Total_Population": 204000,
+        "Major_Cities": "Wilmington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0716, 33.8313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90731",
+        "State": "CA",
+        "Territory_ID": "CA-T033",
+        "Group_of_ZIP_Codes": "90731, 90732, 90745",
+        "Total_Population": 199000,
+        "Major_Cities": "San Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2878, 33.7405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90802",
+        "State": "CA",
+        "Territory_ID": "CA-T034",
+        "Group_of_ZIP_Codes": "90802, 90803, 90804, 90805",
+        "Total_Population": 201000,
+        "Major_Cities": "Long Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1834, 33.7701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90806",
+        "State": "CA",
+        "Territory_ID": "CA-T035",
+        "Group_of_ZIP_Codes": "90806, 90807, 90808",
+        "Total_Population": 197000,
+        "Major_Cities": "Long Beach (North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1906, 33.8047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "90810",
+        "State": "CA",
+        "Territory_ID": "CA-T036",
+        "Group_of_ZIP_Codes": "90810, 90813, 90814, 90815",
+        "Total_Population": 203000,
+        "Major_Cities": "Long Beach (East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.224, 33.8057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91001",
+        "State": "CA",
+        "Territory_ID": "CA-T037",
+        "Group_of_ZIP_Codes": "91001, 91006, 91007",
+        "Total_Population": 200000,
+        "Major_Cities": "Pasadena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.132, 34.1852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91016",
+        "State": "CA",
+        "Territory_ID": "CA-T038",
+        "Group_of_ZIP_Codes": "91016, 91030, 91101, 91103",
+        "Total_Population": 198000,
+        "Major_Cities": "Pasadena (South)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0734, 34.1496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91104",
+        "State": "CA",
+        "Territory_ID": "CA-T039",
+        "Group_of_ZIP_Codes": "91104, 91105, 91106, 91107",
+        "Total_Population": 204000,
+        "Major_Cities": "Pasadena (East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1222, 34.1699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91201",
+        "State": "CA",
+        "Territory_ID": "CA-T040",
+        "Group_of_ZIP_Codes": "91201, 91202, 91203, 91204",
+        "Total_Population": 199000,
+        "Major_Cities": "Glendale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.291, 34.1726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91205",
+        "State": "CA",
+        "Territory_ID": "CA-T041",
+        "Group_of_ZIP_Codes": "91205, 91206, 91207, 91208",
+        "Total_Population": 201000,
+        "Major_Cities": "Glendale (North)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2419, 34.1367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91301",
+        "State": "CA",
+        "Territory_ID": "CA-T042",
+        "Group_of_ZIP_Codes": "91301, 91302, 91304",
+        "Total_Population": 197000,
+        "Major_Cities": "Calabasas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.7658, 34.148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91306",
+        "State": "CA",
+        "Territory_ID": "CA-T043",
+        "Group_of_ZIP_Codes": "91306, 91307, 91311",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Canoga Park)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5808, 34.208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91316",
+        "State": "CA",
+        "Territory_ID": "CA-T044",
+        "Group_of_ZIP_Codes": "91316, 91324, 91325",
+        "Total_Population": 200000,
+        "Major_Cities": "Los Angeles (Northridge)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5197, 34.1878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91331",
+        "State": "CA",
+        "Territory_ID": "CA-T045",
+        "Group_of_ZIP_Codes": "91331, 91340, 91342",
+        "Total_Population": 204000,
+        "Major_Cities": "Los Angeles (Pacoima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4258, 34.2556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91335",
+        "State": "CA",
+        "Territory_ID": "CA-T046",
+        "Group_of_ZIP_Codes": "91335, 91343, 91344",
+        "Total_Population": 199000,
+        "Major_Cities": "Los Angeles (Reseda)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5373, 34.201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91352",
+        "State": "CA",
+        "Territory_ID": "CA-T047",
+        "Group_of_ZIP_Codes": "91352, 91356, 91367",
+        "Total_Population": 201000,
+        "Major_Cities": "Los Angeles (Tarzana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4092, 34.2248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91401",
+        "State": "CA",
+        "Territory_ID": "CA-T048",
+        "Group_of_ZIP_Codes": "91401, 91403, 91405",
+        "Total_Population": 197000,
+        "Major_Cities": "Los Angeles (Van Nuys)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4323, 34.1818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91406",
+        "State": "CA",
+        "Territory_ID": "CA-T049",
+        "Group_of_ZIP_Codes": "91406, 91411, 91423",
+        "Total_Population": 203000,
+        "Major_Cities": "Los Angeles (Sherman Oaks)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.496, 34.1969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91501",
+        "State": "CA",
+        "Territory_ID": "CA-T050",
+        "Group_of_ZIP_Codes": "91501, 91502, 91504, 91505",
+        "Total_Population": 200000,
+        "Major_Cities": "Burbank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3087, 34.1837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91601",
+        "State": "CA",
+        "Territory_ID": "CA-T051",
+        "Group_of_ZIP_Codes": "91601, 91602, 91604, 91606",
+        "Total_Population": 198000,
+        "Major_Cities": "Los Angeles (North Hollywood)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3729, 34.1683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91701",
+        "State": "CA",
+        "Territory_ID": "CA-T052",
+        "Group_of_ZIP_Codes": "91701, 91709, 91710",
+        "Total_Population": 204000,
+        "Major_Cities": "Rancho Cucamonga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.6069, 34.1343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91711",
+        "State": "CA",
+        "Territory_ID": "CA-T053",
+        "Group_of_ZIP_Codes": "91711, 91750, 91773",
+        "Total_Population": 199000,
+        "Major_Cities": "Claremont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7188, 34.1128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91730",
+        "State": "CA",
+        "Territory_ID": "CA-T054",
+        "Group_of_ZIP_Codes": "91730, 91739, 91761",
+        "Total_Population": 201000,
+        "Major_Cities": "Ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.5908, 34.1039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91732",
+        "State": "CA",
+        "Territory_ID": "CA-T055",
+        "Group_of_ZIP_Codes": "91732, 91733, 91746",
+        "Total_Population": 197000,
+        "Major_Cities": "El Monte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0124, 34.0812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91740",
+        "State": "CA",
+        "Territory_ID": "CA-T056",
+        "Group_of_ZIP_Codes": "91740, 91741, 91748",
+        "Total_Population": 203000,
+        "Major_Cities": "Glendora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.8637, 34.1187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91744",
+        "State": "CA",
+        "Territory_ID": "CA-T057",
+        "Group_of_ZIP_Codes": "91744, 91745, 91748",
+        "Total_Population": 200000,
+        "Major_Cities": "City of Industry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9378, 34.0287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91754",
+        "State": "CA",
+        "Territory_ID": "CA-T058",
+        "Group_of_ZIP_Codes": "91754, 91755, 91756",
+        "Total_Population": 198000,
+        "Major_Cities": "Monterey Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1441, 34.0498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91765",
+        "State": "CA",
+        "Territory_ID": "CA-T059",
+        "Group_of_ZIP_Codes": "91765, 91766, 91767",
+        "Total_Population": 204000,
+        "Major_Cities": "Pomona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.8181, 34.0024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91768",
+        "State": "CA",
+        "Territory_ID": "CA-T060",
+        "Group_of_ZIP_Codes": "91768, 91770, 91776",
+        "Total_Population": 199000,
+        "Major_Cities": "Rosemead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7889, 34.0693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91780",
+        "State": "CA",
+        "Territory_ID": "CA-T061",
+        "Group_of_ZIP_Codes": "91780, 91789, 91790",
+        "Total_Population": 201000,
+        "Major_Cities": "Temple City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0508, 34.1045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91801",
+        "State": "CA",
+        "Territory_ID": "CA-T062",
+        "Group_of_ZIP_Codes": "91801, 91803, 91804",
+        "Total_Population": 197000,
+        "Major_Cities": "Alhambra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1273, 34.094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91901",
+        "State": "CA",
+        "Territory_ID": "CA-T063",
+        "Group_of_ZIP_Codes": "91901, 91910, 91911",
+        "Total_Population": 203000,
+        "Major_Cities": "Chula Vista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.7955, 32.8314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91913",
+        "State": "CA",
+        "Territory_ID": "CA-T064",
+        "Group_of_ZIP_Codes": "91913, 91914, 91915",
+        "Total_Population": 200000,
+        "Major_Cities": "Chula Vista (East)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.9844, 32.651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "91932",
+        "State": "CA",
+        "Territory_ID": "CA-T065",
+        "Group_of_ZIP_Codes": "91932, 91950, 91977",
+        "Total_Population": 198000,
+        "Major_Cities": "Imperial Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0327, 32.5787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "92008",
+        "State": "CA",
+        "Territory_ID": "CA-T066",
+        "Group_of_ZIP_Codes": "92008, 92009, 92010",
+        "Total_Population": 204000,
+        "Major_Cities": "Carlsbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3232, 33.1459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZIP_Code": "92020",
+        "State": "CA",
+        "Territory_ID": "CA-T067",
+        "Group_of_ZIP_Codes": "92020, 92021, 92040",
+        "Total_Population": 199000,
+        "Major_Cities": "El Cajon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.9733, 32.7937]
       }
     }
   ]
