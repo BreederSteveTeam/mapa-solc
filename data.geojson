@@ -3,3292 +3,1191 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "10001",
-        "State": "NY",
-        "Territory_ID": "NY-T01",
-        "Group_of_ZIP_Codes": "10001, 10011, 10018, 10019, 10036",
-        "Total_Population": 205000,
-        "Major_Cities": "Manhattan (Midtown)"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9961, 40.7508]
+      },
+      "properties": {
+        "Territory_ID": "NY-T01",
+        "Primer_ZIP_Code": "10001",
+        "Group_of_ZIP_Codes": "10001, 10011, 10018, 10019, 10036"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "10002",
-        "State": "NY",
-        "Territory_ID": "NY-T02",
-        "Group_of_ZIP_Codes": "10002, 10003, 10009, 10012, 10013",
-        "Total_Population": 198000,
-        "Major_Cities": "Manhattan (Lower East Side)"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9864, 40.7149]
+      },
+      "properties": {
+        "Territory_ID": "NY-T02",
+        "Primer_ZIP_Code": "10002",
+        "Group_of_ZIP_Codes": "10002, 10003, 10009, 10012, 10013"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "10023",
-        "State": "NY",
-        "Territory_ID": "NY-T03",
-        "Group_of_ZIP_Codes": "10023, 10024, 10025, 10069",
-        "Total_Population": 202000,
-        "Major_Cities": "Manhattan (Upper West Side)"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9826, 40.7769]
+      },
+      "properties": {
+        "Territory_ID": "NY-T03",
+        "Primer_ZIP_Code": "10023",
+        "Group_of_ZIP_Codes": "10023, 10024, 10025, 10069"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "10029",
-        "State": "NY",
-        "Territory_ID": "NY-T04",
-        "Group_of_ZIP_Codes": "10029, 10035, 10037, 10039",
-        "Total_Population": 199000,
-        "Major_Cities": "Manhattan (Harlem)"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9457, 40.7918]
+      },
+      "properties": {
+        "Territory_ID": "NY-T04",
+        "Primer_ZIP_Code": "10029",
+        "Group_of_ZIP_Codes": "10029, 10035, 10037, 10039"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "10026",
-        "State": "NY",
-        "Territory_ID": "NY-T05",
-        "Group_of_ZIP_Codes": "10026, 10027, 10030, 10031",
-        "Total_Population": 201000,
-        "Major_Cities": "Manhattan (Central Harlem)"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9552, 40.8028]
+      },
+      "properties": {
+        "Territory_ID": "NY-T05",
+        "Primer_ZIP_Code": "10026",
+        "Group_of_ZIP_Codes": "10026, 10027, 10030, 10031"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9725, 40.7488]
+      },
       "properties": {
-        "ZIP_Code": "10010",
-        "State": "NY",
         "Territory_ID": "NY-T06",
-        "Group_of_ZIP_Codes": "10010, 10016, 10017, 10022",
-        "Total_Population": 204000,
-        "Major_Cities": "Manhattan (Murray Hill)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.986, 40.739]
+        "Primer_ZIP_Code": "10010",
+        "Group_of_ZIP_Codes": "10010, 10016, 10017, 10022"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0065, 40.7061]
+      },
       "properties": {
-        "ZIP_Code": "10004",
-        "State": "NY",
         "Territory_ID": "NY-T07",
-        "Group_of_ZIP_Codes": "10004, 10005, 10006, 10007, 10038",
-        "Total_Population": 197000,
-        "Major_Cities": "Manhattan (Financial District)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0138, 40.7019]
+        "Primer_ZIP_Code": "10004",
+        "Group_of_ZIP_Codes": "10004, 10005, 10006, 10007, 10038"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9597, 40.7655]
+      },
       "properties": {
-        "ZIP_Code": "10065",
-        "State": "NY",
         "Territory_ID": "NY-T08",
-        "Group_of_ZIP_Codes": "10065, 10075, 10021, 10128",
-        "Total_Population": 200000,
-        "Major_Cities": "Manhattan (Upper East Side)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9629, 40.7645]
+        "Primer_ZIP_Code": "10065",
+        "Group_of_ZIP_Codes": "10065, 10075, 10021, 10128"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9989, 40.7279]
+      },
       "properties": {
-        "ZIP_Code": "10014",
-        "State": "NY",
         "Territory_ID": "NY-T09",
-        "Group_of_ZIP_Codes": "10014, 10012, 10013",
-        "Total_Population": 203000,
-        "Major_Cities": "Manhattan (Greenwich Village)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0059, 40.7338]
+        "Primer_ZIP_Code": "10014",
+        "Group_of_ZIP_Codes": "10014, 10012, 10013"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9496, 40.7709]
+      },
       "properties": {
-        "ZIP_Code": "10028",
-        "State": "NY",
         "Territory_ID": "NY-T10",
-        "Group_of_ZIP_Codes": "10028, 10044, 10075",
-        "Total_Population": 199000,
-        "Major_Cities": "Manhattan (Yorkville)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9536, 40.7762]
+        "Primer_ZIP_Code": "10028",
+        "Group_of_ZIP_Codes": "10028, 10044, 10075"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9874, 40.6910]
+      },
       "properties": {
-        "ZIP_Code": "11201",
-        "State": "NY",
         "Territory_ID": "NY-T11",
-        "Group_of_ZIP_Codes": "11201, 11205, 11211, 11217",
-        "Total_Population": 202000,
-        "Major_Cities": "Brooklyn (Downtown)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9903, 40.6951]
+        "Primer_ZIP_Code": "11201",
+        "Group_of_ZIP_Codes": "11201, 11205, 11211, 11217"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9385, 40.6643]
+      },
       "properties": {
-        "ZIP_Code": "11203",
-        "State": "NY",
         "Territory_ID": "NY-T12",
-        "Group_of_ZIP_Codes": "11203, 11212, 11213, 11233",
-        "Total_Population": 197000,
-        "Major_Cities": "Brooklyn (East Flatbush)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9331, 40.6496]
+        "Primer_ZIP_Code": "11203",
+        "Group_of_ZIP_Codes": "11203, 11212, 11213, 11233"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9996, 40.6211]
+      },
       "properties": {
-        "ZIP_Code": "11204",
-        "State": "NY",
         "Territory_ID": "NY-T13",
-        "Group_of_ZIP_Codes": "11204, 11214, 11223, 11230",
-        "Total_Population": 204000,
-        "Major_Cities": "Brooklyn (Bensonhurst)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9857, 40.6208]
+        "Primer_ZIP_Code": "11204",
+        "Group_of_ZIP_Codes": "11204, 11214, 11223, 11230"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8945, 40.6784]
+      },
       "properties": {
-        "ZIP_Code": "11207",
-        "State": "NY",
         "Territory_ID": "NY-T14",
-        "Group_of_ZIP_Codes": "11207, 11208, 11221",
-        "Total_Population": 199000,
-        "Major_Cities": "Brooklyn (Bushwick)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.897, 40.6708]
+        "Primer_ZIP_Code": "11207",
+        "Group_of_ZIP_Codes": "11207, 11208, 11221"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0237, 40.6300]
+      },
       "properties": {
-        "ZIP_Code": "11209",
-        "State": "NY",
         "Territory_ID": "NY-T15",
-        "Group_of_ZIP_Codes": "11209, 11219, 11220, 11228",
-        "Total_Population": 201000,
-        "Major_Cities": "Brooklyn (Bay Ridge)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0285, 40.6231]
+        "Primer_ZIP_Code": "11209",
+        "Group_of_ZIP_Codes": "11209, 11219, 11220, 11228"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9896, 40.6678]
+      },
       "properties": {
-        "ZIP_Code": "11215",
-        "State": "NY",
         "Territory_ID": "NY-T16",
-        "Group_of_ZIP_Codes": "11215, 11217, 11231",
-        "Total_Population": 198000,
-        "Major_Cities": "Brooklyn (Park Slope)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9868, 40.6681]
+        "Primer_ZIP_Code": "11215",
+        "Group_of_ZIP_Codes": "11215, 11217, 11231"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9532, 40.6446]
+      },
       "properties": {
-        "ZIP_Code": "11226",
-        "State": "NY",
         "Territory_ID": "NY-T17",
-        "Group_of_ZIP_Codes": "11226, 11210, 11236",
-        "Total_Population": 203000,
-        "Major_Cities": "Brooklyn (Flatbush)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9562, 40.6468]
+        "Primer_ZIP_Code": "11226",
+        "Group_of_ZIP_Codes": "11226, 11210, 11236"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9768, 40.6057]
+      },
       "properties": {
-        "ZIP_Code": "11229",
-        "State": "NY",
         "Territory_ID": "NY-T18",
-        "Group_of_ZIP_Codes": "11229, 11234, 11235",
-        "Total_Population": 200000,
-        "Major_Cities": "Brooklyn (Sheepshead Bay)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.941, 40.6018]
+        "Primer_ZIP_Code": "11229",
+        "Group_of_ZIP_Codes": "11229, 11234, 11235"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9309, 40.6975]
+      },
       "properties": {
-        "ZIP_Code": "11206",
-        "State": "NY",
         "Territory_ID": "NY-T19",
-        "Group_of_ZIP_Codes": "11206, 11216, 11237",
-        "Total_Population": 197000,
-        "Major_Cities": "Brooklyn (Williamsburg)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9436, 40.7019]
+        "Primer_ZIP_Code": "11206",
+        "Group_of_ZIP_Codes": "11206, 11216, 11237"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8366, 40.7565]
+      },
       "properties": {
-        "ZIP_Code": "11354",
-        "State": "NY",
         "Territory_ID": "NY-T20",
-        "Group_of_ZIP_Codes": "11354, 11355, 11358, 11367",
-        "Total_Population": 199000,
-        "Major_Cities": "Queens (Flushing)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8251, 40.767]
+        "Primer_ZIP_Code": "11354",
+        "Group_of_ZIP_Codes": "11354, 11355, 11358, 11367"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8607, 40.7318]
+      },
       "properties": {
-        "ZIP_Code": "11368",
-        "State": "NY",
         "Territory_ID": "NY-T21",
-        "Group_of_ZIP_Codes": "11368, 11369, 11370, 11373",
-        "Total_Population": 201000,
-        "Major_Cities": "Queens (Corona)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8606, 40.7498]
+        "Primer_ZIP_Code": "11368",
+        "Group_of_ZIP_Codes": "11368, 11369, 11370, 11373"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7771, 40.6755]
+      },
       "properties": {
-        "ZIP_Code": "11411",
-        "State": "NY",
         "Territory_ID": "NY-T22",
-        "Group_of_ZIP_Codes": "11411, 11412, 11413, 11429",
-        "Total_Population": 204000,
-        "Major_Cities": "Queens (Jamaica)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.7377, 40.6964]
+        "Primer_ZIP_Code": "11411",
+        "Group_of_ZIP_Codes": "11411, 11412, 11413, 11429"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8618, 40.7638]
+      },
       "properties": {
-        "ZIP_Code": "11375",
-        "State": "NY",
         "Territory_ID": "NY-T23",
-        "Group_of_ZIP_Codes": "11375, 11374, 11385",
-        "Total_Population": 198000,
-        "Major_Cities": "Queens (Forest Hills)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8448, 40.7233]
+        "Primer_ZIP_Code": "11375",
+        "Group_of_ZIP_Codes": "11375, 11374, 11385"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9049, 40.7423]
+      },
       "properties": {
-        "ZIP_Code": "11101",
-        "State": "NY",
         "Territory_ID": "NY-T24",
-        "Group_of_ZIP_Codes": "11101, 11102, 11103, 11106",
-        "Total_Population": 202000,
-        "Major_Cities": "Queens (Long Island City)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9433, 40.7473]
+        "Primer_ZIP_Code": "11101",
+        "Group_of_ZIP_Codes": "11101, 11102, 11103, 11106"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8088, 40.7838]
+      },
       "properties": {
-        "ZIP_Code": "11356",
-        "State": "NY",
         "Territory_ID": "NY-T25",
-        "Group_of_ZIP_Codes": "11356, 11357, 11360",
-        "Total_Population": 197000,
-        "Major_Cities": "Queens (College Point)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8707, 40.7859]
+        "Primer_ZIP_Code": "11356",
+        "Group_of_ZIP_Codes": "11356, 11357, 11360"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8367, 40.6686]
+      },
       "properties": {
-        "ZIP_Code": "11414",
-        "State": "NY",
         "Territory_ID": "NY-T26",
-        "Group_of_ZIP_Codes": "11414, 11416, 11417, 11420",
-        "Total_Population": 200000,
-        "Major_Cities": "Queens (Howard Beach)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8463, 40.6567]
+        "Primer_ZIP_Code": "11414",
+        "Group_of_ZIP_Codes": "11414, 11416, 11417, 11420"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9145, 40.8118]
+      },
       "properties": {
-        "ZIP_Code": "10451",
-        "State": "NY",
         "Territory_ID": "NY-T27",
-        "Group_of_ZIP_Codes": "10451, 10452, 10453, 10454",
-        "Total_Population": 201000,
-        "Major_Cities": "Bronx (South Bronx)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9269, 40.8194]
+        "Primer_ZIP_Code": "10451",
+        "Group_of_ZIP_Codes": "10451, 10452, 10453, 10454"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8976, 40.8419]
+      },
       "properties": {
-        "ZIP_Code": "10457",
-        "State": "NY",
         "Territory_ID": "NY-T28",
-        "Group_of_ZIP_Codes": "10457, 10458, 10460, 10467",
-        "Total_Population": 198000,
-        "Major_Cities": "Bronx (Tremont)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8999, 40.8492]
+        "Primer_ZIP_Code": "10457",
+        "Group_of_ZIP_Codes": "10457, 10458, 10460, 10467"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8470, 40.8639]
+      },
       "properties": {
-        "ZIP_Code": "10461",
-        "State": "NY",
         "Territory_ID": "NY-T29",
-        "Group_of_ZIP_Codes": "10461, 10462, 10465, 10469",
-        "Total_Population": 202000,
-        "Major_Cities": "Bronx (Pelham Bay)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8423, 40.8463]
+        "Primer_ZIP_Code": "10461",
+        "Group_of_ZIP_Codes": "10461, 10462, 10465, 10469"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9207, 40.8675]
+      },
       "properties": {
-        "ZIP_Code": "10463",
-        "State": "NY",
         "Territory_ID": "NY-T30",
-        "Group_of_ZIP_Codes": "10463, 10468, 10471",
-        "Total_Population": 197000,
-        "Major_Cities": "Bronx (Riverdale)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9089, 40.8797]
+        "Primer_ZIP_Code": "10463",
+        "Group_of_ZIP_Codes": "10463, 10468, 10471"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.1167, 40.6350]
+      },
       "properties": {
-        "ZIP_Code": "10301",
-        "State": "NY",
         "Territory_ID": "NY-T31",
-        "Group_of_ZIP_Codes": "10301, 10302, 10303, 10304",
-        "Total_Population": 203000,
-        "Major_Cities": "Staten Island (North Shore)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0947, 40.6305]
+        "Primer_ZIP_Code": "10301",
+        "Group_of_ZIP_Codes": "10301, 10302, 10303, 10304"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.1495, 40.5890]
+      },
       "properties": {
-        "ZIP_Code": "10305",
-        "State": "NY",
         "Territory_ID": "NY-T32",
-        "Group_of_ZIP_Codes": "10305, 10306, 10307, 10308",
-        "Total_Population": 199000,
-        "Major_Cities": "Staten Island (South Shore)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0712, 40.5998]
+        "Primer_ZIP_Code": "10305",
+        "Group_of_ZIP_Codes": "10305, 10306, 10307, 10308"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 33.9817]
+      },
       "properties": {
-        "ZIP_Code": "90001",
-        "State": "CA",
         "Territory_ID": "CA-T001",
-        "Group_of_ZIP_Codes": "90001, 90002, 90003, 90007",
-        "Total_Population": 204000,
-        "Major_Cities": "Los Angeles (South)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2479, 33.9731]
+        "Primer_ZIP_Code": "90001",
+        "Group_of_ZIP_Codes": "90001, 90002, 90003, 90007"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2969, 34.0736]
+      },
       "properties": {
-        "ZIP_Code": "90004",
-        "State": "CA",
         "Territory_ID": "CA-T002",
-        "Group_of_ZIP_Codes": "90004, 90005, 90020, 90029",
-        "Total_Population": 199000,
-        "Major_Cities": "Los Angeles (Koreatown)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3107, 34.0762]
+        "Primer_ZIP_Code": "90004",
+        "Group_of_ZIP_Codes": "90004, 90005, 90020, 90029"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2705, 34.0397]
+      },
       "properties": {
-        "ZIP_Code": "90006",
-        "State": "CA",
         "Territory_ID": "CA-T003",
-        "Group_of_ZIP_Codes": "90006, 90007, 90015, 90017",
-        "Total_Population": 202000,
-        "Major_Cities": "Los Angeles (Downtown)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.294, 34.0493]
+        "Primer_ZIP_Code": "90006",
+        "Group_of_ZIP_Codes": "90006, 90007, 90015, 90017"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3142, 33.9995]
+      },
       "properties": {
-        "ZIP_Code": "90008",
-        "State": "CA",
         "Territory_ID": "CA-T004",
-        "Group_of_ZIP_Codes": "90008, 90016, 90018, 90043",
-        "Total_Population": 197000,
-        "Major_Cities": "Los Angeles (Crenshaw)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3468, 34.0096]
+        "Primer_ZIP_Code": "90008",
+        "Group_of_ZIP_Codes": "90008, 90016, 90018, 90043"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3306, 34.0507]
+      },
       "properties": {
-        "ZIP_Code": "90019",
-        "State": "CA",
         "Territory_ID": "CA-T005",
-        "Group_of_ZIP_Codes": "90019, 90036, 90048, 90069",
-        "Total_Population": 201000,
-        "Major_Cities": "Los Angeles (Mid-Wilshire)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3362, 34.0487]
+        "Primer_ZIP_Code": "90019",
+        "Group_of_ZIP_Codes": "90019, 90036, 90048, 90069"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4426, 34.0467]
+      },
       "properties": {
-        "ZIP_Code": "90024",
-        "State": "CA",
         "Territory_ID": "CA-T006",
-        "Group_of_ZIP_Codes": "90024, 90025, 90064, 90067",
-        "Total_Population": 203000,
-        "Major_Cities": "Los Angeles (Westwood)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.436, 34.0639]
+        "Primer_ZIP_Code": "90024",
+        "Group_of_ZIP_Codes": "90024, 90025, 90064, 90067"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2432, 34.0901]
+      },
       "properties": {
-        "ZIP_Code": "90026",
-        "State": "CA",
         "Territory_ID": "CA-T007",
-        "Group_of_ZIP_Codes": "90026, 90027, 90039",
-        "Total_Population": 198000,
-        "Major_Cities": "Los Angeles (Silver Lake)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2646, 34.0789]
+        "Primer_ZIP_Code": "90026",
+        "Group_of_ZIP_Codes": "90026, 90027, 90039"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3247, 34.0944]
+      },
       "properties": {
-        "ZIP_Code": "90028",
-        "State": "CA",
         "Territory_ID": "CA-T008",
-        "Group_of_ZIP_Codes": "90028, 90038, 90046, 90068",
-        "Total_Population": 200000,
-        "Major_Cities": "Los Angeles (Hollywood)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3267, 34.1016]
+        "Primer_ZIP_Code": "90028",
+        "Group_of_ZIP_Codes": "90028, 90038, 90046, 90068"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2005, 34.0736]
+      },
       "properties": {
-        "ZIP_Code": "90031",
-        "State": "CA",
         "Territory_ID": "CA-T009",
-        "Group_of_ZIP_Codes": "90031, 90032, 90042",
-        "Total_Population": 204000,
-        "Major_Cities": "Los Angeles (Highland Park)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2166, 34.0787]
+        "Primer_ZIP_Code": "90031",
+        "Group_of_ZIP_Codes": "90031, 90032, 90042"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2105, 34.0438]
+      },
       "properties": {
-        "ZIP_Code": "90033",
-        "State": "CA",
         "Territory_ID": "CA-T010",
-        "Group_of_ZIP_Codes": "90033, 90063, 90023",
-        "Total_Population": 199000,
-        "Major_Cities": "Los Angeles (Boyle Heights)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2115, 34.0487]
+        "Primer_ZIP_Code": "90033",
+        "Group_of_ZIP_Codes": "90033, 90063, 90023"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2917, 33.9603]
+      },
       "properties": {
-        "ZIP_Code": "90037",
-        "State": "CA",
         "Territory_ID": "CA-T011",
-        "Group_of_ZIP_Codes": "90037, 90044, 90047",
-        "Total_Population": 201000,
-        "Major_Cities": "Los Angeles (South Central)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2868, 34.0039]
+        "Primer_ZIP_Code": "90037",
+        "Group_of_ZIP_Codes": "90037, 90044, 90047"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4228, 33.9729]
+      },
       "properties": {
-        "ZIP_Code": "90045",
-        "State": "CA",
         "Territory_ID": "CA-T012",
-        "Group_of_ZIP_Codes": "90045, 90056, 90066",
-        "Total_Population": 197000,
-        "Major_Cities": "Los Angeles (Westchester)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3948, 33.959]
+        "Primer_ZIP_Code": "90045",
+        "Group_of_ZIP_Codes": "90045, 90056, 90066"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4912, 34.0336]
+      },
       "properties": {
-        "ZIP_Code": "90049",
-        "State": "CA",
         "Territory_ID": "CA-T013",
-        "Group_of_ZIP_Codes": "90049, 90272, 90402",
-        "Total_Population": 203000,
-        "Major_Cities": "Los Angeles (Pacific Palisades)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4987, 34.0966]
+        "Primer_ZIP_Code": "90049",
+        "Group_of_ZIP_Codes": "90049, 90272, 90402"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2645, 34.0175]
+      },
       "properties": {
-        "ZIP_Code": "90057",
-        "State": "CA",
         "Territory_ID": "CA-T014",
-        "Group_of_ZIP_Codes": "90057, 90058, 90062",
-        "Total_Population": 200000,
-        "Major_Cities": "Los Angeles (Westlake)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2769, 34.0625]
+        "Primer_ZIP_Code": "90057",
+        "Group_of_ZIP_Codes": "90057, 90058, 90062"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3815, 34.0868]
+      },
       "properties": {
-        "ZIP_Code": "90210",
-        "State": "CA",
         "Territory_ID": "CA-T015",
-        "Group_of_ZIP_Codes": "90210, 90211, 90212",
-        "Total_Population": 198000,
-        "Major_Cities": "Beverly Hills"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4128, 34.1033]
+        "Primer_ZIP_Code": "90210",
+        "Group_of_ZIP_Codes": "90210, 90211, 90212"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2566, 33.8975]
+      },
       "properties": {
-        "ZIP_Code": "90220",
-        "State": "CA",
         "Territory_ID": "CA-T016",
-        "Group_of_ZIP_Codes": "90220, 90221, 90222",
-        "Total_Population": 202000,
-        "Major_Cities": "Compton"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2245, 33.8887]
+        "Primer_ZIP_Code": "90220",
+        "Group_of_ZIP_Codes": "90220, 90221, 90222"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3975, 34.0007]
+      },
       "properties": {
-        "ZIP_Code": "90230",
-        "State": "CA",
         "Territory_ID": "CA-T017",
-        "Group_of_ZIP_Codes": "90230, 90232, 90291",
-        "Total_Population": 197000,
-        "Major_Cities": "Culver City"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3965, 34.0002]
+        "Primer_ZIP_Code": "90230",
+        "Group_of_ZIP_Codes": "90230, 90232, 90291"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1567, 33.9797]
+      },
       "properties": {
-        "ZIP_Code": "90240",
-        "State": "CA",
         "Territory_ID": "CA-T018",
-        "Group_of_ZIP_Codes": "90240, 90241, 90242",
-        "Total_Population": 204000,
-        "Major_Cities": "Downey"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1171, 33.9597]
+        "Primer_ZIP_Code": "90240",
+        "Group_of_ZIP_Codes": "90240, 90241, 90242"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3519, 33.8927]
+      },
       "properties": {
-        "ZIP_Code": "90247",
-        "State": "CA",
         "Territory_ID": "CA-T019",
-        "Group_of_ZIP_Codes": "90247, 90248, 90249",
-        "Total_Population": 199000,
-        "Major_Cities": "Gardena"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2957, 33.8919]
+        "Primer_ZIP_Code": "90247",
+        "Group_of_ZIP_Codes": "90247, 90248, 90249"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3753, 33.8872]
+      },
       "properties": {
-        "ZIP_Code": "90250",
-        "State": "CA",
         "Territory_ID": "CA-T020",
-        "Group_of_ZIP_Codes": "90250, 90260, 90261",
-        "Total_Population": 201000,
-        "Major_Cities": "Hawthorne"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3515, 33.917]
+        "Primer_ZIP_Code": "90250",
+        "Group_of_ZIP_Codes": "90250, 90260, 90261"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2005, 33.9295]
+      },
       "properties": {
-        "ZIP_Code": "90262",
-        "State": "CA",
         "Territory_ID": "CA-T021",
-        "Group_of_ZIP_Codes": "90262, 90280",
-        "Total_Population": 203000,
-        "Major_Cities": "Lynwood"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1983, 33.9166]
+        "Primer_ZIP_Code": "90262",
+        "Group_of_ZIP_Codes": "90262, 90280"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3387, 33.9346]
+      },
       "properties": {
-        "ZIP_Code": "90301",
-        "State": "CA",
         "Territory_ID": "CA-T022",
-        "Group_of_ZIP_Codes": "90301, 90302, 90303, 90304",
-        "Total_Population": 198000,
-        "Major_Cities": "Inglewood"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3578, 33.9574]
+        "Primer_ZIP_Code": "90301",
+        "Group_of_ZIP_Codes": "90301, 90302, 90303, 90304"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4592, 34.0170]
+      },
       "properties": {
-        "ZIP_Code": "90401",
-        "State": "CA",
         "Territory_ID": "CA-T023",
-        "Group_of_ZIP_Codes": "90401, 90403, 90404, 90405",
-        "Total_Population": 200000,
-        "Major_Cities": "Santa Monica"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4912, 34.0197]
+        "Primer_ZIP_Code": "90401",
+        "Group_of_ZIP_Codes": "90401, 90403, 90404, 90405"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3435, 33.8277]
+      },
       "properties": {
-        "ZIP_Code": "90501",
-        "State": "CA",
         "Territory_ID": "CA-T024",
-        "Group_of_ZIP_Codes": "90501, 90502, 90503, 90504",
-        "Total_Population": 204000,
-        "Major_Cities": "Torrance"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3171, 33.8353]
+        "Primer_ZIP_Code": "90501",
+        "Group_of_ZIP_Codes": "90501, 90502, 90503, 90504"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0816, 33.9957]
+      },
       "properties": {
-        "ZIP_Code": "90601",
-        "State": "CA",
         "Territory_ID": "CA-T025",
-        "Group_of_ZIP_Codes": "90601, 90602, 90603, 90604",
-        "Total_Population": 199000,
-        "Major_Cities": "Whittier"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0402, 34.0031]
+        "Primer_ZIP_Code": "90601",
+        "Group_of_ZIP_Codes": "90601, 90602, 90603, 90604"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9387, 33.8378]
+      },
       "properties": {
-        "ZIP_Code": "90620",
-        "State": "CA",
         "Territory_ID": "CA-T026",
-        "Group_of_ZIP_Codes": "90620, 90621, 90623",
-        "Total_Population": 201000,
-        "Major_Cities": "Buena Park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0139, 33.8444]
+        "Primer_ZIP_Code": "90620",
+        "Group_of_ZIP_Codes": "90620, 90621, 90623"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0353, 33.8125]
+      },
       "properties": {
-        "ZIP_Code": "90630",
-        "State": "CA",
         "Territory_ID": "CA-T027",
-        "Group_of_ZIP_Codes": "90630, 90631, 90680",
-        "Total_Population": 197000,
-        "Major_Cities": "Cypress"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0388, 33.817]
+        "Primer_ZIP_Code": "90630",
+        "Group_of_ZIP_Codes": "90630, 90631, 90680"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1334, 33.9995]
+      },
       "properties": {
-        "ZIP_Code": "90640",
-        "State": "CA",
         "Territory_ID": "CA-T028",
-        "Group_of_ZIP_Codes": "90640, 90650, 90660",
-        "Total_Population": 203000,
-        "Major_Cities": "Norwalk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1144, 34.0161]
+        "Primer_ZIP_Code": "90640",
+        "Group_of_ZIP_Codes": "90640, 90650, 90660"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0648, 33.9312]
+      },
       "properties": {
-        "ZIP_Code": "90670",
-        "State": "CA",
         "Territory_ID": "CA-T029",
-        "Group_of_ZIP_Codes": "90670, 90701, 90703",
-        "Total_Population": 200000,
-        "Major_Cities": "Cerritos"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.079, 33.9493]
+        "Primer_ZIP_Code": "90670",
+        "Group_of_ZIP_Codes": "90670, 90701, 90703"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1515, 33.8953]
+      },
       "properties": {
-        "ZIP_Code": "90706",
-        "State": "CA",
         "Territory_ID": "CA-T030",
-        "Group_of_ZIP_Codes": "90706, 90707, 90723",
-        "Total_Population": 198000,
-        "Major_Cities": "Bellflower"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1297, 33.8866]
+        "Primer_ZIP_Code": "90706",
+        "Group_of_ZIP_Codes": "90706, 90707, 90723"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0273, 33.8589]
+      },
       "properties": {
-        "ZIP_Code": "90712",
-        "State": "CA",
         "Territory_ID": "CA-T031",
-        "Group_of_ZIP_Codes": "90712, 90713, 90715",
-        "Total_Population": 202000,
-        "Major_Cities": "Lakewood"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1492, 33.8479]
+        "Primer_ZIP_Code": "90712",
+        "Group_of_ZIP_Codes": "90712, 90713, 90715"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2911, 33.7906]
+      },
       "properties": {
-        "ZIP_Code": "90716",
-        "State": "CA",
         "Territory_ID": "CA-T032",
-        "Group_of_ZIP_Codes": "90716, 90717, 90744",
-        "Total_Population": 204000,
-        "Major_Cities": "Wilmington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0716, 33.8313]
+        "Primer_ZIP_Code": "90716",
+        "Group_of_ZIP_Codes": "90716, 90717, 90744"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2628, 33.7542]
+      },
       "properties": {
-        "ZIP_Code": "90731",
-        "State": "CA",
         "Territory_ID": "CA-T033",
-        "Group_of_ZIP_Codes": "90731, 90732, 90745",
-        "Total_Population": 199000,
-        "Major_Cities": "San Pedro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2878, 33.7405]
+        "Primer_ZIP_Code": "90731",
+        "Group_of_ZIP_Codes": "90731, 90732, 90745"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2529, 33.7938]
+      },
       "properties": {
-        "ZIP_Code": "90802",
-        "State": "CA",
         "Territory_ID": "CA-T034",
-        "Group_of_ZIP_Codes": "90802, 90803, 90804, 90805",
-        "Total_Population": 201000,
-        "Major_Cities": "Long Beach"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1834, 33.7701]
+        "Primer_ZIP_Code": "90802",
+        "Group_of_ZIP_Codes": "90802, 90803, 90804, 90805"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2201, 33.8325]
+      },
       "properties": {
-        "ZIP_Code": "90806",
-        "State": "CA",
         "Territory_ID": "CA-T035",
-        "Group_of_ZIP_Codes": "90806, 90807, 90808",
-        "Total_Population": 197000,
-        "Major_Cities": "Long Beach (North)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1906, 33.8047]
+        "Primer_ZIP_Code": "90806",
+        "Group_of_ZIP_Codes": "90806, 90807, 90808"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1925, 33.7667]
+      },
       "properties": {
-        "ZIP_Code": "90810",
-        "State": "CA",
         "Territory_ID": "CA-T036",
-        "Group_of_ZIP_Codes": "90810, 90813, 90814, 90815",
-        "Total_Population": 203000,
-        "Major_Cities": "Long Beach (East)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.224, 33.8057]
+        "Primer_ZIP_Code": "90810",
+        "Group_of_ZIP_Codes": "90810, 90813, 90814, 90815"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1121, 34.1485]
+      },
       "properties": {
-        "ZIP_Code": "91001",
-        "State": "CA",
         "Territory_ID": "CA-T037",
-        "Group_of_ZIP_Codes": "91001, 91006, 91007",
-        "Total_Population": 200000,
-        "Major_Cities": "Pasadena"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.132, 34.1852]
+        "Primer_ZIP_Code": "91001",
+        "Group_of_ZIP_Codes": "91001, 91006, 91007"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1505, 34.1128]
+      },
       "properties": {
-        "ZIP_Code": "91016",
-        "State": "CA",
         "Territory_ID": "CA-T038",
-        "Group_of_ZIP_Codes": "91016, 91030, 91101, 91103",
-        "Total_Population": 198000,
-        "Major_Cities": "Pasadena (South)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0734, 34.1496]
+        "Primer_ZIP_Code": "91016",
+        "Group_of_ZIP_Codes": "91016, 91030, 91101, 91103"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1270, 34.1383]
+      },
       "properties": {
-        "ZIP_Code": "91104",
-        "State": "CA",
         "Territory_ID": "CA-T039",
-        "Group_of_ZIP_Codes": "91104, 91105, 91106, 91107",
-        "Total_Population": 204000,
-        "Major_Cities": "Pasadena (East)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1222, 34.1699]
+        "Primer_ZIP_Code": "91104",
+        "Group_of_ZIP_Codes": "91104, 91105, 91106, 91107"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2549, 34.1882]
+      },
       "properties": {
-        "ZIP_Code": "91201",
-        "State": "CA",
         "Territory_ID": "CA-T040",
-        "Group_of_ZIP_Codes": "91201, 91202, 91203, 91204",
-        "Total_Population": 199000,
-        "Major_Cities": "Glendale"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.291, 34.1726]
+        "Primer_ZIP_Code": "91201",
+        "Group_of_ZIP_Codes": "91201, 91202, 91203, 91204"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2268, 34.1611]
+      },
       "properties": {
-        "ZIP_Code": "91205",
-        "State": "CA",
         "Territory_ID": "CA-T041",
-        "Group_of_ZIP_Codes": "91205, 91206, 91207, 91208",
-        "Total_Population": 201000,
-        "Major_Cities": "Glendale (North)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.2419, 34.1367]
+        "Primer_ZIP_Code": "91205",
+        "Group_of_ZIP_Codes": "91205, 91206, 91207, 91208"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5855, 34.1685]
+      },
       "properties": {
-        "ZIP_Code": "91301",
-        "State": "CA",
         "Territory_ID": "CA-T042",
-        "Group_of_ZIP_Codes": "91301, 91302, 91304",
-        "Total_Population": 197000,
-        "Major_Cities": "Calabasas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.7658, 34.148]
+        "Primer_ZIP_Code": "91301",
+        "Group_of_ZIP_Codes": "91301, 91302, 91304"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5346, 34.2011]
+      },
       "properties": {
-        "ZIP_Code": "91306",
-        "State": "CA",
         "Territory_ID": "CA-T043",
-        "Group_of_ZIP_Codes": "91306, 91307, 91311",
-        "Total_Population": 203000,
-        "Major_Cities": "Los Angeles (Canoga Park)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5808, 34.208]
+        "Primer_ZIP_Code": "91306",
+        "Group_of_ZIP_Codes": "91306, 91307, 91311"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4298, 34.1836]
+      },
       "properties": {
-        "ZIP_Code": "91316",
-        "State": "CA",
         "Territory_ID": "CA-T044",
-        "Group_of_ZIP_Codes": "91316, 91324, 91325",
-        "Total_Population": 200000,
-        "Major_Cities": "Los Angeles (Northridge)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5197, 34.1878]
+        "Primer_ZIP_Code": "91316",
+        "Group_of_ZIP_Codes": "91316, 91324, 91325"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3702, 34.2723]
+      },
       "properties": {
-        "ZIP_Code": "91331",
-        "State": "CA",
         "Territory_ID": "CA-T045",
-        "Group_of_ZIP_Codes": "91331, 91340, 91342",
-        "Total_Population": 204000,
-        "Major_Cities": "Los Angeles (Pacoima)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4258, 34.2556]
+        "Primer_ZIP_Code": "91331",
+        "Group_of_ZIP_Codes": "91331, 91340, 91342"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4515, 34.2036]
+      },
       "properties": {
-        "ZIP_Code": "91335",
-        "State": "CA",
         "Territory_ID": "CA-T046",
-        "Group_of_ZIP_Codes": "91335, 91343, 91344",
-        "Total_Population": 199000,
-        "Major_Cities": "Los Angeles (Reseda)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.5373, 34.201]
+        "Primer_ZIP_Code": "91335",
+        "Group_of_ZIP_Codes": "91335, 91343, 91344"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4752, 34.2460]
+      },
       "properties": {
-        "ZIP_Code": "91352",
-        "State": "CA",
         "Territory_ID": "CA-T047",
-        "Group_of_ZIP_Codes": "91352, 91356, 91367",
-        "Total_Population": 201000,
-        "Major_Cities": "Los Angeles (Tarzana)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4092, 34.2248]
+        "Primer_ZIP_Code": "91352",
+        "Group_of_ZIP_Codes": "91352, 91356, 91367"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4059, 34.1722]
+      },
       "properties": {
-        "ZIP_Code": "91401",
-        "State": "CA",
         "Territory_ID": "CA-T048",
-        "Group_of_ZIP_Codes": "91401, 91403, 91405",
-        "Total_Population": 197000,
-        "Major_Cities": "Los Angeles (Van Nuys)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.4323, 34.1818]
+        "Primer_ZIP_Code": "91401",
+        "Group_of_ZIP_Codes": "91401, 91403, 91405"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4487, 34.1485]
+      },
       "properties": {
-        "ZIP_Code": "91406",
-        "State": "CA",
         "Territory_ID": "CA-T049",
-        "Group_of_ZIP_Codes": "91406, 91411, 91423",
-        "Total_Population": 203000,
-        "Major_Cities": "Los Angeles (Sherman Oaks)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.496, 34.1969]
+        "Primer_ZIP_Code": "91406",
+        "Group_of_ZIP_Codes": "91406, 91411, 91423"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2559, 34.1651]
+      },
       "properties": {
-        "ZIP_Code": "91501",
-        "State": "CA",
         "Territory_ID": "CA-T050",
-        "Group_of_ZIP_Codes": "91501, 91502, 91504, 91505",
-        "Total_Population": 200000,
-        "Major_Cities": "Burbank"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3087, 34.1837]
+        "Primer_ZIP_Code": "91501",
+        "Group_of_ZIP_Codes": "91501, 91502, 91504, 91505"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3089, 34.1808]
+      },
       "properties": {
-        "ZIP_Code": "91601",
-        "State": "CA",
         "Territory_ID": "CA-T051",
-        "Group_of_ZIP_Codes": "91601, 91602, 91604, 91606",
-        "Total_Population": 198000,
-        "Major_Cities": "Los Angeles (North Hollywood)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3729, 34.1683]
+        "Primer_ZIP_Code": "91601",
+        "Group_of_ZIP_Codes": "91601, 91602, 91604, 91606"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.5961, 34.0560]
+      },
       "properties": {
-        "ZIP_Code": "91701",
-        "State": "CA",
         "Territory_ID": "CA-T052",
-        "Group_of_ZIP_Codes": "91701, 91709, 91710",
-        "Total_Population": 204000,
-        "Major_Cities": "Rancho Cucamonga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.6069, 34.1343]
+        "Primer_ZIP_Code": "91701",
+        "Group_of_ZIP_Codes": "91701, 91709, 91710"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.6898, 34.1067]
+      },
       "properties": {
-        "ZIP_Code": "91711",
-        "State": "CA",
         "Territory_ID": "CA-T053",
-        "Group_of_ZIP_Codes": "91711, 91750, 91773",
-        "Total_Population": 199000,
-        "Major_Cities": "Claremont"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7188, 34.1128]
+        "Primer_ZIP_Code": "91711",
+        "Group_of_ZIP_Codes": "91711, 91750, 91773"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.6487, 34.0334]
+      },
       "properties": {
-        "ZIP_Code": "91730",
-        "State": "CA",
         "Territory_ID": "CA-T054",
-        "Group_of_ZIP_Codes": "91730, 91739, 91761",
-        "Total_Population": 201000,
-        "Major_Cities": "Ontario"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.5908, 34.1039]
+        "Primer_ZIP_Code": "91730",
+        "Group_of_ZIP_Codes": "91730, 91739, 91761"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1547, 34.0393]
+      },
       "properties": {
-        "ZIP_Code": "91732",
-        "State": "CA",
         "Territory_ID": "CA-T055",
-        "Group_of_ZIP_Codes": "91732, 91733, 91746",
-        "Total_Population": 197000,
-        "Major_Cities": "El Monte"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0124, 34.0812]
+        "Primer_ZIP_Code": "91732",
+        "Group_of_ZIP_Codes": "91732, 91733, 91746"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7605, 34.1118]
+      },
       "properties": {
-        "ZIP_Code": "91740",
-        "State": "CA",
         "Territory_ID": "CA-T056",
-        "Group_of_ZIP_Codes": "91740, 91741, 91748",
-        "Total_Population": 203000,
-        "Major_Cities": "Glendora"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8637, 34.1187]
+        "Primer_ZIP_Code": "91740",
+        "Group_of_ZIP_Codes": "91740, 91741, 91748"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9982, 33.9729]
+      },
       "properties": {
-        "ZIP_Code": "91744",
-        "State": "CA",
         "Territory_ID": "CA-T057",
-        "Group_of_ZIP_Codes": "91744, 91745, 91748",
-        "Total_Population": 200000,
-        "Major_Cities": "City of Industry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.9378, 34.0287]
+        "Primer_ZIP_Code": "91744",
+        "Group_of_ZIP_Codes": "91744, 91745, 91748"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1675, 34.0768]
+      },
       "properties": {
-        "ZIP_Code": "91754",
-        "State": "CA",
         "Territory_ID": "CA-T058",
-        "Group_of_ZIP_Codes": "91754, 91755, 91756",
-        "Total_Population": 198000,
-        "Major_Cities": "Monterey Park"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1441, 34.0498]
+        "Primer_ZIP_Code": "91754",
+        "Group_of_ZIP_Codes": "91754, 91755, 91756"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7651, 34.0125]
+      },
       "properties": {
-        "ZIP_Code": "91765",
-        "State": "CA",
         "Territory_ID": "CA-T059",
-        "Group_of_ZIP_Codes": "91765, 91766, 91767",
-        "Total_Population": 204000,
-        "Major_Cities": "Pomona"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.8181, 34.0024]
+        "Primer_ZIP_Code": "91765",
+        "Group_of_ZIP_Codes": "91765, 91766, 91767"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1202, 34.0497]
+      },
       "properties": {
-        "ZIP_Code": "91768",
-        "State": "CA",
         "Territory_ID": "CA-T060",
-        "Group_of_ZIP_Codes": "91768, 91770, 91776",
-        "Total_Population": 199000,
-        "Major_Cities": "Rosemead"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.7889, 34.0693]
+        "Primer_ZIP_Code": "91768",
+        "Group_of_ZIP_Codes": "91768, 91770, 91776"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.0809, 34.1064]
+      },
       "properties": {
-        "ZIP_Code": "91780",
-        "State": "CA",
         "Territory_ID": "CA-T061",
-        "Group_of_ZIP_Codes": "91780, 91789, 91790",
-        "Total_Population": 201000,
-        "Major_Cities": "Temple City"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.0508, 34.1045]
+        "Primer_ZIP_Code": "91780",
+        "Group_of_ZIP_Codes": "91780, 91789, 91790"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1326, 34.0954]
+      },
       "properties": {
-        "ZIP_Code": "91801",
-        "State": "CA",
         "Territory_ID": "CA-T062",
-        "Group_of_ZIP_Codes": "91801, 91803, 91804",
-        "Total_Population": 197000,
-        "Major_Cities": "Alhambra"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.1273, 34.094]
+        "Primer_ZIP_Code": "91801",
+        "Group_of_ZIP_Codes": "91801, 91803, 91804"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0037, 32.7473]
+      },
       "properties": {
-        "ZIP_Code": "91901",
-        "State": "CA",
         "Territory_ID": "CA-T063",
-        "Group_of_ZIP_Codes": "91901, 91910, 91911",
-        "Total_Population": 203000,
-        "Major_Cities": "Chula Vista"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.7955, 32.8314]
+        "Primer_ZIP_Code": "91901",
+        "Group_of_ZIP_Codes": "91901, 91910, 91911"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0334, 32.6647]
+      },
       "properties": {
-        "ZIP_Code": "91913",
-        "State": "CA",
         "Territory_ID": "CA-T064",
-        "Group_of_ZIP_Codes": "91913, 91914, 91915",
-        "Total_Population": 200000,
-        "Major_Cities": "Chula Vista (East)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9844, 32.651]
+        "Primer_ZIP_Code": "91913",
+        "Group_of_ZIP_Codes": "91913, 91914, 91915"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1055, 32.6832]
+      },
       "properties": {
-        "ZIP_Code": "91932",
-        "State": "CA",
         "Territory_ID": "CA-T065",
-        "Group_of_ZIP_Codes": "91932, 91950, 91977",
-        "Total_Population": 198000,
-        "Major_Cities": "Imperial Beach"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0327, 32.5787]
+        "Primer_ZIP_Code": "91932",
+        "Group_of_ZIP_Codes": "91932, 91950, 91977"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3239, 33.1266]
+      },
       "properties": {
-        "ZIP_Code": "92008",
-        "State": "CA",
         "Territory_ID": "CA-T066",
-        "Group_of_ZIP_Codes": "92008, 92009, 92010",
-        "Total_Population": 204000,
-        "Major_Cities": "Carlsbad"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3232, 33.1459]
+        "Primer_ZIP_Code": "92008",
+        "Group_of_ZIP_Codes": "92008, 92009, 92010"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "ZIP_Code": "92020",
-        "State": "CA",
-        "Territory_ID": "CA-T067",
-        "Group_of_ZIP_Codes": "92020, 92021, 92040",
-        "Total_Population": 199000,
-        "Major_Cities": "El Cajon"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.9733, 32.7937]
+        "coordinates": [-116.9767, 32.7947]
+      },
+      "properties": {
+        "Territory_ID": "CA-T067",
+        "Primer_ZIP_Code": "92020",
+        "Group_of_ZIP_Codes": "92020, 92021, 92040"
       }
-    },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0696, 33.1029]
-    },
-    "properties": {
-      "Territory_ID": "CA-T068",
-      "Primer_ZIP_Code": "92025"
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2503, 32.8395]
-    },
-    "properties": {
-      "Territory_ID": "CA-T069",
-      "Primer_ZIP_Code": "92037"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3505, 33.2063]
-    },
-    "properties": {
-      "Territory_ID": "CA-T070",
-      "Primer_ZIP_Code": "92054"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0495, 32.9759]
-    },
-    "properties": {
-      "Territory_ID": "CA-T071",
-      "Primer_ZIP_Code": "92064"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.9839, 32.8498]
-    },
-    "properties": {
-      "Territory_ID": "CA-T072",
-      "Primer_ZIP_Code": "92071"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.1647, 32.7186]
-    },
-    "properties": {
-      "Territory_ID": "CA-T073",
-      "Primer_ZIP_Code": "92101"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0914, 32.7381]
-    },
-    "properties": {
-      "Territory_ID": "CA-T074",
-      "Primer_ZIP_Code": "92105"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2453, 32.7448]
-    },
-    "properties": {
-      "Territory_ID": "CA-T075",
-      "Primer_ZIP_Code": "92107"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.1649, 32.8039]
-    },
-    "properties": {
-      "Territory_ID": "CA-T076",
-      "Primer_ZIP_Code": "92111"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0748, 32.7597]
-    },
-    "properties": {
-      "Territory_ID": "CA-T077",
-      "Primer_ZIP_Code": "92115"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0714, 32.7948]
-    },
-    "properties": {
-      "Territory_ID": "CA-T078",
-      "Primer_ZIP_Code": "92120"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.1417, 32.9109]
-    },
-    "properties": {
-      "Territory_ID": "CA-T079",
-      "Primer_ZIP_Code": "92126"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.1154, 32.9595]
-    },
-    "properties": {
-      "Territory_ID": "CA-T080",
-      "Primer_ZIP_Code": "92129"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.0431, 32.6773]
-    },
-    "properties": {
-      "Territory_ID": "CA-T081",
-      "Primer_ZIP_Code": "92139"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.2376, 33.7078]
-    },
-    "properties": {
-      "Territory_ID": "CA-T082",
-      "Primer_ZIP_Code": "92201"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.8856, 33.9256]
-    },
-    "properties": {
-      "Territory_ID": "CA-T083",
-      "Primer_ZIP_Code": "92220"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.4593, 33.8198]
-    },
-    "properties": {
-      "Territory_ID": "CA-T084",
-      "Primer_ZIP_Code": "92234"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.3844, 33.7146]
-    },
-    "properties": {
-      "Territory_ID": "CA-T085",
-      "Primer_ZIP_Code": "92260"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.4131, 33.7361]
-    },
-    "properties": {
-      "Territory_ID": "CA-T086",
-      "Primer_ZIP_Code": "92270"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2418, 34.5483]
-    },
-    "properties": {
-      "Territory_ID": "CA-T087",
-      "Primer_ZIP_Code": "92307"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.4586, 34.0896]
-    },
-    "properties": {
-      "Territory_ID": "CA-T088",
-      "Primer_ZIP_Code": "92335"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3092, 34.4136]
-    },
-    "properties": {
-      "Territory_ID": "CA-T089",
-      "Primer_ZIP_Code": "92345"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2557, 34.0472]
-    },
-    "properties": {
-      "Territory_ID": "CA-T090",
-      "Primer_ZIP_Code": "92354"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3802, 34.0893]
-    },
-    "properties": {
-      "Territory_ID": "CA-T091",
-      "Primer_ZIP_Code": "92376"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2948, 34.1029]
-    },
-    "properties": {
-      "Territory_ID": "CA-T092",
-      "Primer_ZIP_Code": "92401"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3341, 34.1789]
-    },
-    "properties": {
-      "Territory_ID": "CA-T093",
-      "Primer_ZIP_Code": "92407"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3708, 33.9923]
-    },
-    "properties": {
-      "Territory_ID": "CA-T094",
-      "Primer_ZIP_Code": "92501"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.4965, 33.9256]
-    },
-    "properties": {
-      "Territory_ID": "CA-T095",
-      "Primer_ZIP_Code": "92505"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3239, 33.8989]
-    },
-    "properties": {
-      "Territory_ID": "CA-T096",
-      "Primer_ZIP_Code": "92508"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.3253, 33.6459]
-    },
-    "properties": {
-      "Territory_ID": "CA-T097",
-      "Primer_ZIP_Code": "92530"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-116.9737, 33.7354]
-    },
-    "properties": {
-      "Territory_ID": "CA-T098",
-      "Primer_ZIP_Code": "92543"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2845, 33.8929]
-    },
-    "properties": {
-      "Territory_ID": "CA-T099",
-      "Primer_ZIP_Code": "92551"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.2519, 33.9553]
-    },
-    "properties": {
-      "Territory_ID": "CA-T100",
-      "Primer_ZIP_Code": "92557"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.1591, 33.4995]
-    },
-    "properties": {
-      "Territory_ID": "CA-T101",
-      "Primer_ZIP_Code": "92590"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.7711, 33.7348]
-    },
-    "properties": {
-      "Territory_ID": "CA-T102",
-      "Primer_ZIP_Code": "92602"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8205, 33.6957]
-    },
-    "properties": {
-      "Territory_ID": "CA-T103",
-      "Primer_ZIP_Code": "92606"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8396, 33.6459]
-    },
-    "properties": {
-      "Territory_ID": "CA-T104",
-      "Primer_ZIP_Code": "92617"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.6695, 33.4567]
-    },
-    "properties": {
-      "Territory_ID": "CA-T105",
-      "Primer_ZIP_Code": "92624"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9148, 33.6472]
-    },
-    "properties": {
-      "Territory_ID": "CA-T106",
-      "Primer_ZIP_Code": "92627"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.6893, 33.6450]
-    },
-    "properties": {
-      "Territory_ID": "CA-T107",
-      "Primer_ZIP_Code": "92630"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-118.0051, 33.7277]
-    },
-    "properties": {
-      "Territory_ID": "CA-T108",
-      "Primer_ZIP_Code": "92647"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.7703, 33.5323]
-    },
-    "properties": {
-      "Territory_ID": "CA-T109",
-      "Primer_ZIP_Code": "92651"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9041, 33.6048]
-    },
-    "properties": {
-      "Territory_ID": "CA-T110",
-      "Primer_ZIP_Code": "92661"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.6081, 33.4253]
-    },
-    "properties": {
-      "Territory_ID": "CA-T111",
-      "Primer_ZIP_Code": "92672"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-118.0039, 33.7528]
-    },
-    "properties": {
-      "Territory_ID": "CA-T112",
-      "Primer_ZIP_Code": "92683"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.6167, 33.6322]
-    },
-    "properties": {
-      "Territory_ID": "CA-T113",
-      "Primer_ZIP_Code": "92688"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8626, 33.7478]
-    },
-    "properties": {
-      "Territory_ID": "CA-T114",
-      "Primer_ZIP_Code": "92701"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8266, 33.7447]
-    },
-    "properties": {
-      "Territory_ID": "CA-T115",
-      "Primer_ZIP_Code": "92705"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9548, 33.7092]
-    },
-    "properties": {
-      "Territory_ID": "CA-T116",
-      "Primer_ZIP_Code": "92708"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9535, 33.8474]
-    },
-    "properties": {
-      "Territory_ID": "CA-T117",
-      "Primer_ZIP_Code": "92801"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9053, 33.8367]
-    },
-    "properties": {
-      "Territory_ID": "CA-T118",
-      "Primer_ZIP_Code": "92805"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.7389, 33.8567]
-    },
-    "properties": {
-      "Territory_ID": "CA-T119",
-      "Primer_ZIP_Code": "92808"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8945, 33.8741]
-    },
-    "properties": {
-      "Territory_ID": "CA-T120",
-      "Primer_ZIP_Code": "92831"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9157, 33.9003]
-    },
-    "properties": {
-      "Territory_ID": "CA-T121",
-      "Primer_ZIP_Code": "92835"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8539, 33.8188]
-    },
-    "properties": {
-      "Territory_ID": "CA-T122",
-      "Primer_ZIP_Code": "92861"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8512, 33.8119]
-    },
-    "properties": {
-      "Territory_ID": "CA-T123",
-      "Primer_ZIP_Code": "92867"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.8548, 33.8841]
-    },
-    "properties": {
-      "Territory_ID": "CA-T124",
-      "Primer_ZIP_Code": "92870"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.2922, 34.2807]
-    },
-    "properties": {
-      "Territory_ID": "CA-T125",
-      "Primer_ZIP_Code": "93001"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0761, 34.2408]
-    },
-    "properties": {
-      "Territory_ID": "CA-T126",
-      "Primer_ZIP_Code": "93010"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-118.8850, 34.2797]
-    },
-    "properties": {
-      "Territory_ID": "CA-T127",
-      "Primer_ZIP_Code": "93021"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.1938, 34.1939]
-    },
-    "properties": {
-      "Territory_ID": "CA-T128",
-      "Primer_ZIP_Code": "93035"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0716, 34.2168]
-    },
-    "properties": {
-      "Territory_ID": "CA-T129",
-      "Primer_ZIP_Code": "93060"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.1667, 34.2918]
-    },
-    "properties": {
-      "Territory_ID": "CA-T130",
-      "Primer_ZIP_Code": "93066"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.4878, 35.3983]
-    },
-    "properties": {
-      "Territory_ID": "CA-T131",
-      "Primer_ZIP_Code": "93206"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.6437, 36.3061]
-    },
-    "properties": {
-      "Territory_ID": "CA-T132",
-      "Primer_ZIP_Code": "93230"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0979, 36.1998]
-    },
-    "properties": {
-      "Territory_ID": "CA-T133",
-      "Primer_ZIP_Code": "93247"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0168, 36.0652]
-    },
-    "properties": {
-      "Territory_ID": "CA-T134",
-      "Primer_ZIP_Code": "93257"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0808, 35.4909]
-    },
-    "properties": {
-      "Territory_ID": "CA-T135",
-      "Primer_ZIP_Code": "93263"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.3924, 36.3176]
-    },
-    "properties": {
-      "Territory_ID": "CA-T136",
-      "Primer_ZIP_Code": "93277"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0198, 35.3816]
-    },
-    "properties": {
-      "Territory_ID": "CA-T137",
-      "Primer_ZIP_Code": "93301"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-118.9266, 35.4038]
-    },
-    "properties": {
-      "Territory_ID": "CA-T138",
-      "Primer_ZIP_Code": "93306"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0561, 35.3463]
-    },
-    "properties": {
-      "Territory_ID": "CA-T139",
-      "Primer_ZIP_Code": "93309"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.0403, 35.2978]
-    },
-    "properties": {
-      "Territory_ID": "CA-T140",
-      "Primer_ZIP_Code": "93313"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-120.6515, 35.2628]
-    },
-    "properties": {
-      "Territory_ID": "CA-T141",
-      "Primer_ZIP_Code": "93401"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-120.5976, 35.1249]
-    },
-    "properties": {
-      "Territory_ID": "CA-T142",
-      "Primer_ZIP_Code": "93420"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-120.4582, 34.6988]
-    },
-    "properties": {
-      "Territory_ID": "CA-T143",
-      "Primer_ZIP_Code": "93436"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-120.4226, 34.9538]
-    },
-    "properties": {
-      "Territory_ID": "CA-T144",
-      "Primer_ZIP_Code": "93454"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-118.1498, 35.1356]
-    },
-    "properties": {
-      "Territory_ID": "CA-T145",
-      "Primer_ZIP_Code": "93501"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.9600, 34.6805]
-    },
-    "properties": {
-      "Territory_ID": "CA-T146",
-      "Primer_ZIP_Code": "93535"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.6937, 36.8093]
-    },
-    "properties": {
-      "Territory_ID": "CA-T147",
-      "Primer_ZIP_Code": "93611"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.7178, 36.7356]
-    },
-    "properties": {
-      "Territory_ID": "CA-T148",
-      "Primer_ZIP_Code": "93625"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-120.6078, 37.3227]
-    },
-    "properties": {
-      "Territory_ID": "CA-T149",
-      "Primer_ZIP_Code": "93635"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.4432, 36.6016]
-    },
-    "properties": {
-      "Territory_ID": "CA-T150",
-      "Primer_ZIP_Code": "93654"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.6101, 36.5833]
-    },
-    "properties": {
-      "Territory_ID": "CA-T151",
-      "Primer_ZIP_Code": "93662"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.7861, 36.7507]
-    },
-    "properties": {
-      "Territory_ID": "CA-T152",
-      "Primer_ZIP_Code": "93701"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.8119, 36.8064]
-    },
-    "properties": {
-      "Territory_ID": "CA-T153",
-      "Primer_ZIP_Code": "93704"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.8509, 36.8316]
-    },
-    "properties": {
-      "Territory_ID": "CA-T154",
-      "Primer_ZIP_Code": "93711"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.7178, 36.6358]
-    },
-    "properties": {
-      "Territory_ID": "CA-T155",
-      "Primer_ZIP_Code": "93725"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-119.8176, 36.7554]
-    },
-    "properties": {
-      "Territory_ID": "CA-T156",
-      "Primer_ZIP_Code": "93728"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.6576, 36.6658]
-    },
-    "properties": {
-      "Territory_ID": "CA-T157",
-      "Primer_ZIP_Code": "93901"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.6690, 36.7491]
-    },
-    "properties": {
-      "Territory_ID": "CA-T158",
-      "Primer_ZIP_Code": "93907"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.8490, 36.5827]
-    },
-    "properties": {
-      "Territory_ID": "CA-T159",
-      "Primer_ZIP_Code": "93940"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2637, 37.5185]
-    },
-    "properties": {
-      "Territory_ID": "CA-T160",
-      "Primer_ZIP_Code": "94002"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4753, 37.6869]
-    },
-    "properties": {
-      "Territory_ID": "CA-T161",
-      "Primer_ZIP_Code": "94015"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.1771, 37.4652]
-    },
-    "properties": {
-      "Territory_ID": "CA-T162",
-      "Primer_ZIP_Code": "94025"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.3979, 37.5985]
-    },
-    "properties": {
-      "Territory_ID": "CA-T163",
-      "Primer_ZIP_Code": "94030"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2306, 37.4629]
-    },
-    "properties": {
-      "Territory_ID": "CA-T164",
-      "Primer_ZIP_Code": "94061"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2674, 37.4989]
-    },
-    "properties": {
-      "Territory_ID": "CA-T165",
-      "Primer_ZIP_Code": "94070"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4193, 37.7793]
-    },
-    "properties": {
-      "Territory_ID": "CA-T166",
-      "Primer_ZIP_Code": "94102"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.3998, 37.7699]
-    },
-    "properties": {
-      "Territory_ID": "CA-T167",
-      "Primer_ZIP_Code": "94107"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4153, 37.7509]
-    },
-    "properties": {
-      "Territory_ID": "CA-T168",
-      "Primer_ZIP_Code": "94110"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4370, 37.7867]
-    },
-    "properties": {
-      "Territory_ID": "CA-T169",
-      "Primer_ZIP_Code": "94115"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4922, 37.7801]
-    },
-    "properties": {
-      "Territory_ID": "CA-T170",
-      "Primer_ZIP_Code": "94121"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4002, 37.7309]
-    },
-    "properties": {
-      "Territory_ID": "CA-T171",
-      "Primer_ZIP_Code": "94124"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4877, 37.7187]
-    },
-    "properties": {
-      "Territory_ID": "CA-T172",
-      "Primer_ZIP_Code": "94132"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.1497, 37.4443]
-    },
-    "properties": {
-      "Territory_ID": "CA-T173",
-      "Primer_ZIP_Code": "94301"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.3195, 37.5731]
-    },
-    "properties": {
-      "Territory_ID": "CA-T174",
-      "Primer_ZIP_Code": "94401"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2828, 37.7711]
-    },
-    "properties": {
-      "Territory_ID": "CA-T175",
-      "Primer_ZIP_Code": "94501"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.9407, 37.8860]
-    },
-    "properties": {
-      "Territory_ID": "CA-T176",
-      "Primer_ZIP_Code": "94506"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.8058, 38.0021]
-    },
-    "properties": {
-      "Territory_ID": "CA-T177",
-      "Primer_ZIP_Code": "94509"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.0251, 37.9615]
-    },
-    "properties": {
-      "Territory_ID": "CA-T178",
-      "Primer_ZIP_Code": "94518"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.0816, 37.9449]
-    },
-    "properties": {
-      "Territory_ID": "CA-T179",
-      "Primer_ZIP_Code": "94523"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.9879, 37.5578]
-    },
-    "properties": {
-      "Territory_ID": "CA-T180",
-      "Primer_ZIP_Code": "94536"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.1081, 37.6780]
-    },
-    "properties": {
-      "Territory_ID": "CA-T181",
-      "Primer_ZIP_Code": "94541"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.1086, 37.6478]
-    },
-    "properties": {
-      "Territory_ID": "CA-T182",
-      "Primer_ZIP_Code": "94545"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.7630, 37.6722]
-    },
-    "properties": {
-      "Territory_ID": "CA-T183",
-      "Primer_ZIP_Code": "94550"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.9116, 37.7069]
-    },
-    "properties": {
-      "Territory_ID": "CA-T184",
-      "Primer_ZIP_Code": "94568"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2163, 37.7749]
-    },
-    "properties": {
-      "Territory_ID": "CA-T185",
-      "Primer_ZIP_Code": "94601"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.1833, 37.7652]
-    },
-    "properties": {
-      "Territory_ID": "CA-T186",
-      "Primer_ZIP_Code": "94605"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2818, 37.8350]
-    },
-    "properties": {
-      "Territory_ID": "CA-T187",
-      "Primer_ZIP_Code": "94608"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2220, 37.8347]
-    },
-    "properties": {
-      "Territory_ID": "CA-T188",
-      "Primer_ZIP_Code": "94611"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2869, 37.8668]
-    },
-    "properties": {
-      "Territory_ID": "CA-T189",
-      "Primer_ZIP_Code": "94702"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.2629, 37.8568]
-    },
-    "properties": {
-      "Territory_ID": "CA-T190",
-      "Primer_ZIP_Code": "94705"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.3637, 37.9352]
-    },
-    "properties": {
-      "Territory_ID": "CA-T191",
-      "Primer_ZIP_Code": "94801"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.5309, 37.9735]
-    },
-    "properties": {
-      "Territory_ID": "CA-T192",
-      "Primer_ZIP_Code": "94901"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-122.4594, 37.8860]
-    },
-    "properties": {
-      "Territory_ID": "CA-T193",
-      "Primer_ZIP_Code": "94920"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.9542, 37.2799]
-    },
-    "properties": {
-      "Territory_ID": "CA-T194",
-      "Primer_ZIP_Code": "95008"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-121.8239, 37.2810]
-    },
-    "properties": {
-      "Territory_ID": "CA-T195",
-      "Primer_ZIP_Code": "95111"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6228, 41.8857]
-    },
-    "properties": {
-      "Territory_ID": "IL-T01",
-      "Primer_ZIP_Code": "60601"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6377, 41.8822]
-    },
-    "properties": {
-      "Territory_ID": "IL-T02",
-      "Primer_ZIP_Code": "60606"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6532, 41.8120]
-    },
-    "properties": {
-      "Territory_ID": "IL-T03",
-      "Primer_ZIP_Code": "60609"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6371, 41.9046]
-    },
-    "properties": {
-      "Territory_ID": "IL-T04",
-      "Primer_ZIP_Code": "60610"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6873, 41.8806]
-    },
-    "properties": {
-      "Territory_ID": "IL-T05",
-      "Primer_ZIP_Code": "60612"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6610, 41.9536]
-    },
-    "properties": {
-      "Territory_ID": "IL-T06",
-      "Primer_ZIP_Code": "60613"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6032, 41.8014]
-    },
-    "properties": {
-      "Territory_ID": "IL-T07",
-      "Primer_ZIP_Code": "60615"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.5827, 41.7253]
-    },
-    "properties": {
-      "Territory_ID": "IL-T08",
-      "Primer_ZIP_Code": "60617"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.7028, 41.9466]
-    },
-    "properties": {
-      "Territory_ID": "IL-T09",
-      "Primer_ZIP_Code": "60618"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6059, 41.7439]
-    },
-    "properties": {
-      "Territory_ID": "IL-T10",
-      "Primer_ZIP_Code": "60619"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.7188, 41.8500]
-    },
-    "properties": {
-      "Territory_ID": "IL-T11",
-      "Primer_ZIP_Code": "60623"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6695, 42.0095]
-    },
-    "properties": {
-      "Territory_ID": "IL-T12",
-      "Primer_ZIP_Code": "60626"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6236, 41.6942]
-    },
-    "properties": {
-      "Territory_ID": "IL-T13",
-      "Primer_ZIP_Code": "60628"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.8118, 41.9950]
-    },
-    "properties": {
-      "Territory_ID": "IL-T14",
-      "Primer_ZIP_Code": "60631"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.7655, 41.9442]
-    },
-    "properties": {
-      "Territory_ID": "IL-T15",
-      "Primer_ZIP_Code": "60634"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.7012, 41.9208]
-    },
-    "properties": {
-      "Territory_ID": "IL-T16",
-      "Primer_ZIP_Code": "60647"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6367, 41.8924]
-    },
-    "properties": {
-      "Territory_ID": "IL-T17",
-      "Primer_ZIP_Code": "60654"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.6673, 41.9910]
-    },
-    "properties": {
-      "Territory_ID": "IL-T18",
-      "Primer_ZIP_Code": "60660"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.9796, 42.1124]
-    },
-    "properties": {
-      "Territory_ID": "IL-T19",
-      "Primer_ZIP_Code": "60004"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.9903, 42.0114]
-    },
-    "properties": {
-      "Territory_ID": "IL-T20",
-      "Primer_ZIP_Code": "60007"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.1362, 42.1544]
-    },
-    "properties": {
-      "Territory_ID": "IL-T21",
-      "Primer_ZIP_Code": "60010"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.3168, 42.2293]
-    },
-    "properties": {
-      "Territory_ID": "IL-T22",
-      "Primer_ZIP_Code": "60014"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.8968, 41.9758]
-    },
-    "properties": {
-      "Territory_ID": "IL-T23",
-      "Primer_ZIP_Code": "60018"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.0073, 42.3390]
-    },
-    "properties": {
-      "Territory_ID": "IL-T24",
-      "Primer_ZIP_Code": "60030"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.8613, 42.2420]
-    },
-    "properties": {
-      "Territory_ID": "IL-T25",
-      "Primer_ZIP_Code": "60045"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.2862, 42.3392]
-    },
-    "properties": {
-      "Territory_ID": "IL-T26",
-      "Primer_ZIP_Code": "60050"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.8359, 42.1247]
-    },
-    "properties": {
-      "Territory_ID": "IL-T27",
-      "Primer_ZIP_Code": "60062"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.0525, 42.1047]
-    },
-    "properties": {
-      "Territory_ID": "IL-T28",
-      "Primer_ZIP_Code": "60067"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.7239, 42.0363]
-    },
-    "properties": {
-      "Territory_ID": "IL-T29",
-      "Primer_ZIP_Code": "60076"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.9336, 42.1548]
-    },
-    "properties": {
-      "Territory_ID": "IL-T30",
-      "Primer_ZIP_Code": "60089"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.9886, 41.9313]
-    },
-    "properties": {
-      "Territory_ID": "IL-T31",
-      "Primer_ZIP_Code": "60101"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.9447, 41.9508]
-    },
-    "properties": {
-      "Territory_ID": "IL-T32",
-      "Primer_ZIP_Code": "60106"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.7506, 41.9330]
-    },
-    "properties": {
-      "Territory_ID": "IL-T33",
-      "Primer_ZIP_Code": "60115"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.3163, 42.0334]
-    },
-    "properties": {
-      "Territory_ID": "IL-T34",
-      "Primer_ZIP_Code": "60123"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-87.8768, 41.9366]
-    },
-    "properties": {
-      "Territory_ID": "IL-T35",
-      "Primer_ZIP_Code": "60131"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-88.0895, 41.8580]
-    },
-    "properties": {
-      "Territory_ID": "IL-T36",
-      "Primer_ZIP_Code": "60137"
-    }
-  }
   ]
 }
