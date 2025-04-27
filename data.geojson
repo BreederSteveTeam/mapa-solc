@@ -2596,6 +2596,699 @@
       "Territory_ID": "CA-T168",
       "Primer_ZIP_Code": "94110"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4370, 37.7867]
+    },
+    "properties": {
+      "Territory_ID": "CA-T169",
+      "Primer_ZIP_Code": "94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4922, 37.7801]
+    },
+    "properties": {
+      "Territory_ID": "CA-T170",
+      "Primer_ZIP_Code": "94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4002, 37.7309]
+    },
+    "properties": {
+      "Territory_ID": "CA-T171",
+      "Primer_ZIP_Code": "94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4877, 37.7187]
+    },
+    "properties": {
+      "Territory_ID": "CA-T172",
+      "Primer_ZIP_Code": "94132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.1497, 37.4443]
+    },
+    "properties": {
+      "Territory_ID": "CA-T173",
+      "Primer_ZIP_Code": "94301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3195, 37.5731]
+    },
+    "properties": {
+      "Territory_ID": "CA-T174",
+      "Primer_ZIP_Code": "94401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2828, 37.7711]
+    },
+    "properties": {
+      "Territory_ID": "CA-T175",
+      "Primer_ZIP_Code": "94501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.9407, 37.8860]
+    },
+    "properties": {
+      "Territory_ID": "CA-T176",
+      "Primer_ZIP_Code": "94506"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.8058, 38.0021]
+    },
+    "properties": {
+      "Territory_ID": "CA-T177",
+      "Primer_ZIP_Code": "94509"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.0251, 37.9615]
+    },
+    "properties": {
+      "Territory_ID": "CA-T178",
+      "Primer_ZIP_Code": "94518"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.0816, 37.9449]
+    },
+    "properties": {
+      "Territory_ID": "CA-T179",
+      "Primer_ZIP_Code": "94523"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.9879, 37.5578]
+    },
+    "properties": {
+      "Territory_ID": "CA-T180",
+      "Primer_ZIP_Code": "94536"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.1081, 37.6780]
+    },
+    "properties": {
+      "Territory_ID": "CA-T181",
+      "Primer_ZIP_Code": "94541"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.1086, 37.6478]
+    },
+    "properties": {
+      "Territory_ID": "CA-T182",
+      "Primer_ZIP_Code": "94545"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.7630, 37.6722]
+    },
+    "properties": {
+      "Territory_ID": "CA-T183",
+      "Primer_ZIP_Code": "94550"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.9116, 37.7069]
+    },
+    "properties": {
+      "Territory_ID": "CA-T184",
+      "Primer_ZIP_Code": "94568"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2163, 37.7749]
+    },
+    "properties": {
+      "Territory_ID": "CA-T185",
+      "Primer_ZIP_Code": "94601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.1833, 37.7652]
+    },
+    "properties": {
+      "Territory_ID": "CA-T186",
+      "Primer_ZIP_Code": "94605"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2818, 37.8350]
+    },
+    "properties": {
+      "Territory_ID": "CA-T187",
+      "Primer_ZIP_Code": "94608"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2220, 37.8347]
+    },
+    "properties": {
+      "Territory_ID": "CA-T188",
+      "Primer_ZIP_Code": "94611"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2869, 37.8668]
+    },
+    "properties": {
+      "Territory_ID": "CA-T189",
+      "Primer_ZIP_Code": "94702"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2629, 37.8568]
+    },
+    "properties": {
+      "Territory_ID": "CA-T190",
+      "Primer_ZIP_Code": "94705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3637, 37.9352]
+    },
+    "properties": {
+      "Territory_ID": "CA-T191",
+      "Primer_ZIP_Code": "94801"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.5309, 37.9735]
+    },
+    "properties": {
+      "Territory_ID": "CA-T192",
+      "Primer_ZIP_Code": "94901"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4594, 37.8860]
+    },
+    "properties": {
+      "Territory_ID": "CA-T193",
+      "Primer_ZIP_Code": "94920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.9542, 37.2799]
+    },
+    "properties": {
+      "Territory_ID": "CA-T194",
+      "Primer_ZIP_Code": "95008"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.8239, 37.2810]
+    },
+    "properties": {
+      "Territory_ID": "CA-T195",
+      "Primer_ZIP_Code": "95111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6228, 41.8857]
+    },
+    "properties": {
+      "Territory_ID": "IL-T01",
+      "Primer_ZIP_Code": "60601"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6377, 41.8822]
+    },
+    "properties": {
+      "Territory_ID": "IL-T02",
+      "Primer_ZIP_Code": "60606"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6532, 41.8120]
+    },
+    "properties": {
+      "Territory_ID": "IL-T03",
+      "Primer_ZIP_Code": "60609"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6371, 41.9046]
+    },
+    "properties": {
+      "Territory_ID": "IL-T04",
+      "Primer_ZIP_Code": "60610"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6873, 41.8806]
+    },
+    "properties": {
+      "Territory_ID": "IL-T05",
+      "Primer_ZIP_Code": "60612"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6610, 41.9536]
+    },
+    "properties": {
+      "Territory_ID": "IL-T06",
+      "Primer_ZIP_Code": "60613"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6032, 41.8014]
+    },
+    "properties": {
+      "Territory_ID": "IL-T07",
+      "Primer_ZIP_Code": "60615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.5827, 41.7253]
+    },
+    "properties": {
+      "Territory_ID": "IL-T08",
+      "Primer_ZIP_Code": "60617"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.7028, 41.9466]
+    },
+    "properties": {
+      "Territory_ID": "IL-T09",
+      "Primer_ZIP_Code": "60618"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6059, 41.7439]
+    },
+    "properties": {
+      "Territory_ID": "IL-T10",
+      "Primer_ZIP_Code": "60619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.7188, 41.8500]
+    },
+    "properties": {
+      "Territory_ID": "IL-T11",
+      "Primer_ZIP_Code": "60623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6695, 42.0095]
+    },
+    "properties": {
+      "Territory_ID": "IL-T12",
+      "Primer_ZIP_Code": "60626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6236, 41.6942]
+    },
+    "properties": {
+      "Territory_ID": "IL-T13",
+      "Primer_ZIP_Code": "60628"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.8118, 41.9950]
+    },
+    "properties": {
+      "Territory_ID": "IL-T14",
+      "Primer_ZIP_Code": "60631"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.7655, 41.9442]
+    },
+    "properties": {
+      "Territory_ID": "IL-T15",
+      "Primer_ZIP_Code": "60634"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.7012, 41.9208]
+    },
+    "properties": {
+      "Territory_ID": "IL-T16",
+      "Primer_ZIP_Code": "60647"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6367, 41.8924]
+    },
+    "properties": {
+      "Territory_ID": "IL-T17",
+      "Primer_ZIP_Code": "60654"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.6673, 41.9910]
+    },
+    "properties": {
+      "Territory_ID": "IL-T18",
+      "Primer_ZIP_Code": "60660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.9796, 42.1124]
+    },
+    "properties": {
+      "Territory_ID": "IL-T19",
+      "Primer_ZIP_Code": "60004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.9903, 42.0114]
+    },
+    "properties": {
+      "Territory_ID": "IL-T20",
+      "Primer_ZIP_Code": "60007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.1362, 42.1544]
+    },
+    "properties": {
+      "Territory_ID": "IL-T21",
+      "Primer_ZIP_Code": "60010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.3168, 42.2293]
+    },
+    "properties": {
+      "Territory_ID": "IL-T22",
+      "Primer_ZIP_Code": "60014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.8968, 41.9758]
+    },
+    "properties": {
+      "Territory_ID": "IL-T23",
+      "Primer_ZIP_Code": "60018"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.0073, 42.3390]
+    },
+    "properties": {
+      "Territory_ID": "IL-T24",
+      "Primer_ZIP_Code": "60030"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.8613, 42.2420]
+    },
+    "properties": {
+      "Territory_ID": "IL-T25",
+      "Primer_ZIP_Code": "60045"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.2862, 42.3392]
+    },
+    "properties": {
+      "Territory_ID": "IL-T26",
+      "Primer_ZIP_Code": "60050"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.8359, 42.1247]
+    },
+    "properties": {
+      "Territory_ID": "IL-T27",
+      "Primer_ZIP_Code": "60062"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.0525, 42.1047]
+    },
+    "properties": {
+      "Territory_ID": "IL-T28",
+      "Primer_ZIP_Code": "60067"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.7239, 42.0363]
+    },
+    "properties": {
+      "Territory_ID": "IL-T29",
+      "Primer_ZIP_Code": "60076"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.9336, 42.1548]
+    },
+    "properties": {
+      "Territory_ID": "IL-T30",
+      "Primer_ZIP_Code": "60089"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.9886, 41.9313]
+    },
+    "properties": {
+      "Territory_ID": "IL-T31",
+      "Primer_ZIP_Code": "60101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.9447, 41.9508]
+    },
+    "properties": {
+      "Territory_ID": "IL-T32",
+      "Primer_ZIP_Code": "60106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.7506, 41.9330]
+    },
+    "properties": {
+      "Territory_ID": "IL-T33",
+      "Primer_ZIP_Code": "60115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.3163, 42.0334]
+    },
+    "properties": {
+      "Territory_ID": "IL-T34",
+      "Primer_ZIP_Code": "60123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.8768, 41.9366]
+    },
+    "properties": {
+      "Territory_ID": "IL-T35",
+      "Primer_ZIP_Code": "60131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.0895, 41.8580]
+    },
+    "properties": {
+      "Territory_ID": "IL-T36",
+      "Primer_ZIP_Code": "60137"
+    }
   }
   ]
 }
