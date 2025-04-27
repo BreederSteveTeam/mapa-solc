@@ -5,600 +5,540 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6406, 28.5392]
+        "coordinates": [-122.6355, 45.4941]
       },
       "properties": {
-        "Territory_ID": "FL-T050",
-        "Primer_ZIP_Code": "32801",
-        "Group_of_ZIP_Codes": "32801, 32803, 32804"
+        "Territory_ID": "OR-T004",
+        "Primer_ZIP_Code": "97209",
+        "Group_of_ZIP_Codes": "97209, 97210, 97211"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6656, 28.4833]
+        "coordinates": [-122.6765, 45.5489]
       },
       "properties": {
-        "Territory_ID": "FL-T051",
-        "Primer_ZIP_Code": "32805",
-        "Group_of_ZIP_Codes": "32805, 32806, 32807"
+        "Territory_ID": "OR-T005",
+        "Primer_ZIP_Code": "97212",
+        "Group_of_ZIP_Codes": "97212, 97213, 97215"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6112, 28.4923]
+        "coordinates": [-122.5987, 45.5123]
       },
       "properties": {
-        "Territory_ID": "FL-T052",
-        "Primer_ZIP_Code": "32808",
-        "Group_of_ZIP_Codes": "32808, 32810, 32811"
+        "Territory_ID": "OR-T006",
+        "Primer_ZIP_Code": "97216",
+        "Group_of_ZIP_Codes": "97216, 97218, 97220"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5812, 28.6267]
+        "coordinates": [-122.6412, 45.5587]
       },
       "properties": {
-        "Territory_ID": "FL-T053",
-        "Primer_ZIP_Code": "32812",
-        "Group_of_ZIP_Codes": "32812, 32814, 32822"
+        "Territory_ID": "OR-T007",
+        "Primer_ZIP_Code": "97219",
+        "Group_of_ZIP_Codes": "97219, 97221, 97222"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5070, 28.4508]
+        "coordinates": [-122.6864, 45.4758]
       },
       "properties": {
-        "Territory_ID": "FL-T054",
-        "Primer_ZIP_Code": "32818",
-        "Group_of_ZIP_Codes": "32818, 32819, 32821"
+        "Territory_ID": "OR-T008",
+        "Primer_ZIP_Code": "97223",
+        "Group_of_ZIP_Codes": "97223, 97224, 97225"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5428, 28.4158]
+        "coordinates": [-122.7532, 45.4856]
       },
       "properties": {
-        "Territory_ID": "FL-T055",
-        "Primer_ZIP_Code": "32824",
-        "Group_of_ZIP_Codes": "32824, 32827, 32829"
+        "Territory_ID": "OR-T009",
+        "Primer_ZIP_Code": "97229",
+        "Group_of_ZIP_Codes": "97229, 97230, 97231"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.4056, 28.5112]
+        "coordinates": [-122.5789, 45.5432]
       },
       "properties": {
-        "Territory_ID": "FL-T056",
-        "Primer_ZIP_Code": "32825",
-        "Group_of_ZIP_Codes": "32825, 32826, 32828"
+        "Territory_ID": "OR-T010",
+        "Primer_ZIP_Code": "97232",
+        "Group_of_ZIP_Codes": "97232, 97233, 97236"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.4737, 28.3329]
+        "coordinates": [-122.6921, 45.4325]
       },
       "properties": {
-        "Territory_ID": "FL-T057",
-        "Primer_ZIP_Code": "32830",
-        "Group_of_ZIP_Codes": "32830, 32831, 32837"
+        "Territory_ID": "OR-T011",
+        "Primer_ZIP_Code": "97239",
+        "Group_of_ZIP_Codes": "97239, 97266, 97267"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5912, 28.3852]
+        "coordinates": [-122.8324, 45.4876]
       },
       "properties": {
-        "Territory_ID": "FL-T058",
-        "Primer_ZIP_Code": "32835",
-        "Group_of_ZIP_Codes": "32835, 32836, 32839"
+        "Territory_ID": "OR-T012",
+        "Primer_ZIP_Code": "97005",
+        "Group_of_ZIP_Codes": "97005, 97006, 97007"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.2070, 28.5807]
+        "coordinates": [-122.8779, 45.5234]
       },
       "properties": {
-        "Territory_ID": "FL-T059",
-        "Primer_ZIP_Code": "32701",
-        "Group_of_ZIP_Codes": "32701, 32714, 32751"
+        "Territory_ID": "OR-T013",
+        "Primer_ZIP_Code": "97008",
+        "Group_of_ZIP_Codes": "97008, 97034, 97035"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.2608, 28.6773]
+        "coordinates": [-122.8032, 45.4078]
       },
       "properties": {
-        "Territory_ID": "FL-T060",
-        "Primer_ZIP_Code": "32707",
-        "Group_of_ZIP_Codes": "32707, 32730, 32750"
+        "Territory_ID": "OR-T014",
+        "Primer_ZIP_Code": "97062",
+        "Group_of_ZIP_Codes": "97062, 97068, 97070"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.3392, 28.5995]
+        "coordinates": [-122.4135, 45.4897]
       },
       "properties": {
-        "Territory_ID": "FL-T061",
-        "Primer_ZIP_Code": "32708",
-        "Group_of_ZIP_Codes": "32708, 32746, 32765"
+        "Territory_ID": "OR-T015",
+        "Primer_ZIP_Code": "97080",
+        "Group_of_ZIP_Codes": "97080, 97086, 97089"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.3987, 28.7039]
+        "coordinates": [-123.1105, 44.0582]
       },
       "properties": {
-        "Territory_ID": "FL-T062",
-        "Primer_ZIP_Code": "32712",
-        "Group_of_ZIP_Codes": "32712, 32776, 32703"
+        "Territory_ID": "OR-T016",
+        "Primer_ZIP_Code": "97401",
+        "Group_of_ZIP_Codes": "97401, 97402, 97403"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.4258, 28.6697]
+        "coordinates": [-123.0868, 44.0265]
       },
       "properties": {
-        "Territory_ID": "FL-T063",
-        "Primer_ZIP_Code": "32713",
-        "Group_of_ZIP_Codes": "32713, 32763, 32764"
+        "Territory_ID": "OR-T017",
+        "Primer_ZIP_Code": "97404",
+        "Group_of_ZIP_Codes": "97404, 97405, 97408"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.3087, 29.8947]
+        "coordinates": [-123.1662, 44.0384]
       },
       "properties": {
-        "Territory_ID": "FL-T064",
-        "Primer_ZIP_Code": "32080",
-        "Group_of_ZIP_Codes": "32080, 32084, 32086"
+        "Territory_ID": "OR-T018",
+        "Primer_ZIP_Code": "97412",
+        "Group_of_ZIP_Codes": "97412, 97419, 97426"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7187, 30.3363]
+        "coordinates": [-123.2117, 43.9587]
       },
       "properties": {
-        "Territory_ID": "FL-T065",
-        "Primer_ZIP_Code": "32202",
-        "Group_of_ZIP_Codes": "32202, 32204, 32205"
+        "Territory_ID": "OR-T019",
+        "Primer_ZIP_Code": "97431",
+        "Group_of_ZIP_Codes": "97431, 97440, 97455"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7065, 30.2813]
+        "coordinates": [-123.0685, 44.0953]
       },
       "properties": {
-        "Territory_ID": "FL-T066",
-        "Primer_ZIP_Code": "32206",
-        "Group_of_ZIP_Codes": "32206, 32207, 32208"
+        "Territory_ID": "OR-T020",
+        "Primer_ZIP_Code": "97477",
+        "Group_of_ZIP_Codes": "97477, 97478, 97482"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7637, 30.2947]
+        "coordinates": [-122.9923, 44.0802]
       },
       "properties": {
-        "Territory_ID": "FL-T067",
-        "Primer_ZIP_Code": "32209",
-        "Group_of_ZIP_Codes": "32209, 32210, 32211"
+        "Territory_ID": "OR-T021",
+        "Primer_ZIP_Code": "97488",
+        "Group_of_ZIP_Codes": "97488, 97489"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5857, 30.2510]
+        "coordinates": [-123.3512, 43.7075]
       },
       "properties": {
-        "Territory_ID": "FL-T068",
-        "Primer_ZIP_Code": "32212",
-        "Group_of_ZIP_Codes": "32212, 32217, 32223"
+        "Territory_ID": "OR-T022",
+        "Primer_ZIP_Code": "97405",
+        "Group_of_ZIP_Codes": "97405, 97420, 97423"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6556, 30.3322]
+        "coordinates": [-123.3928, 43.6721]
       },
       "properties": {
-        "Territory_ID": "FL-T069",
-        "Primer_ZIP_Code": "32216",
-        "Group_of_ZIP_Codes": "32216, 32224, 32225"
+        "Territory_ID": "OR-T023",
+        "Primer_ZIP_Code": "97459",
+        "Group_of_ZIP_Codes": "97459, 97467, 97481"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8603, 30.1915]
+        "coordinates": [-122.1187, 44.6265]
       },
       "properties": {
-        "Territory_ID": "FL-T070",
-        "Primer_ZIP_Code": "32220",
-        "Group_of_ZIP_Codes": "32220, 32221, 32222"
+        "Territory_ID": "OR-T024",
+        "Primer_ZIP_Code": "97321",
+        "Group_of_ZIP_Codes": "97321, 97322, 97327"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6206, 30.1897]
+        "coordinates": [-123.1059, 44.6369]
       },
       "properties": {
-        "Territory_ID": "FL-T071",
-        "Primer_ZIP_Code": "32226",
-        "Group_of_ZIP_Codes": "32226, 32227, 32228"
+        "Territory_ID": "OR-T025",
+        "Primer_ZIP_Code": "97330",
+        "Group_of_ZIP_Codes": "97330, 97331, 97333"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6038, 30.1347]
+        "coordinates": [-123.2620, 44.5642]
       },
       "properties": {
-        "Territory_ID": "FL-T072",
-        "Primer_ZIP_Code": "32233",
-        "Group_of_ZIP_Codes": "32233, 32250, 32266"
+        "Territory_ID": "OR-T026",
+        "Primer_ZIP_Code": "97355",
+        "Group_of_ZIP_Codes": "97355, 97360, 97361"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7359, 30.1595]
+        "coordinates": [-123.3078, 44.7745]
       },
       "properties": {
-        "Territory_ID": "FL-T073",
-        "Primer_ZIP_Code": "32234",
-        "Group_of_ZIP_Codes": "32234, 32244, 32257"
+        "Territory_ID": "OR-T027",
+        "Primer_ZIP_Code": "97370",
+        "Group_of_ZIP_Codes": "97370, 97377, 97389"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.5428, 30.1022]
+        "coordinates": [-122.9827, 44.9198]
       },
       "properties": {
-        "Territory_ID": "FL-T074",
-        "Primer_ZIP_Code": "32246",
-        "Group_of_ZIP_Codes": "32246, 32256, 32258"
+        "Territory_ID": "OR-T028",
+        "Primer_ZIP_Code": "97391",
+        "Group_of_ZIP_Codes": "97391, 97394"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8003, 26.6406]
+        "coordinates": [-122.3167, 44.3539]
       },
       "properties": {
-        "Territory_ID": "FL-T075",
-        "Primer_ZIP_Code": "33901",
-        "Group_of_ZIP_Codes": "33901, 33903, 33904"
+        "Territory_ID": "OR-T029",
+        "Primer_ZIP_Code": "97302",
+        "Group_of_ZIP_Codes": "97302, 97304, 97305"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8723, 26.6170]
+        "coordinates": [-123.0351, 44.9462]
       },
       "properties": {
-        "Territory_ID": "FL-T076",
-        "Primer_ZIP_Code": "33905",
-        "Group_of_ZIP_Codes": "33905, 33907, 33908"
+        "Territory_ID": "OR-T030",
+        "Primer_ZIP_Code": "97306",
+        "Group_of_ZIP_Codes": "97306, 97310, 97317"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.9495, 26.5215]
+        "coordinates": [-122.9799, 45.1476]
       },
       "properties": {
-        "Territory_ID": "FL-T077",
-        "Primer_ZIP_Code": "33909",
-        "Group_of_ZIP_Codes": "33909, 33917, 33990"
+        "Territory_ID": "OR-T031",
+        "Primer_ZIP_Code": "97325",
+        "Group_of_ZIP_Codes": "97325, 97352, 97385"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8804, 26.6295]
+        "coordinates": [-122.7837, 45.3021]
       },
       "properties": {
-        "Territory_ID": "FL-T078",
-        "Primer_ZIP_Code": "33912",
-        "Group_of_ZIP_Codes": "33912, 33913, 33916"
+        "Territory_ID": "OR-T032",
+        "Primer_ZIP_Code": "97381",
+        "Group_of_ZIP_Codes": "97381, 97383, 97384"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7595, 26.5081]
+        "coordinates": [-122.0306, 42.3265]
       },
       "properties": {
-        "Territory_ID": "FL-T079",
-        "Primer_ZIP_Code": "33919",
-        "Group_of_ZIP_Codes": "33919, 33928, 33967"
+        "Territory_ID": "OR-T033",
+        "Primer_ZIP_Code": "97501",
+        "Group_of_ZIP_Codes": "97501, 97502, 97503"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8301, 26.2765]
+        "coordinates": [-122.8756, 42.3268]
       },
       "properties": {
-        "Territory_ID": "FL-T080",
-        "Primer_ZIP_Code": "34102",
-        "Group_of_ZIP_Codes": "34102, 34103, 34104"
+        "Territory_ID": "OR-T034",
+        "Primer_ZIP_Code": "97504",
+        "Group_of_ZIP_Codes": "97504, 97520, 97522"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.8004, 26.1420]
+        "coordinates": [-122.6972, 42.2250]
       },
       "properties": {
-        "Territory_ID": "FL-T081",
-        "Primer_ZIP_Code": "34105",
-        "Group_of_ZIP_Codes": "34105, 34108, 34109"
+        "Territory_ID": "OR-T035",
+        "Primer_ZIP_Code": "97524",
+        "Group_of_ZIP_Codes": "97524, 97525, 97527"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7329, 26.2309]
+        "coordinates": [-122.4895, 42.4315]
       },
       "properties": {
-        "Territory_ID": "FL-T082",
-        "Primer_ZIP_Code": "34110",
-        "Group_of_ZIP_Codes": "34110, 34119, 34134"
+        "Territory_ID": "OR-T036",
+        "Primer_ZIP_Code": "97535",
+        "Group_of_ZIP_Codes": "97535, 97537, 97540"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.7144, 26.3367]
+        "coordinates": [-121.7792, 44.0604]
       },
       "properties": {
-        "Territory_ID": "FL-T083",
-        "Primer_ZIP_Code": "34112",
-        "Group_of_ZIP_Codes": "34112, 34113, 34114"
+        "Territory_ID": "OR-T037",
+        "Primer_ZIP_Code": "97701",
+        "Group_of_ZIP_Codes": "97701, 97702, 97707"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.6850, 26.0970]
+        "coordinates": [-121.3153, 44.2726]
       },
       "properties": {
-        "Territory_ID": "FL-T084",
-        "Primer_ZIP_Code": "34116",
-        "Group_of_ZIP_Codes": "34116, 34117, 34120"
+        "Territory_ID": "OR-T038",
+        "Primer_ZIP_Code": "97703",
+        "Group_of_ZIP_Codes": "97703, 97708, 97709"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.5031, 27.8710]
+        "coordinates": [-121.1507, 44.1118]
       },
       "properties": {
-        "Territory_ID": "FL-T085",
-        "Primer_ZIP_Code": "33602",
-        "Group_of_ZIP_Codes": "33602, 33603, 33604"
+        "Territory_ID": "OR-T039",
+        "Primer_ZIP_Code": "97739",
+        "Group_of_ZIP_Codes": "97739, 97754, 97756"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.4388, 27.9819]
+        "coordinates": [-120.7385, 43.4925]
       },
       "properties": {
-        "Territory_ID": "FL-T086",
-        "Primer_ZIP_Code": "33605",
-        "Group_of_ZIP_Codes": "33605, 33606, 33607"
+        "Territory_ID": "OR-T040",
+        "Primer_ZIP_Code": "97759",
+        "Group_of_ZIP_Codes": "97759, 97760, 97761"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.5148, 27.9604]
+        "coordinates": [-123.1658, 42.6987]
       },
       "properties": {
-        "Territory_ID": "FL-T087",
-        "Primer_ZIP_Code": "33609",
-        "Group_of_ZIP_Codes": "33609, 33610, 33611"
+        "Territory_ID": "OR-T041",
+        "Primer_ZIP_Code": "97526",
+        "Group_of_ZIP_Codes": "97526, 97531, 97532"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.4818, 28.0328]
+        "coordinates": [-123.3322, 42.4308]
       },
       "properties": {
-        "Territory_ID": "FL-T088",
-        "Primer_ZIP_Code": "33612",
-        "Group_of_ZIP_Codes": "33612, 33613, 33614"
+        "Territory_ID": "OR-T042",
+        "Primer_ZIP_Code": "97543",
+        "Group_of_ZIP_Codes": "97543, 97544"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.4136, 27.9659]
+        "coordinates": [-122.3789, 45.6308]
       },
       "properties": {
-        "Territory_ID": "FL-T089",
-        "Primer_ZIP_Code": "33615",
-        "Group_of_ZIP_Codes": "33615, 33616, 33617"
+        "Territory_ID": "OR-T043",
+        "Primer_ZIP_Code": "97015",
+        "Group_of_ZIP_Codes": "97015, 97027, 97030"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.4593, 28.0800]
+        "coordinates": [-122.2876, 45.6014]
       },
       "properties": {
-        "Territory_ID": "FL-T090",
-        "Primer_ZIP_Code": "33618",
-        "Group_of_ZIP_Codes": "33618, 33624, 33625"
+        "Territory_ID": "OR-T044",
+        "Primer_ZIP_Code": "97045",
+        "Group_of_ZIP_Codes": "97045, 97055, 97060"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.5055, 27.8947]
+        "coordinates": [-122.2125, 45.3678]
       },
       "properties": {
-        "Territory_ID": "FL-T091",
-        "Primer_ZIP_Code": "33619",
-        "Group_of_ZIP_Codes": "33619, 33621, 33629"
+        "Territory_ID": "OR-T045",
+        "Primer_ZIP_Code": "97009",
+        "Group_of_ZIP_Codes": "97009, 97014, 97019"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.3876, 27.9967]
+        "coordinates": [-122.8419, 45.3002]
       },
       "properties": {
-        "Territory_ID": "FL-T092",
-        "Primer_ZIP_Code": "33626",
-        "Group_of_ZIP_Codes": "33626, 33634, 33635"
+        "Territory_ID": "OR-T046",
+        "Primer_ZIP_Code": "97123",
+        "Group_of_ZIP_Codes": "97123, 97124, 97132"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.5818, 27.9178]
+        "coordinates": [-123.1974, 45.2118]
       },
       "properties": {
-        "Territory_ID": "FL-T093",
-        "Primer_ZIP_Code": "33637",
-        "Group_of_ZIP_Codes": "33637, 33647"
+        "Territory_ID": "OR-T047",
+        "Primer_ZIP_Code": "97140",
+        "Group_of_ZIP_Codes": "97140, 97148"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.7045, 27.9937]
+        "coordinates": [-122.9774, 45.5197]
       },
       "properties": {
-        "Territory_ID": "FL-T094",
-        "Primer_ZIP_Code": "33701",
-        "Group_of_ZIP_Codes": "33701, 33702, 33703"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6695, 27.8064]
-      },
-      "properties": {
-        "Territory_ID": "FL-T095",
-        "Primer_ZIP_Code": "33704",
-        "Group_of_ZIP_Codes": "33704, 33705, 33706"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7876, 27.9164]
-      },
-      "properties": {
-        "Territory_ID": "FL-T096",
-        "Primer_ZIP_Code": "33707",
-        "Group_of_ZIP_Codes": "33707, 33708, 33709"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7600, 27.9520]
-      },
-      "properties": {
-        "Territory_ID": "FL-T097",
-        "Primer_ZIP_Code": "33710",
-        "Group_of_ZIP_Codes": "33710, 33711, 33712"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7248, 28.0199]
-      },
-      "properties": {
-        "Territory_ID": "FL-T098",
-        "Primer_ZIP_Code": "33713",
-        "Group_of_ZIP_Codes": "33713, 33714, 33715"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6790, 27.8390]
-      },
-      "properties": {
-        "Territory_ID": "FL-T099",
-        "Primer_ZIP_Code": "33716",
-        "Group_of_ZIP_Codes": "33716, 33755, 33756"
+        "Territory_ID": "OR-T048",
+        "Primer_ZIP_Code": "97298",
+        "Group_of_ZIP_Codes": "97298"
       }
     }
   ]
