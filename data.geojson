@@ -5,1824 +5,912 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1645, 33.1955]
+        "coordinates": [-95.4667, 29.8404]
       },
       "properties": {
-        "Territory_ID": "CA-T069",
-        "Primer_ZIP_Code": "92054",
-        "Group_of_ZIP_Codes": "92054, 92055, 92056"
+        "Territory_ID": "TX-T025",
+        "Primer_ZIP_Code": "77080",
+        "Group_of_ZIP_Codes": "77080, 77081, 77082"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2503, 33.1581]
+        "coordinates": [-95.5652, 29.6724]
       },
       "properties": {
-        "Territory_ID": "CA-T070",
-        "Primer_ZIP_Code": "92057",
-        "Group_of_ZIP_Codes": "92057, 92058, 92069"
+        "Territory_ID": "TX-T026",
+        "Primer_ZIP_Code": "77083",
+        "Group_of_ZIP_Codes": "77083, 77084, 77085"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3056, 33.1750]
+        "coordinates": [-95.4810, 29.9455]
       },
       "properties": {
-        "Territory_ID": "CA-T071",
-        "Primer_ZIP_Code": "92064",
-        "Group_of_ZIP_Codes": "92064, 92065, 92070"
+        "Territory_ID": "TX-T027",
+        "Primer_ZIP_Code": "77086",
+        "Group_of_ZIP_Codes": "77086, 77088, 77090"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2805, 33.0505]
+        "coordinates": [-95.2335, 29.5577]
       },
       "properties": {
-        "Territory_ID": "CA-T072",
-        "Primer_ZIP_Code": "92081",
-        "Group_of_ZIP_Codes": "92081, 92083, 92084"
+        "Territory_ID": "TX-T028",
+        "Primer_ZIP_Code": "77087",
+        "Group_of_ZIP_Codes": "77087, 77089, 77091"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1237, 33.4936]
+        "coordinates": [-95.4109, 29.9989]
       },
       "properties": {
-        "Territory_ID": "CA-T073",
-        "Primer_ZIP_Code": "92307",
-        "Group_of_ZIP_Codes": "92307, 92308, 92314"
+        "Territory_ID": "TX-T029",
+        "Primer_ZIP_Code": "77092",
+        "Group_of_ZIP_Codes": "77092, 77093, 77094"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.4194, 34.1389]
+        "coordinates": [-95.5855, 29.6160]
       },
       "properties": {
-        "Territory_ID": "CA-T074",
-        "Primer_ZIP_Code": "92311",
-        "Group_of_ZIP_Codes": "92311, 92342, 92347"
+        "Territory_ID": "TX-T030",
+        "Primer_ZIP_Code": "77096",
+        "Group_of_ZIP_Codes": "77096, 77098, 77099"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.4021, 34.5361]
+        "coordinates": [-95.1113, 29.6865]
       },
       "properties": {
-        "Territory_ID": "CA-T075",
-        "Primer_ZIP_Code": "92315",
-        "Group_of_ZIP_Codes": "92315, 92365, 92368"
+        "Territory_ID": "TX-T031",
+        "Primer_ZIP_Code": "77502",
+        "Group_of_ZIP_Codes": "77502, 77503, 77504"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2419, 34.4792]
+        "coordinates": [-95.2015, 29.5258]
       },
       "properties": {
-        "Territory_ID": "CA-T076",
-        "Primer_ZIP_Code": "92324",
-        "Group_of_ZIP_Codes": "92324, 92373, 92374"
+        "Territory_ID": "TX-T032",
+        "Primer_ZIP_Code": "77505",
+        "Group_of_ZIP_Codes": "77505, 77506, 77507"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1858, 34.1064]
+        "coordinates": [-94.9707, 29.7357]
       },
       "properties": {
-        "Territory_ID": "CA-T077",
-        "Primer_ZIP_Code": "92335",
-        "Group_of_ZIP_Codes": "92335, 92336, 92337"
+        "Territory_ID": "TX-T033",
+        "Primer_ZIP_Code": "77520",
+        "Group_of_ZIP_Codes": "77520, 77521, 77522"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.8306, 34.2056]
+        "coordinates": [-95.0489, 29.9147]
       },
       "properties": {
-        "Territory_ID": "CA-T078",
-        "Primer_ZIP_Code": "92354",
-        "Group_of_ZIP_Codes": "92354, 92359, 92382"
+        "Territory_ID": "TX-T034",
+        "Primer_ZIP_Code": "77530",
+        "Group_of_ZIP_Codes": "77530, 77532, 77536"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.8765, 34.0894]
+        "coordinates": [-95.3890, 29.5195]
       },
       "properties": {
-        "Territory_ID": "CA-T079",
-        "Primer_ZIP_Code": "92392",
-        "Group_of_ZIP_Codes": "92392, 92394, 92395"
+        "Territory_ID": "TX-T035",
+        "Primer_ZIP_Code": "77539",
+        "Group_of_ZIP_Codes": "77539, 77545, 77546"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1467, 33.6140]
+        "coordinates": [-95.0144, 29.6804]
       },
       "properties": {
-        "Territory_ID": "CA-T080",
-        "Primer_ZIP_Code": "92399",
-        "Group_of_ZIP_Codes": "92399, 92401, 92405"
+        "Territory_ID": "TX-T036",
+        "Primer_ZIP_Code": "77546",
+        "Group_of_ZIP_Codes": "77546, 77547, 77562"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2903, 34.0983]
+        "coordinates": [-94.8924, 29.3880]
       },
       "properties": {
-        "Territory_ID": "CA-T081",
-        "Primer_ZIP_Code": "92404",
-        "Group_of_ZIP_Codes": "92404, 92407, 92408"
+        "Territory_ID": "TX-T037",
+        "Primer_ZIP_Code": "77550",
+        "Group_of_ZIP_Codes": "77550, 77551, 77554"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3967, 33.9533]
+        "coordinates": [-95.2191, 29.7825]
       },
       "properties": {
-        "Territory_ID": "CA-T082",
-        "Primer_ZIP_Code": "92501",
-        "Group_of_ZIP_Codes": "92501, 92503, 92504"
+        "Territory_ID": "TX-T038",
+        "Primer_ZIP_Code": "77571",
+        "Group_of_ZIP_Codes": "77571, 77573, 77574"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2291, 33.9192]
+        "coordinates": [-95.0895, 29.9255]
       },
       "properties": {
-        "Territory_ID": "CA-T083",
-        "Primer_ZIP_Code": "92505",
-        "Group_of_ZIP_Codes": "92505, 92506, 92508"
+        "Territory_ID": "TX-T039",
+        "Primer_ZIP_Code": "77581",
+        "Group_of_ZIP_Codes": "77581, 77584, 77587"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.5626, 33.8817]
+        "coordinates": [-95.2094, 29.9683]
       },
       "properties": {
-        "Territory_ID": "CA-T084",
-        "Primer_ZIP_Code": "92507",
-        "Group_of_ZIP_Codes": "92507, 92509, 92553"
+        "Territory_ID": "TX-T040",
+        "Primer_ZIP_Code": "77598",
+        "Group_of_ZIP_Codes": "77598"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3227, 33.8512]
+        "coordinates": [-96.6066, 32.7673]
       },
       "properties": {
-        "Territory_ID": "CA-T085",
-        "Primer_ZIP_Code": "92521",
-        "Group_of_ZIP_Codes": "92521, 92555, 92557"
+        "Territory_ID": "TX-T041",
+        "Primer_ZIP_Code": "75040",
+        "Group_of_ZIP_Codes": "75040, 75041, 75042"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2712, 33.6794]
+        "coordinates": [-96.6989, 32.9232]
       },
       "properties": {
-        "Territory_ID": "CA-T086",
-        "Primer_ZIP_Code": "92530",
-        "Group_of_ZIP_Codes": "92530, 92532, 92584"
+        "Territory_ID": "TX-T042",
+        "Primer_ZIP_Code": "75043",
+        "Group_of_ZIP_Codes": "75043, 75044, 75048"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1689, 33.6950]
+        "coordinates": [-96.8021, 32.7889]
       },
       "properties": {
-        "Territory_ID": "CA-T087",
-        "Primer_ZIP_Code": "92543",
-        "Group_of_ZIP_Codes": "92543, 92544, 92545"
+        "Territory_ID": "TX-T043",
+        "Primer_ZIP_Code": "75201",
+        "Group_of_ZIP_Codes": "75201, 75202, 75203"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3739, 33.5979]
+        "coordinates": [-96.7704, 32.7498]
       },
       "properties": {
-        "Territory_ID": "CA-T088",
-        "Primer_ZIP_Code": "92551",
-        "Group_of_ZIP_Codes": "92551, 92562, 92563"
+        "Territory_ID": "TX-T044",
+        "Primer_ZIP_Code": "75204",
+        "Group_of_ZIP_Codes": "75204, 75205, 75206"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1483, 33.9232]
+        "coordinates": [-96.8249, 32.8615]
       },
       "properties": {
-        "Territory_ID": "CA-T089",
-        "Primer_ZIP_Code": "92570",
-        "Group_of_ZIP_Codes": "92570, 92571, 92585"
+        "Territory_ID": "TX-T045",
+        "Primer_ZIP_Code": "75207",
+        "Group_of_ZIP_Codes": "75207, 75208, 75209"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.9689, 33.7378]
+        "coordinates": [-96.7711, 32.8033]
       },
       "properties": {
-        "Territory_ID": "CA-T090",
-        "Primer_ZIP_Code": "92581",
-        "Group_of_ZIP_Codes": "92581, 92582, 92583"
+        "Territory_ID": "TX-T046",
+        "Primer_ZIP_Code": "75210",
+        "Group_of_ZIP_Codes": "75210, 75211, 75212"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.0352, 33.6225]
+        "coordinates": [-96.8909, 32.9292]
       },
       "properties": {
-        "Territory_ID": "CA-T091",
-        "Primer_ZIP_Code": "92586",
-        "Group_of_ZIP_Codes": "92586, 92587, 92595"
+        "Territory_ID": "TX-T047",
+        "Primer_ZIP_Code": "75214",
+        "Group_of_ZIP_Codes": "75214, 75215, 75216"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.0552, 33.7206]
+        "coordinates": [-96.7259, 32.7835]
       },
       "properties": {
-        "Territory_ID": "CA-T092",
-        "Primer_ZIP_Code": "92201",
-        "Group_of_ZIP_Codes": "92201, 92203, 92236"
+        "Territory_ID": "TX-T048",
+        "Primer_ZIP_Code": "75217",
+        "Group_of_ZIP_Codes": "75217, 75218, 75219"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-115.4941, 32.7920]
+        "coordinates": [-96.8517, 32.6901]
       },
       "properties": {
-        "Territory_ID": "CA-T093",
-        "Primer_ZIP_Code": "92227",
-        "Group_of_ZIP_Codes": "92227, 92231, 92243"
+        "Territory_ID": "TX-T049",
+        "Primer_ZIP_Code": "75220",
+        "Group_of_ZIP_Codes": "75220, 75223, 75224"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.5130, 33.8303]
+        "coordinates": [-96.6834, 32.8473]
       },
       "properties": {
-        "Territory_ID": "CA-T094",
-        "Primer_ZIP_Code": "92234",
-        "Group_of_ZIP_Codes": "92234, 92240, 92241"
+        "Territory_ID": "TX-T050",
+        "Primer_ZIP_Code": "75225",
+        "Group_of_ZIP_Codes": "75225, 75226, 75227"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.2719, 33.7257]
+        "coordinates": [-96.5990, 32.7805]
       },
       "properties": {
-        "Territory_ID": "CA-T095",
-        "Primer_ZIP_Code": "92253",
-        "Group_of_ZIP_Codes": "92253, 92260, 92270"
+        "Territory_ID": "TX-T051",
+        "Primer_ZIP_Code": "75228",
+        "Group_of_ZIP_Codes": "75228, 75229, 75230"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.2165, 33.7069]
+        "coordinates": [-96.7691, 32.9319]
       },
       "properties": {
-        "Territory_ID": "CA-T096",
-        "Primer_ZIP_Code": "92262",
-        "Group_of_ZIP_Codes": "92262, 92264, 92276"
+        "Territory_ID": "TX-T052",
+        "Primer_ZIP_Code": "75231",
+        "Group_of_ZIP_Codes": "75231, 75232, 75233"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-115.6212, 33.1139]
+        "coordinates": [-96.9087, 32.8320]
       },
       "properties": {
-        "Territory_ID": "CA-T097",
-        "Primer_ZIP_Code": "92283",
-        "Group_of_ZIP_Codes": "92283, 92320"
+        "Territory_ID": "TX-T053",
+        "Primer_ZIP_Code": "75234",
+        "Group_of_ZIP_Codes": "75234, 75235, 75236"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1496, 25.7905]
+        "coordinates": [-96.8480, 32.5910]
       },
       "properties": {
-        "Territory_ID": "FL-T001",
-        "Primer_ZIP_Code": "33101",
-        "Group_of_ZIP_Codes": "33101, 33109, 33129"
+        "Territory_ID": "TX-T054",
+        "Primer_ZIP_Code": "75237",
+        "Group_of_ZIP_Codes": "75237, 75238, 75240"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2153, 25.7839]
+        "coordinates": [-96.6144, 32.8383]
       },
       "properties": {
-        "Territory_ID": "FL-T002",
-        "Primer_ZIP_Code": "33125",
-        "Group_of_ZIP_Codes": "33125, 33127, 33128"
+        "Territory_ID": "TX-T055",
+        "Primer_ZIP_Code": "75241",
+        "Group_of_ZIP_Codes": "75241, 75243, 75244"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1902, 25.7641]
+        "coordinates": [-96.7770, 32.9756]
       },
       "properties": {
-        "Territory_ID": "FL-T003",
-        "Primer_ZIP_Code": "33130",
-        "Group_of_ZIP_Codes": "33130, 33131, 33132"
+        "Territory_ID": "TX-T056",
+        "Primer_ZIP_Code": "75246",
+        "Group_of_ZIP_Codes": "75246, 75247, 75248"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1853, 25.8483]
+        "coordinates": [-96.8946, 32.7704]
       },
       "properties": {
-        "Territory_ID": "FL-T004",
-        "Primer_ZIP_Code": "33133",
-        "Group_of_ZIP_Codes": "33133, 33134, 33135"
+        "Territory_ID": "TX-T057",
+        "Primer_ZIP_Code": "75249",
+        "Group_of_ZIP_Codes": "75249, 75252, 75253"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2259, 25.9089]
+        "coordinates": [-96.9592, 32.9950]
       },
       "properties": {
-        "Territory_ID": "FL-T005",
-        "Primer_ZIP_Code": "33136",
-        "Group_of_ZIP_Codes": "33136, 33137, 33138"
+        "Territory_ID": "TX-T058",
+        "Primer_ZIP_Code": "75001",
+        "Group_of_ZIP_Codes": "75001, 75006, 75007"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1762, 25.7314]
+        "coordinates": [-96.9922, 32.9348]
       },
       "properties": {
-        "Territory_ID": "FL-T006",
-        "Primer_ZIP_Code": "33139",
-        "Group_of_ZIP_Codes": "33139, 33140, 33141"
+        "Territory_ID": "TX-T059",
+        "Primer_ZIP_Code": "75019",
+        "Group_of_ZIP_Codes": "75019, 75038, 75039"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2370, 25.8584]
+        "coordinates": [-96.8024, 33.0840]
       },
       "properties": {
-        "Territory_ID": "FL-T007",
-        "Primer_ZIP_Code": "33142",
-        "Group_of_ZIP_Codes": "33142, 33147, 33150"
+        "Territory_ID": "TX-T060",
+        "Primer_ZIP_Code": "75023",
+        "Group_of_ZIP_Codes": "75023, 75024, 75025"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2580, 25.7751]
+        "coordinates": [-96.6647, 32.9817]
       },
       "properties": {
-        "Territory_ID": "FL-T008",
-        "Primer_ZIP_Code": "33143",
-        "Group_of_ZIP_Codes": "33143, 33146, 33155"
+        "Territory_ID": "TX-T061",
+        "Primer_ZIP_Code": "75034",
+        "Group_of_ZIP_Codes": "75034, 75035, 75036"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2793, 25.8185]
+        "coordinates": [-96.9398, 32.8574]
       },
       "properties": {
-        "Territory_ID": "FL-T009",
-        "Primer_ZIP_Code": "33144",
-        "Group_of_ZIP_Codes": "33144, 33145, 33165"
+        "Territory_ID": "TX-T062",
+        "Primer_ZIP_Code": "75060",
+        "Group_of_ZIP_Codes": "75060, 75061, 75062"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1948, 25.9489]
+        "coordinates": [-96.8895, 32.9532]
       },
       "properties": {
-        "Territory_ID": "FL-T010",
-        "Primer_ZIP_Code": "33161",
-        "Group_of_ZIP_Codes": "33161, 33162, 33167"
+        "Territory_ID": "TX-T063",
+        "Primer_ZIP_Code": "75063",
+        "Group_of_ZIP_Codes": "75063, 75067, 75068"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2262, 25.9832]
+        "coordinates": [-96.7317, 33.0198]
       },
       "properties": {
-        "Territory_ID": "FL-T011",
-        "Primer_ZIP_Code": "33168",
-        "Group_of_ZIP_Codes": "33168, 33169, 33181"
+        "Territory_ID": "TX-T064",
+        "Primer_ZIP_Code": "75069",
+        "Group_of_ZIP_Codes": "75069, 75070, 75071"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.3163, 25.8905]
+        "coordinates": [-96.7008, 33.2160]
       },
       "properties": {
-        "Territory_ID": "FL-T012",
-        "Primer_ZIP_Code": "33172",
-        "Group_of_ZIP_Codes": "33172, 33174, 33182"
+        "Territory_ID": "TX-T065",
+        "Primer_ZIP_Code": "75072",
+        "Group_of_ZIP_Codes": "75072, 75074, 75075"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.3557, 25.7565]
+        "coordinates": [-96.6680, 33.1015]
       },
       "properties": {
-        "Territory_ID": "FL-T013",
-        "Primer_ZIP_Code": "33173",
-        "Group_of_ZIP_Codes": "33173, 33183, 33186"
+        "Territory_ID": "TX-T066",
+        "Primer_ZIP_Code": "75080",
+        "Group_of_ZIP_Codes": "75080, 75081, 75082"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.3998, 25.6720]
+        "coordinates": [-96.5487, 32.9608]
       },
       "properties": {
-        "Territory_ID": "FL-T014",
-        "Primer_ZIP_Code": "33175",
-        "Group_of_ZIP_Codes": "33175, 33184, 33185"
+        "Territory_ID": "TX-T067",
+        "Primer_ZIP_Code": "75087",
+        "Group_of_ZIP_Codes": "75087, 75088, 75089"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2460, 25.6523]
+        "coordinates": [-96.5160, 32.7818]
       },
       "properties": {
-        "Territory_ID": "FL-T015",
-        "Primer_ZIP_Code": "33176",
-        "Group_of_ZIP_Codes": "33176, 33177, 33187"
+        "Territory_ID": "TX-T068",
+        "Primer_ZIP_Code": "75094",
+        "Group_of_ZIP_Codes": "75094, 75098"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.4582, 25.6075]
+        "coordinates": [-97.1507, 32.8321]
       },
       "properties": {
-        "Territory_ID": "FL-T016",
-        "Primer_ZIP_Code": "33178",
-        "Group_of_ZIP_Codes": "33178, 33194"
+        "Territory_ID": "TX-T069",
+        "Primer_ZIP_Code": "76001",
+        "Group_of_ZIP_Codes": "76001, 76002, 76006"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.3380, 25.6078]
+        "coordinates": [-97.0633, 32.7591]
       },
       "properties": {
-        "Territory_ID": "FL-T017",
-        "Primer_ZIP_Code": "33189",
-        "Group_of_ZIP_Codes": "33189, 33190, 33157"
+        "Territory_ID": "TX-T070",
+        "Primer_ZIP_Code": "76010",
+        "Group_of_ZIP_Codes": "76010, 76011, 76012"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.4018, 25.5587]
+        "coordinates": [-97.1417, 32.9350]
       },
       "properties": {
-        "Territory_ID": "FL-T018",
-        "Primer_ZIP_Code": "33193",
-        "Group_of_ZIP_Codes": "33193, 33196"
+        "Territory_ID": "TX-T071",
+        "Primer_ZIP_Code": "76013",
+        "Group_of_ZIP_Codes": "76013, 76014, 76015"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1918, 26.0533]
+        "coordinates": [-97.0965, 32.6723]
       },
       "properties": {
-        "Territory_ID": "FL-T019",
-        "Primer_ZIP_Code": "33154",
-        "Group_of_ZIP_Codes": "33154, 33160"
+        "Territory_ID": "TX-T072",
+        "Primer_ZIP_Code": "76016",
+        "Group_of_ZIP_Codes": "76016, 76017, 76018"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1624, 26.1004]
+        "coordinates": [-97.1881, 32.6619]
       },
       "properties": {
-        "Territory_ID": "FL-T020",
-        "Primer_ZIP_Code": "33180",
-        "Group_of_ZIP_Codes": "33180, 33280"
+        "Territory_ID": "TX-T073",
+        "Primer_ZIP_Code": "76021",
+        "Group_of_ZIP_Codes": "76021, 76022, 76034"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2962, 25.9509]
+        "coordinates": [-97.3204, 32.7254]
       },
       "properties": {
-        "Territory_ID": "FL-T021",
-        "Primer_ZIP_Code": "33166",
-        "Group_of_ZIP_Codes": "33166, 33122"
+        "Territory_ID": "TX-T074",
+        "Primer_ZIP_Code": "76102",
+        "Group_of_ZIP_Codes": "76102, 76103, 76104"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2832, 26.0105]
+        "coordinates": [-97.2915, 32.6711]
       },
       "properties": {
-        "Territory_ID": "FL-T022",
-        "Primer_ZIP_Code": "33010",
-        "Group_of_ZIP_Codes": "33010, 33012, 33013"
+        "Territory_ID": "TX-T075",
+        "Primer_ZIP_Code": "76105",
+        "Group_of_ZIP_Codes": "76105, 76106, 76107"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2667, 26.0573]
+        "coordinates": [-97.3986, 32.7574]
       },
       "properties": {
-        "Territory_ID": "FL-T023",
-        "Primer_ZIP_Code": "33014",
-        "Group_of_ZIP_Codes": "33014, 33015, 33016"
+        "Territory_ID": "TX-T076",
+        "Primer_ZIP_Code": "76108",
+        "Group_of_ZIP_Codes": "76108, 76109, 76110"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.3223, 26.0721]
+        "coordinates": [-97.3512, 32.8256]
       },
       "properties": {
-        "Territory_ID": "FL-T024",
-        "Primer_ZIP_Code": "33018",
-        "Group_of_ZIP_Codes": "33018"
+        "Territory_ID": "TX-T077",
+        "Primer_ZIP_Code": "76111",
+        "Group_of_ZIP_Codes": "76111, 76112, 76114"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1937, 26.1404]
+        "coordinates": [-97.2351, 32.6937]
       },
       "properties": {
-        "Territory_ID": "FL-T025",
-        "Primer_ZIP_Code": "33023",
-        "Group_of_ZIP_Codes": "33023, 33169"
+        "Territory_ID": "TX-T078",
+        "Primer_ZIP_Code": "76115",
+        "Group_of_ZIP_Codes": "76115, 76116, 76117"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2525, 26.1701]
+        "coordinates": [-97.2882, 32.9059]
       },
       "properties": {
-        "Territory_ID": "FL-T026",
-        "Primer_ZIP_Code": "33024",
-        "Group_of_ZIP_Codes": "33024, 33314"
+        "Territory_ID": "TX-T079",
+        "Primer_ZIP_Code": "76118",
+        "Group_of_ZIP_Codes": "76118, 76119, 76120"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1495, 26.1337]
+        "coordinates": [-97.4162, 32.6728]
       },
       "properties": {
-        "Territory_ID": "FL-T027",
-        "Primer_ZIP_Code": "33019",
-        "Group_of_ZIP_Codes": "33019, 33020, 33021"
+        "Territory_ID": "TX-T080",
+        "Primer_ZIP_Code": "76123",
+        "Group_of_ZIP_Codes": "76123, 76126, 76131"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2258, 26.2325]
+        "coordinates": [-97.3395, 32.8587]
       },
       "properties": {
-        "Territory_ID": "FL-T028",
-        "Primer_ZIP_Code": "33025",
-        "Group_of_ZIP_Codes": "33025, 33026, 33027"
+        "Territory_ID": "TX-T081",
+        "Primer_ZIP_Code": "76132",
+        "Group_of_ZIP_Codes": "76132, 76133, 76134"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2778, 26.1715]
+        "coordinates": [-97.1703, 32.8170]
       },
       "properties": {
-        "Territory_ID": "FL-T029",
-        "Primer_ZIP_Code": "33028",
-        "Group_of_ZIP_Codes": "33028, 33330, 33331"
+        "Territory_ID": "TX-T082",
+        "Primer_ZIP_Code": "76137",
+        "Group_of_ZIP_Codes": "76137, 76140, 76148"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1227, 26.1416]
+        "coordinates": [-97.4017, 32.5631]
       },
       "properties": {
-        "Territory_ID": "FL-T030",
-        "Primer_ZIP_Code": "33301",
-        "Group_of_ZIP_Codes": "33301, 33304, 33305"
+        "Territory_ID": "TX-T083",
+        "Primer_ZIP_Code": "76155",
+        "Group_of_ZIP_Codes": "76155, 76164, 76177"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1528, 26.2034]
+        "coordinates": [-97.2823, 32.9979]
       },
       "properties": {
-        "Territory_ID": "FL-T031",
-        "Primer_ZIP_Code": "33312",
-        "Group_of_ZIP_Codes": "33312, 33315, 33316"
+        "Territory_ID": "TX-T084",
+        "Primer_ZIP_Code": "76179",
+        "Group_of_ZIP_Codes": "76179, 76180, 76182"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1676, 26.0930]
+        "coordinates": [-98.5436, 29.5202]
       },
       "properties": {
-        "Territory_ID": "FL-T032",
-        "Primer_ZIP_Code": "33311",
-        "Group_of_ZIP_Codes": "33311, 33313, 33319"
+        "Territory_ID": "TX-T085",
+        "Primer_ZIP_Code": "78201",
+        "Group_of_ZIP_Codes": "78201, 78202, 78203"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1994, 26.2289]
+        "coordinates": [-98.5032, 29.4260]
       },
       "properties": {
-        "Territory_ID": "FL-T033",
-        "Primer_ZIP_Code": "33317",
-        "Group_of_ZIP_Codes": "33317, 33324, 33325"
+        "Territory_ID": "TX-T086",
+        "Primer_ZIP_Code": "78204",
+        "Group_of_ZIP_Codes": "78204, 78205, 78207"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2498, 26.1187]
+        "coordinates": [-98.4662, 29.3770]
       },
       "properties": {
-        "Territory_ID": "FL-T034",
-        "Primer_ZIP_Code": "33322",
-        "Group_of_ZIP_Codes": "33322, 33323, 33351"
+        "Territory_ID": "TX-T087",
+        "Primer_ZIP_Code": "78208",
+        "Group_of_ZIP_Codes": "78208, 78209, 78210"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1746, 26.2870]
+        "coordinates": [-98.6140, 29.4633]
       },
       "properties": {
-        "Territory_ID": "FL-T035",
-        "Primer_ZIP_Code": "33326",
-        "Group_of_ZIP_Codes": "33326, 33327, 33332"
+        "Territory_ID": "TX-T088",
+        "Primer_ZIP_Code": "78211",
+        "Group_of_ZIP_Codes": "78211, 78212, 78213"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1373, 26.3009]
+        "coordinates": [-98.5252, 29.5005]
       },
       "properties": {
-        "Territory_ID": "FL-T036",
-        "Primer_ZIP_Code": "33334",
-        "Group_of_ZIP_Codes": "33334, 33306, 33308"
+        "Territory_ID": "TX-T089",
+        "Primer_ZIP_Code": "78214",
+        "Group_of_ZIP_Codes": "78214, 78215, 78216"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.2115, 26.3121]
+        "coordinates": [-98.4390, 29.4350]
       },
       "properties": {
-        "Territory_ID": "FL-T037",
-        "Primer_ZIP_Code": "33321",
-        "Group_of_ZIP_Codes": "33321, 33388"
+        "Territory_ID": "TX-T090",
+        "Primer_ZIP_Code": "78217",
+        "Group_of_ZIP_Codes": "78217, 78218, 78219"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1139, 26.5095]
+        "coordinates": [-98.4052, 29.5096]
       },
       "properties": {
-        "Territory_ID": "FL-T038",
-        "Primer_ZIP_Code": "33401",
-        "Group_of_ZIP_Codes": "33401, 33405, 33407"
+        "Territory_ID": "TX-T091",
+        "Primer_ZIP_Code": "78220",
+        "Group_of_ZIP_Codes": "78220, 78221, 78222"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0842, 26.4615]
+        "coordinates": [-98.5527, 29.3627]
       },
       "properties": {
-        "Territory_ID": "FL-T039",
-        "Primer_ZIP_Code": "33404",
-        "Group_of_ZIP_Codes": "33404, 33403, 33408"
+        "Territory_ID": "TX-T092",
+        "Primer_ZIP_Code": "78223",
+        "Group_of_ZIP_Codes": "78223, 78224, 78225"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0580, 26.5254]
+        "coordinates": [-98.6292, 29.4150]
       },
       "properties": {
-        "Territory_ID": "FL-T040",
-        "Primer_ZIP_Code": "33409",
-        "Group_of_ZIP_Codes": "33409, 33417, 33461"
+        "Territory_ID": "TX-T093",
+        "Primer_ZIP_Code": "78226",
+        "Group_of_ZIP_Codes": "78226, 78227, 78228"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1067, 26.6151]
+        "coordinates": [-98.5503, 29.5655]
       },
       "properties": {
-        "Territory_ID": "FL-T041",
-        "Primer_ZIP_Code": "33411",
-        "Group_of_ZIP_Codes": "33411, 33414, 33470"
+        "Territory_ID": "TX-T094",
+        "Primer_ZIP_Code": "78229",
+        "Group_of_ZIP_Codes": "78229, 78230, 78231"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0534, 26.4034]
+        "coordinates": [-98.4321, 29.5832]
       },
       "properties": {
-        "Territory_ID": "FL-T042",
-        "Primer_ZIP_Code": "33415",
-        "Group_of_ZIP_Codes": "33415, 33463, 33467"
+        "Territory_ID": "TX-T095",
+        "Primer_ZIP_Code": "78232",
+        "Group_of_ZIP_Codes": "78232, 78233, 78234"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0767, 26.6845]
+        "coordinates": [-98.6705, 29.4587]
       },
       "properties": {
-        "Territory_ID": "FL-T043",
-        "Primer_ZIP_Code": "33418",
-        "Group_of_ZIP_Codes": "33418, 33458, 33477"
+        "Territory_ID": "TX-T096",
+        "Primer_ZIP_Code": "78235",
+        "Group_of_ZIP_Codes": "78235, 78236, 78237"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.0936, 26.3749]
+        "coordinates": [-98.6125, 29.5472]
       },
       "properties": {
-        "Territory_ID": "FL-T044",
-        "Primer_ZIP_Code": "33426",
-        "Group_of_ZIP_Codes": "33426, 33435, 33436"
+        "Territory_ID": "TX-T097",
+        "Primer_ZIP_Code": "78238",
+        "Group_of_ZIP_Codes": "78238, 78239, 78240"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1078, 26.4295]
+        "coordinates": [-98.7065, 29.4239]
       },
       "properties": {
-        "Territory_ID": "FL-T045",
-        "Primer_ZIP_Code": "33428",
-        "Group_of_ZIP_Codes": "33428, 33433, 33434"
+        "Territory_ID": "TX-T098",
+        "Primer_ZIP_Code": "78242",
+        "Group_of_ZIP_Codes": "78242, 78243, 78244"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1232, 26.3153]
+        "coordinates": [-98.6248, 29.6182]
       },
       "properties": {
-        "Territory_ID": "FL-T046",
-        "Primer_ZIP_Code": "33441",
-        "Group_of_ZIP_Codes": "33441, 33442, 33445"
+        "Territory_ID": "TX-T099",
+        "Primer_ZIP_Code": "78245",
+        "Group_of_ZIP_Codes": "78245, 78247, 78248"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1487, 26.3503]
+        "coordinates": [-98.5267, 29.6090]
       },
       "properties": {
-        "Territory_ID": "FL-T047",
-        "Primer_ZIP_Code": "33444",
-        "Group_of_ZIP_Codes": "33444, 33483, 33484"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.1300, 26.6528]
-      },
-      "properties": {
-        "Territory_ID": "FL-T048",
-        "Primer_ZIP_Code": "33455",
-        "Group_of_ZIP_Codes": "33455, 33469, 33478"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.0746, 26.3350]
-      },
-      "properties": {
-        "Territory_ID": "FL-T049",
-        "Primer_ZIP_Code": "33462",
-        "Group_of_ZIP_Codes": "33462, 33472, 33473"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6406, 28.5392]
-      },
-      "properties": {
-        "Territory_ID": "FL-T050",
-        "Primer_ZIP_Code": "32801",
-        "Group_of_ZIP_Codes": "32801, 32803, 32804"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6656, 28.4833]
-      },
-      "properties": {
-        "Territory_ID": "FL-T051",
-        "Primer_ZIP_Code": "32805",
-        "Group_of_ZIP_Codes": "32805, 32806, 32807"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6112, 28.4923]
-      },
-      "properties": {
-        "Territory_ID": "FL-T052",
-        "Primer_ZIP_Code": "32808",
-        "Group_of_ZIP_Codes": "32808, 32810, 32811"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5812, 28.6267]
-      },
-      "properties": {
-        "Territory_ID": "FL-T053",
-        "Primer_ZIP_Code": "32812",
-        "Group_of_ZIP_Codes": "32812, 32814, 32822"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5070, 28.4508]
-      },
-      "properties": {
-        "Territory_ID": "FL-T054",
-        "Primer_ZIP_Code": "32818",
-        "Group_of_ZIP_Codes": "32818, 32819, 32821"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5428, 28.4158]
-      },
-      "properties": {
-        "Territory_ID": "FL-T055",
-        "Primer_ZIP_Code": "32824",
-        "Group_of_ZIP_Codes": "32824, 32827, 32829"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4056, 28.5112]
-      },
-      "properties": {
-        "Territory_ID": "FL-T056",
-        "Primer_ZIP_Code": "32825",
-        "Group_of_ZIP_Codes": "32825, 32826, 32828"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4737, 28.3329]
-      },
-      "properties": {
-        "Territory_ID": "FL-T057",
-        "Primer_ZIP_Code": "32830",
-        "Group_of_ZIP_Codes": "32830, 32831, 32837"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5912, 28.3852]
-      },
-      "properties": {
-        "Territory_ID": "FL-T058",
-        "Primer_ZIP_Code": "32835",
-        "Group_of_ZIP_Codes": "32835, 32836, 32839"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.2070, 28.5807]
-      },
-      "properties": {
-        "Territory_ID": "FL-T059",
-        "Primer_ZIP_Code": "32701",
-        "Group_of_ZIP_Codes": "32701, 32714, 32751"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.2608, 28.6773]
-      },
-      "properties": {
-        "Territory_ID": "FL-T060",
-        "Primer_ZIP_Code": "32707",
-        "Group_of_ZIP_Codes": "32707, 32730, 32750"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3392, 28.5995]
-      },
-      "properties": {
-        "Territory_ID": "FL-T061",
-        "Primer_ZIP_Code": "32708",
-        "Group_of_ZIP_Codes": "32708, 32746, 32765"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3987, 28.7039]
-      },
-      "properties": {
-        "Territory_ID": "FL-T062",
-        "Primer_ZIP_Code": "32712",
-        "Group_of_ZIP_Codes": "32712, 32776, 32703"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.4258, 28.6697]
-      },
-      "properties": {
-        "Territory_ID": "FL-T063",
-        "Primer_ZIP_Code": "32713",
-        "Group_of_ZIP_Codes": "32713, 32763, 32764"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.3087, 29.8947]
-      },
-      "properties": {
-        "Territory_ID": "FL-T064",
-        "Primer_ZIP_Code": "32080",
-        "Group_of_ZIP_Codes": "32080, 32084, 32086"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7187, 30.3363]
-      },
-      "properties": {
-        "Territory_ID": "FL-T065",
-        "Primer_ZIP_Code": "32202",
-        "Group_of_ZIP_Codes": "32202, 32204, 32205"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7065, 30.2813]
-      },
-      "properties": {
-        "Territory_ID": "FL-T066",
-        "Primer_ZIP_Code": "32206",
-        "Group_of_ZIP_Codes": "32206, 32207, 32208"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7637, 30.2947]
-      },
-      "properties": {
-        "Territory_ID": "FL-T067",
-        "Primer_ZIP_Code": "32209",
-        "Group_of_ZIP_Codes": "32209, 32210, 32211"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5857, 30.2510]
-      },
-      "properties": {
-        "Territory_ID": "FL-T068",
-        "Primer_ZIP_Code": "32212",
-        "Group_of_ZIP_Codes": "32212, 32217, 32223"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6556, 30.3322]
-      },
-      "properties": {
-        "Territory_ID": "FL-T069",
-        "Primer_ZIP_Code": "32216",
-        "Group_of_ZIP_Codes": "32216, 32224, 32225"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8603, 30.1915]
-      },
-      "properties": {
-        "Territory_ID": "FL-T070",
-        "Primer_ZIP_Code": "32220",
-        "Group_of_ZIP_Codes": "32220, 32221, 32222"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6206, 30.1897]
-      },
-      "properties": {
-        "Territory_ID": "FL-T071",
-        "Primer_ZIP_Code": "32226",
-        "Group_of_ZIP_Codes": "32226, 32227, 32228"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6038, 30.1347]
-      },
-      "properties": {
-        "Territory_ID": "FL-T072",
-        "Primer_ZIP_Code": "32233",
-        "Group_of_ZIP_Codes": "32233, 32250, 32266"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7359, 30.1595]
-      },
-      "properties": {
-        "Territory_ID": "FL-T073",
-        "Primer_ZIP_Code": "32234",
-        "Group_of_ZIP_Codes": "32234, 32244, 32257"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.5428, 30.1022]
-      },
-      "properties": {
-        "Territory_ID": "FL-T074",
-        "Primer_ZIP_Code": "32246",
-        "Group_of_ZIP_Codes": "32246, 32256, 32258"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8003, 26.6406]
-      },
-      "properties": {
-        "Territory_ID": "FL-T075",
-        "Primer_ZIP_Code": "33901",
-        "Group_of_ZIP_Codes": "33901, 33903, 33904"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8723, 26.6170]
-      },
-      "properties": {
-        "Territory_ID": "FL-T076",
-        "Primer_ZIP_Code": "33905",
-        "Group_of_ZIP_Codes": "33905, 33907, 33908"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.9495, 26.5215]
-      },
-      "properties": {
-        "Territory_ID": "FL-T077",
-        "Primer_ZIP_Code": "33909",
-        "Group_of_ZIP_Codes": "33909, 33917, 33990"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8804, 26.6295]
-      },
-      "properties": {
-        "Territory_ID": "FL-T078",
-        "Primer_ZIP_Code": "33912",
-        "Group_of_ZIP_Codes": "33912, 33913, 33916"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7595, 26.5081]
-      },
-      "properties": {
-        "Territory_ID": "FL-T079",
-        "Primer_ZIP_Code": "33919",
-        "Group_of_ZIP_Codes": "33919, 33928, 33967"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8301, 26.2765]
-      },
-      "properties": {
-        "Territory_ID": "FL-T080",
-        "Primer_ZIP_Code": "34102",
-        "Group_of_ZIP_Codes": "34102, 34103, 34104"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.8004, 26.1420]
-      },
-      "properties": {
-        "Territory_ID": "FL-T081",
-        "Primer_ZIP_Code": "34105",
-        "Group_of_ZIP_Codes": "34105, 34108, 34109"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7329, 26.2309]
-      },
-      "properties": {
-        "Territory_ID": "FL-T082",
-        "Primer_ZIP_Code": "34110",
-        "Group_of_ZIP_Codes": "34110, 34119, 34134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.7144, 26.3367]
-      },
-      "properties": {
-        "Territory_ID": "FL-T083",
-        "Primer_ZIP_Code": "34112",
-        "Group_of_ZIP_Codes": "34112, 34113, 34114"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-81.6850, 26.0970]
-      },
-      "properties": {
-        "Territory_ID": "FL-T084",
-        "Primer_ZIP_Code": "34116",
-        "Group_of_ZIP_Codes": "34116, 34117, 34120"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.5031, 27.8710]
-      },
-      "properties": {
-        "Territory_ID": "FL-T085",
-        "Primer_ZIP_Code": "33602",
-        "Group_of_ZIP_Codes": "33602, 33603, 33604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4388, 27.9819]
-      },
-      "properties": {
-        "Territory_ID": "FL-T086",
-        "Primer_ZIP_Code": "33605",
-        "Group_of_ZIP_Codes": "33605, 33606, 33607"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.5148, 27.9604]
-      },
-      "properties": {
-        "Territory_ID": "FL-T087",
-        "Primer_ZIP_Code": "33609",
-        "Group_of_ZIP_Codes": "33609, 33610, 33611"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4818, 28.0328]
-      },
-      "properties": {
-        "Territory_ID": "FL-T088",
-        "Primer_ZIP_Code": "33612",
-        "Group_of_ZIP_Codes": "33612, 33613, 33614"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4136, 27.9659]
-      },
-      "properties": {
-        "Territory_ID": "FL-T089",
-        "Primer_ZIP_Code": "33615",
-        "Group_of_ZIP_Codes": "33615, 33616, 33617"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.4593, 28.0800]
-      },
-      "properties": {
-        "Territory_ID": "FL-T090",
-        "Primer_ZIP_Code": "33618",
-        "Group_of_ZIP_Codes": "33618, 33624, 33625"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.5055, 27.8947]
-      },
-      "properties": {
-        "Territory_ID": "FL-T091",
-        "Primer_ZIP_Code": "33619",
-        "Group_of_ZIP_Codes": "33619, 33621, 33629"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.3876, 27.9967]
-      },
-      "properties": {
-        "Territory_ID": "FL-T092",
-        "Primer_ZIP_Code": "33626",
-        "Group_of_ZIP_Codes": "33626, 33634, 33635"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.5818, 27.9178]
-      },
-      "properties": {
-        "Territory_ID": "FL-T093",
-        "Primer_ZIP_Code": "33637",
-        "Group_of_ZIP_Codes": "33637, 33647"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7045, 27.9937]
-      },
-      "properties": {
-        "Territory_ID": "FL-T094",
-        "Primer_ZIP_Code": "33701",
-        "Group_of_ZIP_Codes": "33701, 33702, 33703"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6695, 27.8064]
-      },
-      "properties": {
-        "Territory_ID": "FL-T095",
-        "Primer_ZIP_Code": "33704",
-        "Group_of_ZIP_Codes": "33704, 33705, 33706"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7876, 27.9164]
-      },
-      "properties": {
-        "Territory_ID": "FL-T096",
-        "Primer_ZIP_Code": "33707",
-        "Group_of_ZIP_Codes": "33707, 33708, 33709"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7600, 27.9520]
-      },
-      "properties": {
-        "Territory_ID": "FL-T097",
-        "Primer_ZIP_Code": "33710",
-        "Group_of_ZIP_Codes": "33710, 33711, 33712"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.7248, 28.0199]
-      },
-      "properties": {
-        "Territory_ID": "FL-T098",
-        "Primer_ZIP_Code": "33713",
-        "Group_of_ZIP_Codes": "33713, 33714, 33715"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-82.6790, 27.8390]
-      },
-      "properties": {
-        "Territory_ID": "FL-T099",
-        "Primer_ZIP_Code": "33716",
-        "Group_of_ZIP_Codes": "33716, 33755, 33756"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.3697, 29.7604]
-      },
-      "properties": {
-        "Territory_ID": "TX-T001",
-        "Primer_ZIP_Code": "77002",
-        "Group_of_ZIP_Codes": "77002, 77003, 77004"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4010, 29.7030]
-      },
-      "properties": {
-        "Territory_ID": "TX-T002",
-        "Primer_ZIP_Code": "77005",
-        "Group_of_ZIP_Codes": "77005, 77006, 77007"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4342, 29.8340]
-      },
-      "properties": {
-        "Territory_ID": "TX-T003",
-        "Primer_ZIP_Code": "77008",
-        "Group_of_ZIP_Codes": "77008, 77009, 77011"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.2877, 29.7863]
-      },
-      "properties": {
-        "Territory_ID": "TX-T004",
-        "Primer_ZIP_Code": "77012",
-        "Group_of_ZIP_Codes": "77012, 77013, 77015"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.2610, 29.7037]
-      },
-      "properties": {
-        "Territory_ID": "TX-T005",
-        "Primer_ZIP_Code": "77016",
-        "Group_of_ZIP_Codes": "77016, 77017, 77018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4794, 29.7700]
-      },
-      "properties": {
-        "Territory_ID": "TX-T006",
-        "Primer_ZIP_Code": "77019",
-        "Group_of_ZIP_Codes": "77019, 77020, 77021"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5476, 29.7848]
-      },
-      "properties": {
-        "Territory_ID": "TX-T007",
-        "Primer_ZIP_Code": "77022",
-        "Group_of_ZIP_Codes": "77022, 77023, 77024"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.3633, 29.6696]
-      },
-      "properties": {
-        "Territory_ID": "TX-T008",
-        "Primer_ZIP_Code": "77025",
-        "Group_of_ZIP_Codes": "77025, 77026, 77027"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.2351, 29.7715]
-      },
-      "properties": {
-        "Territory_ID": "TX-T009",
-        "Primer_ZIP_Code": "77028",
-        "Group_of_ZIP_Codes": "77028, 77029, 77032"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4104, 29.6050]
-      },
-      "properties": {
-        "Territory_ID": "TX-T010",
-        "Primer_ZIP_Code": "77030",
-        "Group_of_ZIP_Codes": "77030, 77031, 77033"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5610, 29.6889]
-      },
-      "properties": {
-        "Territory_ID": "TX-T011",
-        "Primer_ZIP_Code": "77034",
-        "Group_of_ZIP_Codes": "77034, 77035, 77036"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.6345, 29.8619]
-      },
-      "properties": {
-        "Territory_ID": "TX-T012",
-        "Primer_ZIP_Code": "77037",
-        "Group_of_ZIP_Codes": "77037, 77038, 77039"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.2945, 29.8760]
-      },
-      "properties": {
-        "Territory_ID": "TX-T013",
-        "Primer_ZIP_Code": "77040",
-        "Group_of_ZIP_Codes": "77040, 77041, 77043"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4980, 29.8599]
-      },
-      "properties": {
-        "Territory_ID": "TX-T014",
-        "Primer_ZIP_Code": "77042",
-        "Group_of_ZIP_Codes": "77042, 77045, 77046"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.2091, 29.6421]
-      },
-      "properties": {
-        "Territory_ID": "TX-T015",
-        "Primer_ZIP_Code": "77044",
-        "Group_of_ZIP_Codes": "77044, 77047, 77048"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.1838, 29.5520]
-      },
-      "properties": {
-        "Territory_ID": "TX-T016",
-        "Primer_ZIP_Code": "77049",
-        "Group_of_ZIP_Codes": "77049, 77050, 77051"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.4575, 29.5998]
-      },
-      "properties": {
-        "Territory_ID": "TX-T017",
-        "Primer_ZIP_Code": "77053",
-        "Group_of_ZIP_Codes": "77053, 77054, 77055"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5960, 29.7605]
-      },
-      "properties": {
-        "Territory_ID": "TX-T018",
-        "Primer_ZIP_Code": "77056",
-        "Group_of_ZIP_Codes": "77056, 77057, 77058"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.1249, 29.6154]
-      },
-      "properties": {
-        "Territory_ID": "TX-T019",
-        "Primer_ZIP_Code": "77059",
-        "Group_of_ZIP_Codes": "77059, 77060, 77061"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.6414, 29.6904]
-      },
-      "properties": {
-        "Territory_ID": "TX-T020",
-        "Primer_ZIP_Code": "77062",
-        "Group_of_ZIP_Codes": "77062, 77063, 77064"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5157, 29.9256]
-      },
-      "properties": {
-        "Territory_ID": "TX-T021",
-        "Primer_ZIP_Code": "77065",
-        "Group_of_ZIP_Codes": "77065, 77066, 77067"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.1739, 29.9188]
-      },
-      "properties": {
-        "Territory_ID": "TX-T022",
-        "Primer_ZIP_Code": "77068",
-        "Group_of_ZIP_Codes": "77068, 77069, 77070"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.6108, 29.5831]
-      },
-      "properties": {
-        "Territory_ID": "TX-T023",
-        "Primer_ZIP_Code": "77071",
-        "Group_of_ZIP_Codes": "77071, 77072, 77074"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-95.5353, 29.6497]
-      },
-      "properties": {
-        "Territory_ID": "TX-T024",
-        "Primer_ZIP_Code": "77075",
-        "Group_of_ZIP_Codes": "77075, 77077, 77079"
+        "Territory_ID": "TX-T100",
+        "Primer_ZIP_Code": "78249",
+        "Group_of_ZIP_Codes": "78249, 78250, 78251"
       }
     }
   ]
