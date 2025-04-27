@@ -13,19 +13,56 @@
         "Group_of_ZIP_Codes": "10001,10011,10018,10019,10036"
       }
     },
-    // ... todas las demás features de lote_1.json ...
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2503, 32.8395]
+        "coordinates": [-73.9626, 40.774]
       },
       "properties": {
-        "Territory_ID": "CA-T069",
-        "Primer_ZIP_Code": "92037",
-        "Group_of_ZIP_Codes": "92037,92038,92039"
+        "Territory_ID": "NY-T02",
+        "Primer_ZIP_Code": "10002",
+        "Group_of_ZIP_Codes": "10002,10003,10009,10012,10013,10014"
       }
     },
-    // ... todas las demás features de lote_2.json ...
-  ]
-}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9447, 40.7839]
+      },
+      "properties": {
+        "Territory_ID": "NY-T03",
+        "Primer_ZIP_Code": "10004",
+        "Group_of_ZIP_Codes": "10004,10005,10006,10007,10038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9653, 40.792]
+      },
+      "properties": {
+        "Territory_ID": "NY-T04",
+        "Primer_ZIP_Code": "10010",
+        "Group_of_ZIP_Codes": "10010,10016,10017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9279, 40.865]
+      },
+      "properties": {
+        "Territory_ID": "NY-T05",
+        "Primer_ZIP_Code": "10021",
+        "Group_of_ZIP_Codes": "10021,10022,10065,10075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9473
