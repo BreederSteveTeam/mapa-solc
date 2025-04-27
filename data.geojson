@@ -5,6 +5,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-73.9961, 40.7508]
+      },
+      "properties": {
+        "Territory_ID": "NY-T01",
+        "Primer_ZIP_Code": "10001",
+        "Group_of_ZIP_Codes": "10001,10011,10018,10019,10036"
+      }
+    },
+    // ... todas las demás features de lote_1.json ...
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-117.2503, 32.8395]
       },
       "properties": {
@@ -13,152 +26,6 @@
         "Group_of_ZIP_Codes": "92037,92038,92039"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3505, 33.2063]
-      },
-      "properties": {
-        "Territory_ID": "CA-T070",
-        "Primer_ZIP_Code": "92054",
-        "Group_of_ZIP_Codes": "92054,92056,92057"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0495, 32.9759]
-      },
-      "properties": {
-        "Territory_ID": "CA-T071",
-        "Primer_ZIP_Code": "92064",
-        "Group_of_ZIP_Codes": "92064,92065,92070"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.9839, 32.8498]
-      },
-      "properties": {
-        "Territory_ID": "CA-T072",
-        "Primer_ZIP_Code": "92071",
-        "Group_of_ZIP_Codes": "92071,92072,92083"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1647, 32.7186]
-      },
-      "properties": {
-        "Territory_ID": "CA-T073",
-        "Primer_ZIP_Code": "92101",
-        "Group_of_ZIP_Codes": "92101,92102,92103,92104"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0914, 32.7381]
-      },
-      "properties": {
-        "Territory_ID": "CA-T074",
-        "Primer_ZIP_Code": "92105",
-        "Group_of_ZIP_Codes": "92105,92113,92114"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.2453, 32.7448]
-      },
-      "properties": {
-        "Territory_ID": "CA-T075",
-        "Primer_ZIP_Code": "92107",
-        "Group_of_ZIP_Codes": "92107,92109,92110"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1649, 32.8039]
-      },
-      "properties": {
-        "Territory_ID": "CA-T076",
-        "Primer_ZIP_Code": "92111",
-        "Group_of_ZIP_Codes": "92111,92117,92122"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0748, 32.7597]
-      },
-      "properties": {
-        "Territory_ID": "CA-T077",
-        "Primer_ZIP_Code": "92115",
-        "Group_of_ZIP_Codes": "92115,92116,92119"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0714, 32.7948]
-      },
-      "properties": {
-        "Territory_ID": "CA-T078",
-        "Primer_ZIP_Code": "92120",
-        "Group_of_ZIP_Codes": "92120,92123,92124"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1417, 32.9109]
-      },
-      "properties": {
-        "Territory_ID": "CA-T079",
-        "Primer_ZIP_Code": "92126",
-        "Group_of_ZIP_Codes": "92126,92127,92128"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.1154, 32.9595]
-      },
-      "properties": {
-        "Territory_ID": "CA-T080",
-        "Primer_ZIP_Code": "92129",
-        "Group_of_ZIP_Codes": "92129,92130,92131"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.0431, 32.6773]
-      },
-      "properties": {
-        "Territory_ID": "CA-T081",
-        "Primer_ZIP_Code": "92139",
-        "Group_of_ZIP_Codes": "92139,92154,92173"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-116.2376, 33.707
+    // ... todas las demás features de lote_2.json ...
+  ]
+}
