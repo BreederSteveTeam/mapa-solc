@@ -1188,6 +1188,18 @@
         "Primer_ZIP_Code": "92020",
         "Group_of_ZIP_Codes": "92020, 92021, 92040"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2503, 32.8395]
+      },
+      "properties": {
+        "Territory_ID": "CA-T068",
+        "Primer_ZIP_Code": "92037",
+        "Group_of_ZIP_Codes": "92037, 92054, 92056"
+      }
     }
   ]
 }
