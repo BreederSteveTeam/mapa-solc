@@ -1188,6 +1188,1220 @@
         "Primer_ZIP_Code": "92020",
         "Group_of_ZIP_Codes": "92020, 92021, 92040"
       }
+    },
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1049, 33.1196]
+    },
+    "properties": {
+      "Territory_ID": "CA-T068",
+      "Primer_ZIP_Code": "92025",
+      "Group_of_ZIP_Codes": "92025, 92026, 92027"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2376, 32.8711]
+    },
+    "properties": {
+      "Territory_ID": "CA-T069",
+      "Primer_ZIP_Code": "92037",
+      "Group_of_ZIP_Codes": "92037, 92038, 92039"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3429, 33.2007]
+    },
+    "properties": {
+      "Territory_ID": "CA-T070",
+      "Primer_ZIP_Code": "92054",
+      "Group_of_ZIP_Codes": "92054, 92056, 92057"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0762, 32.9595]
+    },
+    "properties": {
+      "Territory_ID": "CA-T071",
+      "Primer_ZIP_Code": "92064",
+      "Group_of_ZIP_Codes": "92064, 92065, 92070"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0037, 32.7473]
+    },
+    "properties": {
+      "Territory_ID": "CA-T072",
+      "Primer_ZIP_Code": "92071",
+      "Group_of_ZIP_Codes": "92071, 92072, 92083"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1649, 32.7174]
+    },
+    "properties": {
+      "Territory_ID": "CA-T073",
+      "Primer_ZIP_Code": "92101",
+      "Group_of_ZIP_Codes": "92101, 92102, 92103, 92104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1195, 32.7357]
+    },
+    "properties": {
+      "Territory_ID": "CA-T074",
+      "Primer_ZIP_Code": "92105",
+      "Group_of_ZIP_Codes": "92105, 92113, 92114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2549, 32.8107]
+    },
+    "properties": {
+      "Territory_ID": "CA-T075",
+      "Primer_ZIP_Code": "92107",
+      "Group_of_ZIP_Codes": "92107, 92109, 92110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2131, 32.8305]
+    },
+    "properties": {
+      "Territory_ID": "CA-T076",
+      "Primer_ZIP_Code": "92111",
+      "Group_of_ZIP_Codes": "92111, 92117, 92122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0842, 32.7595]
+    },
+    "properties": {
+      "Territory_ID": "CA-T077",
+      "Primer_ZIP_Code": "92115",
+      "Group_of_ZIP_Codes": "92115, 92116, 92119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0088, 32.8203]
+    },
+    "properties": {
+      "Territory_ID": "CA-T078",
+      "Primer_ZIP_Code": "92120",
+      "Group_of_ZIP_Codes": "92120, 92123, 92124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0982, 32.8807]
+    },
+    "properties": {
+      "Territory_ID": "CA-T079",
+      "Primer_ZIP_Code": "92126",
+      "Group_of_ZIP_Codes": "92126, 92127, 92128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1293, 32.9549]
+    },
+    "properties": {
+      "Territory_ID": "CA-T080",
+      "Primer_ZIP_Code": "92129",
+      "Group_of_ZIP_Codes": "92129, 92130, 92131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0395, 32.6141]
+    },
+    "properties": {
+      "Territory_ID": "CA-T081",
+      "Primer_ZIP_Code": "92139",
+      "Group_of_ZIP_Codes": "92139, 92154, 92173"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-115.4941, 32.9812]
+    },
+    "properties": {
+      "Territory_ID": "CA-T082",
+      "Primer_ZIP_Code": "92201",
+      "Group_of_ZIP_Codes": "92201, 92203, 92210"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.8305, 33.8303]
+    },
+    "properties": {
+      "Territory_ID": "CA-T083",
+      "Primer_ZIP_Code": "92220",
+      "Group_of_ZIP_Codes": "92220, 92223, 92230"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.4194, 33.7049]
+    },
+    "properties": {
+      "Territory_ID": "CA-T084",
+      "Primer_ZIP_Code": "92234",
+      "Group_of_ZIP_Codes": "92234, 92236, 92240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.4452, 33.7207]
+    },
+    "properties": {
+      "Territory_ID": "CA-T085",
+      "Primer_ZIP_Code": "92260",
+      "Group_of_ZIP_Codes": "92260, 92262, 92264"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.5107, 33.6648]
+    },
+    "properties": {
+      "Territory_ID": "CA-T086",
+      "Primer_ZIP_Code": "92270",
+      "Group_of_ZIP_Codes": "92270, 92276, 92282"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1723, 34.7755]
+    },
+    "properties": {
+      "Territory_ID": "CA-T087",
+      "Primer_ZIP_Code": "92307",
+      "Group_of_ZIP_Codes": "92307, 92308, 92395"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3794, 34.1389]
+    },
+    "properties": {
+      "Territory_ID": "CA-T088",
+      "Primer_ZIP_Code": "92335",
+      "Group_of_ZIP_Codes": "92335, 92336, 92337"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.8305, 34.4247]
+    },
+    "properties": {
+      "Territory_ID": "CA-T089",
+      "Primer_ZIP_Code": "92345",
+      "Group_of_ZIP_Codes": "92345, 92346, 92392"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2903, 34.1021]
+    },
+    "properties": {
+      "Territory_ID": "CA-T090",
+      "Primer_ZIP_Code": "92354",
+      "Group_of_ZIP_Codes": "92354, 92373, 92374"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.4351, 34.0922]
+    },
+    "properties": {
+      "Territory_ID": "CA-T091",
+      "Primer_ZIP_Code": "92376",
+      "Group_of_ZIP_Codes": "92376, 92377, 92399"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2419, 34.0640]
+    },
+    "properties": {
+      "Territory_ID": "CA-T092",
+      "Primer_ZIP_Code": "92401",
+      "Group_of_ZIP_Codes": "92401, 92404, 92405"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2827, 34.1336]
+    },
+    "properties": {
+      "Territory_ID": "CA-T093",
+      "Primer_ZIP_Code": "92407",
+      "Group_of_ZIP_Codes": "92407, 92408, 92410"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3967, 33.9534]
+    },
+    "properties": {
+      "Territory_ID": "CA-T094",
+      "Primer_ZIP_Code": "92501",
+      "Group_of_ZIP_Codes": "92501, 92503, 92504"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.4351, 33.9757]
+    },
+    "properties": {
+      "Territory_ID": "CA-T095",
+      "Primer_ZIP_Code": "92505",
+      "Group_of_ZIP_Codes": "92505, 92506, 92507"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3227, 33.9164]
+    },
+    "properties": {
+      "Territory_ID": "CA-T096",
+      "Primer_ZIP_Code": "92508",
+      "Group_of_ZIP_Codes": "92508, 92509, 92518"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.5626, 33.6225]
+    },
+    "properties": {
+      "Territory_ID": "CA-T097",
+      "Primer_ZIP_Code": "92530",
+      "Group_of_ZIP_Codes": "92530, 92532, 92548"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.9380, 33.7079]
+    },
+    "properties": {
+      "Territory_ID": "CA-T098",
+      "Primer_ZIP_Code": "92543",
+      "Group_of_ZIP_Codes": "92543, 92544, 92545"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2297, 33.5800]
+    },
+    "properties": {
+      "Territory_ID": "CA-T099",
+      "Primer_ZIP_Code": "92551",
+      "Group_of_ZIP_Codes": "92551, 92553, 92555"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.2718, 33.6794]
+    },
+    "properties": {
+      "Territory_ID": "CA-T100",
+      "Primer_ZIP_Code": "92557",
+      "Group_of_ZIP_Codes": "92557, 92571, 92586"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1684, 33.4937]
+    },
+    "properties": {
+      "Territory_ID": "CA-T101",
+      "Primer_ZIP_Code": "92590",
+      "Group_of_ZIP_Codes": "92590, 92591, 92592"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7526, 33.6695]
+    },
+    "properties": {
+      "Territory_ID": "CA-T102",
+      "Primer_ZIP_Code": "92602",
+      "Group_of_ZIP_Codes": "92602, 92603, 92604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.8232, 33.6831]
+    },
+    "properties": {
+      "Territory_ID": "CA-T103",
+      "Primer_ZIP_Code": "92606",
+      "Group_of_ZIP_Codes": "92606, 92612, 92614"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7147, 33.6203]
+    },
+    "properties": {
+      "Territory_ID": "CA-T104",
+      "Primer_ZIP_Code": "92617",
+      "Group_of_ZIP_Codes": "92617, 92618, 92620"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.8257, 33.5439]
+    },
+    "properties": {
+      "Territory_ID": "CA-T105",
+      "Primer_ZIP_Code": "92624",
+      "Group_of_ZIP_Codes": "92624, 92625, 92626"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9124, 33.6167]
+    },
+    "properties": {
+      "Territory_ID": "CA-T106",
+      "Primer_ZIP_Code": "92627",
+      "Group_of_ZIP_Codes": "92627, 92628, 92646"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6709, 33.6071]
+    },
+    "properties": {
+      "Territory_ID": "CA-T107",
+      "Primer_ZIP_Code": "92630",
+      "Group_of_ZIP_Codes": "92630, 92653, 92677"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9982, 33.6603]
+    },
+    "properties": {
+      "Territory_ID": "CA-T108",
+      "Primer_ZIP_Code": "92647",
+      "Group_of_ZIP_Codes": "92647, 92648, 92649"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6868, 33.4660]
+    },
+    "properties": {
+      "Territory_ID": "CA-T109",
+      "Primer_ZIP_Code": "92651",
+      "Group_of_ZIP_Codes": "92651, 92657, 92660"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9492, 33.6117]
+    },
+    "properties": {
+      "Territory_ID": "CA-T110",
+      "Primer_ZIP_Code": "92661",
+      "Group_of_ZIP_Codes": "92661, 92662, 92663"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.5996, 33.4267]
+    },
+    "properties": {
+      "Territory_ID": "CA-T111",
+      "Primer_ZIP_Code": "92672",
+      "Group_of_ZIP_Codes": "92672, 92673, 92675"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9873, 33.7361]
+    },
+    "properties": {
+      "Territory_ID": "CA-T112",
+      "Primer_ZIP_Code": "92683",
+      "Group_of_ZIP_Codes": "92683, 92684, 92685"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6412, 33.5017]
+    },
+    "properties": {
+      "Territory_ID": "CA-T113",
+      "Primer_ZIP_Code": "92688",
+      "Group_of_ZIP_Codes": "92688, 92691, 92692"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6827, 33.7447]
+    },
+    "properties": {
+      "Territory_ID": "CA-T114",
+      "Primer_ZIP_Code": "92701",
+      "Group_of_ZIP_Codes": "92701, 92703, 92704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7118, 33.7772]
+    },
+    "properties": {
+      "Territory_ID": "CA-T115",
+      "Primer_ZIP_Code": "92705",
+      "Group_of_ZIP_Codes": "92705, 92706, 92707"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.8372, 33.6920]
+    },
+    "properties": {
+      "Territory_ID": "CA-T116",
+      "Primer_ZIP_Code": "92708",
+      "Group_of_ZIP_Codes": "92708, 92780, 92781"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9187, 33.8348]
+    },
+    "properties": {
+      "Territory_ID": "CA-T117",
+      "Primer_ZIP_Code": "92801",
+      "Group_of_ZIP_Codes": "92801, 92802, 92804"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.8826, 33.8031]
+    },
+    "properties": {
+      "Territory_ID": "CA-T118",
+      "Primer_ZIP_Code": "92805",
+      "Group_of_ZIP_Codes": "92805, 92806, 92807"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.5633, 33.8807]
+    },
+    "properties": {
+      "Territory_ID": "CA-T119",
+      "Primer_ZIP_Code": "92808",
+      "Group_of_ZIP_Codes": "92808, 92821, 92823"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.8889, 33.8583]
+    },
+    "properties": {
+      "Territory_ID": "CA-T120",
+      "Primer_ZIP_Code": "92831",
+      "Group_of_ZIP_Codes": "92831, 92832, 92833"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9698, 33.7743]
+    },
+    "properties": {
+      "Territory_ID": "CA-T121",
+      "Primer_ZIP_Code": "92835",
+      "Group_of_ZIP_Codes": "92835, 92843, 92844"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7519, 33.8672]
+    },
+    "properties": {
+      "Territory_ID": "CA-T122",
+      "Primer_ZIP_Code": "92861",
+      "Group_of_ZIP_Codes": "92861, 92865, 92866"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7912, 33.8480]
+    },
+    "properties": {
+      "Territory_ID": "CA-T123",
+      "Primer_ZIP_Code": "92867",
+      "Group_of_ZIP_Codes": "92867, 92868, 92869"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6509, 33.8640]
+    },
+    "properties": {
+      "Territory_ID": "CA-T124",
+      "Primer_ZIP_Code": "92870",
+      "Group_of_ZIP_Codes": "92870, 92886, 92887"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.3066, 34.2783]
+    },
+    "properties": {
+      "Territory_ID": "CA-T125",
+      "Primer_ZIP_Code": "93001",
+      "Group_of_ZIP_Codes": "93001, 93003, 93004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.1391, 34.2164]
+    },
+    "properties": {
+      "Territory_ID": "CA-T126",
+      "Primer_ZIP_Code": "93010",
+      "Group_of_ZIP_Codes": "93010, 93012, 93015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.1771, 34.2569]
+    },
+    "properties": {
+      "Territory_ID": "CA-T127",
+      "Primer_ZIP_Code": "93021",
+      "Group_of_ZIP_Codes": "93021, 93030, 93033"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2287, 34.2746]
+    },
+    "properties": {
+      "Territory_ID": "CA-T128",
+      "Primer_ZIP_Code": "93035",
+      "Group_of_ZIP_Codes": "93035, 93036, 93041"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.0955, 34.3161]
+    },
+    "properties": {
+      "Territory_ID": "CA-T129",
+      "Primer_ZIP_Code": "93060",
+      "Group_of_ZIP_Codes": "93060, 93063, 93065"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2932, 34.4305]
+    },
+    "properties": {
+      "Territory_ID": "CA-T130",
+      "Primer_ZIP_Code": "93066",
+      "Group_of_ZIP_Codes": "93066, 93201, 93203"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.0587, 35.1057]
+    },
+    "properties": {
+      "Territory_ID": "CA-T131",
+      "Primer_ZIP_Code": "93206",
+      "Group_of_ZIP_Codes": "93206, 93215, 93224"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.6982, 36.3239]
+    },
+    "properties": {
+      "Territory_ID": "CA-T132",
+      "Primer_ZIP_Code": "93230",
+      "Group_of_ZIP_Codes": "93230, 93232, 93245"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.3482, 36.1342]
+    },
+    "properties": {
+      "Territory_ID": "CA-T133",
+      "Primer_ZIP_Code": "93247",
+      "Group_of_ZIP_Codes": "93247, 93249, 93250"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2921, 36.0650]
+    },
+    "properties": {
+      "Territory_ID": "CA-T134",
+      "Primer_ZIP_Code": "93257",
+      "Group_of_ZIP_Codes": "93257, 93258, 93260"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.2291, 35.4937]
+    },
+    "properties": {
+      "Territory_ID": "CA-T135",
+      "Primer_ZIP_Code": "93263",
+      "Group_of_ZIP_Codes": "93263, 93268, 93274"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.3493, 36.2194]
+    },
+    "properties": {
+      "Territory_ID": "CA-T136",
+      "Primer_ZIP_Code": "93277",
+      "Group_of_ZIP_Codes": "93277, 93278, 93291"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.0076, 35.3739]
+    },
+    "properties": {
+      "Territory_ID": "CA-T137",
+      "Primer_ZIP_Code": "93301",
+      "Group_of_ZIP_Codes": "93301, 93304, 93305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.9626, 35.3733]
+    },
+    "properties": {
+      "Territory_ID": "CA-T138",
+      "Primer_ZIP_Code": "93306",
+      "Group_of_ZIP_Codes": "93306, 93307, 93308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.0567, 35.3366]
+    },
+    "properties": {
+      "Territory_ID": "CA-T139",
+      "Primer_ZIP_Code": "93309",
+      "Group_of_ZIP_Codes": "93309, 93311, 93312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.0941, 35.2828]
+    },
+    "properties": {
+      "Territory_ID": "CA-T140",
+      "Primer_ZIP_Code": "93313",
+      "Group_of_ZIP_Codes": "93313, 93314, 93380"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.6596, 35.2828]
+    },
+    "properties": {
+      "Territory_ID": "CA-T141",
+      "Primer_ZIP_Code": "93401",
+      "Group_of_ZIP_Codes": "93401, 93405, 93406"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.4326, 35.4877]
+    },
+    "properties": {
+      "Territory_ID": "CA-T142",
+      "Primer_ZIP_Code": "93420",
+      "Group_of_ZIP_Codes": "93420, 93421, 93422"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.6903, 34.9530]
+    },
+    "properties": {
+      "Territory_ID": "CA-T143",
+      "Primer_ZIP_Code": "93436",
+      "Group_of_ZIP_Codes": "93436, 93437, 93438"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-120.1361, 34.6138]
+    },
+    "properties": {
+      "Territory_ID": "CA-T144",
+      "Primer_ZIP_Code": "93454",
+      "Group_of_ZIP_Codes": "93454, 93455, 93458"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.3406, 34.8233]
+    },
+    "properties": {
+      "Territory_ID": "CA-T145",
+      "Primer_ZIP_Code": "93501",
+      "Group_of_ZIP_Codes": "93501, 93505, 93534"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.6095, 34.6989]
+    },
+    "properties": {
+      "Territory_ID": "CA-T146",
+      "Primer_ZIP_Code": "93535",
+      "Group_of_ZIP_Codes": "93535, 93536, 93551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.7524, 36.8381]
+    },
+    "properties": {
+      "Territory_ID": "CA-T147",
+      "Primer_ZIP_Code": "93611",
+      "Group_of_ZIP_Codes": "93611, 93612, 93619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.6504, 36.5681]
+    },
+    "properties": {
+      "Territory_ID": "CA-T148",
+      "Primer_ZIP_Code": "93625",
+      "Group_of_ZIP_Codes": "93625, 93626, 93630"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.8921, 36.6002]
+    },
+    "properties": {
+      "Territory_ID": "CA-T149",
+      "Primer_ZIP_Code": "93635",
+      "Group_of_ZIP_Codes": "93635, 93637, 93638"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.3887, 36.4920]
+    },
+    "properties": {
+      "Territory_ID": "CA-T150",
+      "Primer_ZIP_Code": "93654",
+      "Group_of_ZIP_Codes": "93654, 93656, 93657"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.5640, 36.6544]
+    },
+    "properties": {
+      "Territory_ID": "CA-T151",
+      "Primer_ZIP_Code": "93662",
+      "Group_of_ZIP_Codes": "93662, 93664, 93667"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.7854, 36.7328]
+    },
+    "properties": {
+      "Territory_ID": "CA-T152",
+      "Primer_ZIP_Code": "93701",
+      "Group_of_ZIP_Codes": "93701, 93702, 93703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.7858, 36.8092]
+    },
+    "properties": {
+      "Territory_ID": "CA-T153",
+      "Primer_ZIP_Code": "93704",
+      "Group_of_ZIP_Codes": "93704, 93705, 93710"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.7017, 36.8403]
+    },
+    "properties": {
+      "Territory_ID": "CA-T154",
+      "Primer_ZIP_Code": "93711",
+      "Group_of_ZIP_Codes": "93711, 93720, 93722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.6507, 36.7410]
+    },
+    "properties": {
+      "Territory_ID": "CA-T155",
+      "Primer_ZIP_Code": "93725",
+      "Group_of_ZIP_Codes": "93725, 93726, 93727"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.7590, 36.7936]
+    },
+    "properties": {
+      "Territory_ID": "CA-T156",
+      "Primer_ZIP_Code": "93728",
+      "Group_of_ZIP_Codes": "93728, 93740, 93741"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.6958, 36.6848]
+    },
+    "properties": {
+      "Territory_ID": "CA-T157",
+      "Primer_ZIP_Code": "93901",
+      "Group_of_ZIP_Codes": "93901, 93905, 93906"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.6169, 36.6729]
+    },
+    "properties": {
+      "Territory_ID": "CA-T158",
+      "Primer_ZIP_Code": "93907",
+      "Group_of_ZIP_Codes": "93907, 93908, 93933"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.8740, 36.6026]
+    },
+    "properties": {
+      "Territory_ID": "CA-T159",
+      "Primer_ZIP_Code": "93940",
+      "Group_of_ZIP_Codes": "93940, 93943, 93950"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3009, 37.5297]
+    },
+    "properties": {
+      "Territory_ID": "CA-T160",
+      "Primer_ZIP_Code": "94002",
+      "Group_of_ZIP_Codes": "94002, 94005, 94010"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4019, 37.7067]
+    },
+    "properties": {
+      "Territory_ID": "CA-T161",
+      "Primer_ZIP_Code": "94015",
+      "Group_of_ZIP_Codes": "94015, 94016, 94017"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.1826, 37.4522]
+    },
+    "properties": {
+      "Territory_ID": "CA-T162",
+      "Primer_ZIP_Code": "94025",
+      "Group_of_ZIP_Codes": "94025, 94027, 94028"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3900, 37.6152]
+    },
+    "properties": {
+      "Territory_ID": "CA-T163",
+      "Primer_ZIP_Code": "94030",
+      "Group_of_ZIP_Codes": "94030, 94044, 94066"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.2332, 37.4853]
+    },
+    "properties": {
+      "Territory_ID": "CA-T164",
+      "Primer_ZIP_Code": "94061",
+      "Group_of_ZIP_Codes": "94061, 94062, 94063"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.3572, 37.5841]
+    },
+    "properties": {
+      "Territory_ID": "CA-T165",
+      "Primer_ZIP_Code": "94070",
+      "Group_of_ZIP_Codes": "94070, 94080, 94083"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4196, 37.7792]
+    },
+    "properties": {
+      "Territory_ID": "CA-T166",
+      "Primer_ZIP_Code": "94102",
+      "Group_of_ZIP_Codes": "94102, 94103, 94105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4048, 37.7895]
+    },
+    "properties": {
+      "Territory_ID": "CA-T167",
+      "Primer_ZIP_Code": "94107",
+      "Group_of_ZIP_Codes": "94107, 94108, 94109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.4346, 37.7322]
+    },
+    "properties": {
+      "Territory_ID": "CA-T168",
+      "Primer_ZIP_Code": "94110",
+      "Group_of_ZIP_Codes": "94110, 94112, 94114"
+    }
+  }
+]
   ]
 }
