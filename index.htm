@@ -1,63 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <title>USA Territories Map</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <title>Mapa SOLC - Territorios</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
-        #map {
-            height: 100vh;
-            width: 100%;
-        }
+        #map { height: 600px; width: 100%; }
     </style>
 </head>
 <body>
     <div id="map"></div>
-
-    <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
     <script>
-        // Crear el mapa y centrarlo en EE.UU.
-        var map = L.map('map').setView([39.8283, -98.5795], 4); // Centro aproximado de EE.UU.
+        // Inicializar el mapa
+        var map = L.map('map').setView([39.8283, -98.5795], 4);
 
-        // Cargar mapa base (OpenStreetMap)
+        // Añadir capa base de OpenStreetMap
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 18,
-            attribution: '© OpenStreetMap'
+            attribution: '© OpenStreetMap contributors'
         }).addTo(map);
 
-        // Cargar el archivo GeoJSON
-        fetch('data.geojson')
-            .then(response => response.json())
-            .then(data => {
-                // Agregar puntos al mapa
+        // Cargar el GeoJSON desde un archivo externo
+        $.getJSON("data.geojson")
+            .done(function(data) {
                 L.geoJSON(data, {
                     onEachFeature: function (feature, layer) {
-                        if (feature.properties) {
-                            layer.bindPopup(
-                                '<strong>Territory ID:</strong> ' + feature.properties.Territory_ID + '<br>' +
-                                '<strong>Primer ZIP Code:</strong> ' + feature.properties.Primer_ZIP_Code + '<br>' +
-                                '<strong>Group of ZIP Codes:</strong> ' + feature.properties.Group_of_ZIP_Codes
-                            );
-                        }
-                    },
-                    pointToLayer: function (feature, latlng) {
-                        return L.circleMarker(latlng, {
-                            radius: 5,
-                            fillColor: "#ff7800",
-                            color: "#000",
-                            weight: 1,
-                            opacity: 1,
-                            fillOpacity: 0.8
-                        });
+                        layer.bindPopup(
+                            "<b>Territorio:</b> " + feature.properties.Territory_ID +
+                            "<br><b>ZIP Principal:</b> " + feature.properties.Primer_ZIP_Code +
+                            "<br><b>Grupo de ZIPs:</b> " + feature.properties.Group_of_ZIP_Codes +
+                            "<br><a href='https://spiceoflifecannabis.com/canna-friendly-usa-territories/#" + feature.properties.Territory_ID + "' target='_blank'>Ver Detalles</a>"
+                        );
+                        layer.bindTooltip(feature.properties.Territory_ID, { sticky: true });
                     }
                 }).addTo(map);
             })
-            .catch(error => {
-                console.error('Error loading the GeoJSON data:', error);
+            .fail(function(jqXHR, textStatus, errorThrown) {
+                console.error("Error al cargar el archivo GeoJSON: ", textStatus, errorThrown);
+                alert("No se pudo cargar el archivo data.geojson. Asegúrate de que el archivo esté en el directorio correcto y de que estés ejecutando esto desde un servidor web (como GitHub Pages).");
             });
     </script>
 </body>
