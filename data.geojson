@@ -1200,6 +1200,1211 @@
                 "Primer_ZIP_Code": "10601",
                 "Group_of_ZIP_Codes": "10601, 10603, 10604, 10605"
             }
+        },
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8038, 41.0085]
+            },
+            "properties": {
+                "Territory_ID": "NY-201",
+                "Primer_ZIP_Code": "10606",
+                "Group_of_ZIP_Codes": "10606, 10607, 10610"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8654, 41.3265]
+            },
+            "properties": {
+                "Territory_ID": "NY-202",
+                "Primer_ZIP_Code": "10901",
+                "Group_of_ZIP_Codes": "10901, 10913, 10920, 10923"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9709, 41.287]
+            },
+            "properties": {
+                "Territory_ID": "NY-203",
+                "Primer_ZIP_Code": "10927",
+                "Group_of_ZIP_Codes": "10927, 10931, 10952, 10954"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0712, 41.2254]
+            },
+            "properties": {
+                "Territory_ID": "NY-204",
+                "Primer_ZIP_Code": "10956",
+                "Group_of_ZIP_Codes": "10956, 10960, 10962, 10964"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9205, 41.178]
+            },
+            "properties": {
+                "Territory_ID": "NY-205",
+                "Primer_ZIP_Code": "10965",
+                "Group_of_ZIP_Codes": "10965, 10968, 10970, 10976"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0128, 41.258]
+            },
+            "properties": {
+                "Territory_ID": "NY-206",
+                "Primer_ZIP_Code": "10977",
+                "Group_of_ZIP_Codes": "10977, 10982, 10983, 10984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0986, 41.3311]
+            },
+            "properties": {
+                "Territory_ID": "NY-207",
+                "Primer_ZIP_Code": "10986",
+                "Group_of_ZIP_Codes": "10986, 10987, 10989, 10994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1729, 41.1941]
+            },
+            "properties": {
+                "Territory_ID": "NY-208",
+                "Primer_ZIP_Code": "10996",
+                "Group_of_ZIP_Codes": "10996, 10998, 12508, 12512"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9664, 42.0987]
+            },
+            "properties": {
+                "Territory_ID": "NY-209",
+                "Primer_ZIP_Code": "12007",
+                "Group_of_ZIP_Codes": "12007, 12009, 12017, 12018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8115, 42.2495]
+            },
+            "properties": {
+                "Territory_ID": "NY-210",
+                "Primer_ZIP_Code": "12020",
+                "Group_of_ZIP_Codes": "12020, 12022, 12023, 12024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1708, 42.2295]
+            },
+            "properties": {
+                "Territory_ID": "NY-211",
+                "Primer_ZIP_Code": "12027",
+                "Group_of_ZIP_Codes": "12027, 12028, 12029, 12031"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.833, 42.0945]
+            },
+            "properties": {
+                "Territory_ID": "NY-212",
+                "Primer_ZIP_Code": "12033",
+                "Group_of_ZIP_Codes": "12033, 12037, 12040, 12041"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1518, 42.038]
+            },
+            "properties": {
+                "Territory_ID": "NY-213",
+                "Primer_ZIP_Code": "12042",
+                "Group_of_ZIP_Codes": "12042, 12043, 12045, 12046"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9479, 42.1355]
+            },
+            "properties": {
+                "Territory_ID": "NY-214",
+                "Primer_ZIP_Code": "12047",
+                "Group_of_ZIP_Codes": "12047, 12050, 12051, 12052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1026, 42.2725]
+            },
+            "properties": {
+                "Territory_ID": "NY-215",
+                "Primer_ZIP_Code": "12053",
+                "Group_of_ZIP_Codes": "12053, 12054, 12055, 12056"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6768, 42.2529]
+            },
+            "properties": {
+                "Territory_ID": "NY-216",
+                "Primer_ZIP_Code": "12057",
+                "Group_of_ZIP_Codes": "12057, 12058, 12059, 12060"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8032, 42.2146]
+            },
+            "properties": {
+                "Territory_ID": "NY-217",
+                "Primer_ZIP_Code": "12061",
+                "Group_of_ZIP_Codes": "12061, 12062, 12063, 12065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6148, 42.1542]
+            },
+            "properties": {
+                "Territory_ID": "NY-218",
+                "Primer_ZIP_Code": "12067",
+                "Group_of_ZIP_Codes": "12067, 12071, 12073, 12074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7805, 42.2929]
+            },
+            "properties": {
+                "Territory_ID": "NY-219",
+                "Primer_ZIP_Code": "12075",
+                "Group_of_ZIP_Codes": "12075, 12076, 12077, 12082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8484, 42.0257]
+            },
+            "properties": {
+                "Territory_ID": "NY-220",
+                "Primer_ZIP_Code": "12083",
+                "Group_of_ZIP_Codes": "12083, 12084, 12085, 12086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8923, 42.288]
+            },
+            "properties": {
+                "Territory_ID": "NY-221",
+                "Primer_ZIP_Code": "12087",
+                "Group_of_ZIP_Codes": "12087, 12089, 12090, 12092"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1938, 42.3335]
+            },
+            "properties": {
+                "Territory_ID": "NY-222",
+                "Primer_ZIP_Code": "12093",
+                "Group_of_ZIP_Codes": "12093, 12094, 12106, 12107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5095, 42.223]
+            },
+            "properties": {
+                "Territory_ID": "NY-223",
+                "Primer_ZIP_Code": "12110",
+                "Group_of_ZIP_Codes": "12110, 12115, 12116, 12117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0986, 42.179]
+            },
+            "properties": {
+                "Territory_ID": "NY-224",
+                "Primer_ZIP_Code": "12120",
+                "Group_of_ZIP_Codes": "12120, 12122, 12123, 12124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7351, 42.1714]
+            },
+            "properties": {
+                "Territory_ID": "NY-225",
+                "Primer_ZIP_Code": "12125",
+                "Group_of_ZIP_Codes": "12125, 12130, 12131, 12132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6836, 42.345]
+            },
+            "properties": {
+                "Territory_ID": "NY-226",
+                "Primer_ZIP_Code": "12136",
+                "Group_of_ZIP_Codes": "12136, 12137, 12138, 12140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7509, 42.1087]
+            },
+            "properties": {
+                "Territory_ID": "NY-227",
+                "Primer_ZIP_Code": "12143",
+                "Group_of_ZIP_Codes": "12143, 12144, 12147, 12148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1492, 42.159]
+            },
+            "properties": {
+                "Territory_ID": "NY-228",
+                "Primer_ZIP_Code": "12149",
+                "Group_of_ZIP_Codes": "12149, 12150, 12153, 12154"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.8975, 42.115]
+            },
+            "properties": {
+                "Territory_ID": "NY-229",
+                "Primer_ZIP_Code": "12156",
+                "Group_of_ZIP_Codes": "12156, 12157, 12158, 12159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0986, 42.179]
+            },
+            "properties": {
+                "Territory_ID": "NY-230",
+                "Primer_ZIP_Code": "12161",
+                "Group_of_ZIP_Codes": "12161, 12165, 12166, 12167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6836, 42.345]
+            },
+            "properties": {
+                "Territory_ID": "NY-231",
+                "Primer_ZIP_Code": "12168",
+                "Group_of_ZIP_Codes": "12168, 12169, 12170, 12172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6768, 42.2529]
+            },
+            "properties": {
+                "Territory_ID": "NY-232",
+                "Primer_ZIP_Code": "12173",
+                "Group_of_ZIP_Codes": "12173, 12174, 12176, 12177"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6918, 42.728]
+            },
+            "properties": {
+                "Territory_ID": "NY-233",
+                "Primer_ZIP_Code": "12180",
+                "Group_of_ZIP_Codes": "12180, 12182, 12183, 12184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6148, 42.1542]
+            },
+            "properties": {
+                "Territory_ID": "NY-234",
+                "Primer_ZIP_Code": "12185",
+                "Group_of_ZIP_Codes": "12185, 12186, 12187, 12188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6768, 42.2529]
+            },
+            "properties": {
+                "Territory_ID": "NY-235",
+                "Primer_ZIP_Code": "12189",
+                "Group_of_ZIP_Codes": "12189, 12192, 12193, 12194"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.6148, 42.1542]
+            },
+            "properties": {
+                "Territory_ID": "NY-236",
+                "Primer_ZIP_Code": "12195",
+                "Group_of_ZIP_Codes": "12195, 12196, 12198, 12202"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7563, 42.6526]
+            },
+            "properties": {
+                "Territory_ID": "NY-237",
+                "Primer_ZIP_Code": "12203",
+                "Group_of_ZIP_Codes": "12203, 12204, 12205, 12206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7563, 42.6526]
+            },
+            "properties": {
+                "Territory_ID": "NY-238",
+                "Primer_ZIP_Code": "12207",
+                "Group_of_ZIP_Codes": "12207, 12208, 12209, 12210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.7563, 42.6526]
+            },
+            "properties": {
+                "Territory_ID": "NY-239",
+                "Primer_ZIP_Code": "12211",
+                "Group_of_ZIP_Codes": "12211, 12212, 12220, 12222"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.4787, 42.5005]
+            },
+            "properties": {
+                "Territory_ID": "NY-240",
+                "Primer_ZIP_Code": "12405",
+                "Group_of_ZIP_Codes": "12405, 12406, 12407, 12409"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1049, 41.9265]
+            },
+            "properties": {
+                "Territory_ID": "NY-241",
+                "Primer_ZIP_Code": "12410",
+                "Group_of_ZIP_Codes": "12410, 12411, 12412, 12413"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1050, 41.9266]
+            },
+            "properties": {
+                "Territory_ID": "NY-242",
+                "Primer_ZIP_Code": "12414",
+                "Group_of_ZIP_Codes": "12414, 12416, 12417, 12418"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1051, 41.9267]
+            },
+            "properties": {
+                "Territory_ID": "NY-243",
+                "Primer_ZIP_Code": "12419",
+                "Group_of_ZIP_Codes": "12419, 12420, 12421, 12422"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1052, 41.9268]
+            },
+            "properties": {
+                "Territory_ID": "NY-244",
+                "Primer_ZIP_Code": "12423",
+                "Group_of_ZIP_Codes": "12423, 12424, 12427, 12429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1053, 41.9269]
+            },
+            "properties": {
+                "Territory_ID": "NY-245",
+                "Primer_ZIP_Code": "12430",
+                "Group_of_ZIP_Codes": "12430, 12431, 12432, 12433"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1054, 41.9270]
+            },
+            "properties": {
+                "Territory_ID": "NY-246",
+                "Primer_ZIP_Code": "12434",
+                "Group_of_ZIP_Codes": "12434, 12435, 12436, 12439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1055, 41.9271]
+            },
+            "properties": {
+                "Territory_ID": "NY-247",
+                "Primer_ZIP_Code": "12440",
+                "Group_of_ZIP_Codes": "12440, 12441, 12442, 12443"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1056, 41.9272]
+            },
+            "properties": {
+                "Territory_ID": "NY-248",
+                "Primer_ZIP_Code": "12444",
+                "Group_of_ZIP_Codes": "12444, 12446, 12448, 12449"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1057, 41.9273]
+            },
+            "properties": {
+                "Territory_ID": "NY-249",
+                "Primer_ZIP_Code": "12450",
+                "Group_of_ZIP_Codes": "12450, 12451, 12452, 12453"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1058, 41.9274]
+            },
+            "properties": {
+                "Territory_ID": "NY-250",
+                "Primer_ZIP_Code": "12454",
+                "Group_of_ZIP_Codes": "12454, 12455, 12456, 12457"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1059, 41.9275]
+            },
+            "properties": {
+                "Territory_ID": "NY-251",
+                "Primer_ZIP_Code": "12458",
+                "Group_of_ZIP_Codes": "12458, 12459, 12460, 12461"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1060, 41.9276]
+            },
+            "properties": {
+                "Territory_ID": "NY-252",
+                "Primer_ZIP_Code": "12463",
+                "Group_of_ZIP_Codes": "12463, 12464, 12465, 12466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1061, 41.9277]
+            },
+            "properties": {
+                "Territory_ID": "NY-253",
+                "Primer_ZIP_Code": "12468",
+                "Group_of_ZIP_Codes": "12468, 12469, 12470, 12471"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1062, 41.9278]
+            },
+            "properties": {
+                "Territory_ID": "NY-254",
+                "Primer_ZIP_Code": "12472",
+                "Group_of_ZIP_Codes": "12472, 12473, 12474, 12475"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1063, 41.9279]
+            },
+            "properties": {
+                "Territory_ID": "NY-255",
+                "Primer_ZIP_Code": "12477",
+                "Group_of_ZIP_Codes": "12477, 12480, 12481, 12482"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1064, 41.9280]
+            },
+            "properties": {
+                "Territory_ID": "NY-256",
+                "Primer_ZIP_Code": "12483",
+                "Group_of_ZIP_Codes": "12483, 12484, 12485, 12486"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1065, 41.9281]
+            },
+            "properties": {
+                "Territory_ID": "NY-257",
+                "Primer_ZIP_Code": "12487",
+                "Group_of_ZIP_Codes": "12487, 12489, 12490, 12491"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1066, 41.9282]
+            },
+            "properties": {
+                "Territory_ID": "NY-258",
+                "Primer_ZIP_Code": "12492",
+                "Group_of_ZIP_Codes": "12492, 12493, 12494, 12495"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9205, 41.7004]
+            },
+            "properties": {
+                "Territory_ID": "NY-259",
+                "Primer_ZIP_Code": "12496",
+                "Group_of_ZIP_Codes": "12496, 12498, 12501, 12503"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9206, 41.7005]
+            },
+            "properties": {
+                "Territory_ID": "NY-260",
+                "Primer_ZIP_Code": "12504",
+                "Group_of_ZIP_Codes": "12504, 12506, 12507, 12510"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9207, 41.7006]
+            },
+            "properties": {
+                "Territory_ID": "NY-261",
+                "Primer_ZIP_Code": "12511",
+                "Group_of_ZIP_Codes": "12511, 12513, 12514, 12515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9208, 41.7007]
+            },
+            "properties": {
+                "Territory_ID": "NY-262",
+                "Primer_ZIP_Code": "12516",
+                "Group_of_ZIP_Codes": "12516, 12517, 12518, 12520"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9209, 41.7008]
+            },
+            "properties": {
+                "Territory_ID": "NY-263",
+                "Primer_ZIP_Code": "12521",
+                "Group_of_ZIP_Codes": "12521, 12522, 12523, 12524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9210, 41.7009]
+            },
+            "properties": {
+                "Territory_ID": "NY-264",
+                "Primer_ZIP_Code": "12525",
+                "Group_of_ZIP_Codes": "12525, 12526, 12527, 12528"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9211, 41.7010]
+            },
+            "properties": {
+                "Territory_ID": "NY-265",
+                "Primer_ZIP_Code": "12529",
+                "Group_of_ZIP_Codes": "12529, 12530, 12531, 12533"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9212, 41.7011]
+            },
+            "properties": {
+                "Territory_ID": "NY-266",
+                "Primer_ZIP_Code": "12534",
+                "Group_of_ZIP_Codes": "12534, 12538, 12540, 12541"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9213, 41.7012]
+            },
+            "properties": {
+                "Territory_ID": "NY-267",
+                "Primer_ZIP_Code": "12542",
+                "Group_of_ZIP_Codes": "12542, 12543, 12544, 12545"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9214, 41.7013]
+            },
+            "properties": {
+                "Territory_ID": "NY-268",
+                "Primer_ZIP_Code": "12546",
+                "Group_of_ZIP_Codes": "12546, 12547, 12548, 12549"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1729, 41.1941]
+            },
+            "properties": {
+                "Territory_ID": "NY-269",
+                "Primer_ZIP_Code": "12550",
+                "Group_of_ZIP_Codes": "12550, 12551, 12553, 12555"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1730, 41.1942]
+            },
+            "properties": {
+                "Territory_ID": "NY-270",
+                "Primer_ZIP_Code": "12561",
+                "Group_of_ZIP_Codes": "12561, 12563, 12564, 12565"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1731, 41.1943]
+            },
+            "properties": {
+                "Territory_ID": "NY-271",
+                "Primer_ZIP_Code": "12566",
+                "Group_of_ZIP_Codes": "12566, 12567, 12568, 12569"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9215, 41.7014]
+            },
+            "properties": {
+                "Territory_ID": "NY-272",
+                "Primer_ZIP_Code": "12570",
+                "Group_of_ZIP_Codes": "12570, 12571, 12572, 12574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1732, 41.1944]
+            },
+            "properties": {
+                "Territory_ID": "NY-273",
+                "Primer_ZIP_Code": "12575",
+                "Group_of_ZIP_Codes": "12575, 12577, 12578, 12580"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9216, 41.7015]
+            },
+            "properties": {
+                "Territory_ID": "NY-274",
+                "Primer_ZIP_Code": "12581",
+                "Group_of_ZIP_Codes": "12581, 12582, 12583, 12585"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1733, 41.1945]
+            },
+            "properties": {
+                "Territory_ID": "NY-275",
+                "Primer_ZIP_Code": "12586",
+                "Group_of_ZIP_Codes": "12586, 12588, 12589, 12590"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9217, 41.7016]
+            },
+            "properties": {
+                "Territory_ID": "NY-276",
+                "Primer_ZIP_Code": "12592",
+                "Group_of_ZIP_Codes": "12592, 12594, 12601, 12603"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6895, 41.4039]
+            },
+            "properties": {
+                "Territory_ID": "NY-277",
+                "Primer_ZIP_Code": "12701",
+                "Group_of_ZIP_Codes": "12701, 12719, 12720, 12721"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6896, 41.4040]
+            },
+            "properties": {
+                "Territory_ID": "NY-278",
+                "Primer_ZIP_Code": "12722",
+                "Group_of_ZIP_Codes": "12722, 12723, 12724, 12725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6897, 41.4041]
+            },
+            "properties": {
+                "Territory_ID": "NY-279",
+                "Primer_ZIP_Code": "12726",
+                "Group_of_ZIP_Codes": "12726, 12727, 12729, 12732"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6898, 41.4042]
+            },
+            "properties": {
+                "Territory_ID": "NY-280",
+                "Primer_ZIP_Code": "12733",
+                "Group_of_ZIP_Codes": "12733, 12734, 12736, 12737"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6899, 41.4043]
+            },
+            "properties": {
+                "Territory_ID": "NY-281",
+                "Primer_ZIP_Code": "12738",
+                "Group_of_ZIP_Codes": "12738, 12740, 12741, 12742"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6900, 41.4044]
+            },
+            "properties": {
+                "Territory_ID": "NY-282",
+                "Primer_ZIP_Code": "12743",
+                "Group_of_ZIP_Codes": "12743, 12745, 12746, 12747"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6901, 41.4045]
+            },
+            "properties": {
+                "Territory_ID": "NY-283",
+                "Primer_ZIP_Code": "12748",
+                "Group_of_ZIP_Codes": "12748, 12749, 12750, 12751"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6902, 41.4046]
+            },
+            "properties": {
+                "Territory_ID": "NY-284",
+                "Primer_ZIP_Code": "12752",
+                "Group_of_ZIP_Codes": "12752, 12754, 12758, 12759"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6903, 41.4047]
+            },
+            "properties": {
+                "Territory_ID": "NY-285",
+                "Primer_ZIP_Code": "12760",
+                "Group_of_ZIP_Codes": "12760, 12762, 12763, 12764"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6904, 41.4048]
+            },
+            "properties": {
+                "Territory_ID": "NY-286",
+                "Primer_ZIP_Code": "12765",
+                "Group_of_ZIP_Codes": "12765, 12766, 12767, 12768"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6905, 41.4049]
+            },
+            "properties": {
+                "Territory_ID": "NY-287",
+                "Primer_ZIP_Code": "12769",
+                "Group_of_ZIP_Codes": "12769, 12770, 12771, 12775"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6906, 41.4050]
+            },
+            "properties": {
+                "Territory_ID": "NY-288",
+                "Primer_ZIP_Code": "12776",
+                "Group_of_ZIP_Codes": "12776, 12777, 12778, 12779"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6907, 41.4051]
+            },
+            "properties": {
+                "Territory_ID": "NY-289",
+                "Primer_ZIP_Code": "12780",
+                "Group_of_ZIP_Codes": "12780, 12781, 12783, 12784"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6908, 41.4052]
+            },
+            "properties": {
+                "Territory_ID": "NY-290",
+                "Primer_ZIP_Code": "12785",
+                "Group_of_ZIP_Codes": "12785, 12786, 12787, 12788"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.6909, 41.4053]
+            },
+            "properties": {
+                "Territory_ID": "NY-291",
+                "Primer_ZIP_Code": "12789",
+                "Group_of_ZIP_Codes": "12789, 12790, 12791, 12792"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5845, 43.102]
+            },
+            "properties": {
+                "Territory_ID": "NY-292",
+                "Primer_ZIP_Code": "12801",
+                "Group_of_ZIP_Codes": "12801, 12803, 12804, 12808"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5846, 43.1021]
+            },
+            "properties": {
+                "Territory_ID": "NY-293",
+                "Primer_ZIP_Code": "12809",
+                "Group_of_ZIP_Codes": "12809, 12810, 12811, 12812"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5847, 43.1022]
+            },
+            "properties": {
+                "Territory_ID": "NY-294",
+                "Primer_ZIP_Code": "12814",
+                "Group_of_ZIP_Codes": "12814, 12815, 12816, 12817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5848, 43.1023]
+            },
+            "properties": {
+                "Territory_ID": "NY-295",
+                "Primer_ZIP_Code": "12819",
+                "Group_of_ZIP_Codes": "12819, 12820, 12821, 12822"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.7955, 32.8314]
+            },
+            "properties": {
+                "Territory_ID": "NY-296",
+                "Primer_ZIP_Code": "91901",
+                "Group_of_ZIP_Codes": "91901, 91910, 91911"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.9844, 32.651]
+            },
+            "properties": {
+                "Territory_ID": "NY-297",
+                "Primer_ZIP_Code": "91913",
+                "Group_of_ZIP_Codes": "91913, 91914, 91915"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.0327, 32.5787]
+            },
+            "properties": {
+                "Territory_ID": "NY-298",
+                "Primer_ZIP_Code": "91932",
+                "Group_of_ZIP_Codes": "91932, 91950, 91977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.3232, 33.1459]
+            },
+            "properties": {
+                "Territory_ID": "NY-299",
+                "Primer_ZIP_Code": "92008",
+                "Group_of_ZIP_Codes": "92008, 92009, 92010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.9733, 32.7937]
+            },
+            "properties": {
+                "Territory_ID": "NY-300",
+                "Primer_ZIP_Code": "92020",
+                "Group_of_ZIP_Codes": "92020, 92021, 92040"
+            }
         }
+    ]
+}
     ]
 }
