@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "features": [
+    "features": 
         {
             "type": "Feature",
             "geometry": {
@@ -2402,6 +2402,5 @@
             "Group_of_ZIP_Codes": "92020, 92021, 92040"
         }
     }
-]
     ]
 }
