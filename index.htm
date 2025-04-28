@@ -1,12 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
     <title>Mapa SOLC - Territorios</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <style>
         #map { height: 600px; width: 100%; }
@@ -24,23 +21,24 @@
         }).addTo(map);
 
         // Cargar el GeoJSON desde un archivo externo
-        $.getJSON("data.geojson", function(data) {
-            var markers = L.markerClusterGroup();
-            L.geoJSON(data, {
-                onEachFeature: function (feature, layer) {
-                    layer.bindPopup(
-                        "<b>Territory:</b> " + feature.properties.Territory_ID +
-                        "<br><b>State:</b> " + feature.properties.State +
-                        "<br><b>Group of ZIP Codes:</b> " + feature.properties.Group_of_ZIP_Codes +
-                        "<br><b>Population:</b> " + feature.properties.Total_Population +
-                        "<br><b>Cities:</b> " + feature.properties.Major_Cities +
-                        "<br><b>Cannabis Friendly:</b> " + feature.properties.Cannabis_Friendly
-                    );
-                    layer.bindTooltip(feature.properties.Territory_ID, { sticky: true });
-                }
-            }).addTo(markers);
-            markers.addTo(map);
-        });
+        $.getJSON("data.geojson")
+            .done(function(data) {
+                L.geoJSON(data, {
+                    onEachFeature: function (feature, layer) {
+                        layer.bindPopup(
+                            "<b>Territorio:</b> " + feature.properties.Territory_ID +
+                            "<br><b>ZIP Principal:</b> " + feature.properties.Primer_ZIP_Code +
+                            "<br><b>Grupo de ZIPs:</b> " + feature.properties.Group_of_ZIP_Codes +
+                            "<br><a href='https://spiceoflifecannabis.com/canna-friendly-usa-territories/#" + feature.properties.Territory_ID + "' target='_blank'>Ver Detalles</a>"
+                        );
+                        layer.bindTooltip(feature.properties.Territory_ID, { sticky: true });
+                    }
+                }).addTo(map);
+            })
+            .fail(function(jqXHR, textStatus, errorThrown) {
+                console.error("Error al cargar el archivo GeoJSON: ", textStatus, errorThrown);
+                alert("No se pudo cargar el archivo data.geojson. Asegúrate de que el archivo esté en el directorio correcto y de que estés ejecutando esto desde un servidor web (como GitHub Pages).");
+            });
     </script>
 </body>
 </html>
